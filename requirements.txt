@@ -7,3 +7,4 @@ streamlit
 wordcloud
 scikit-learn
 joblib
+xgboost
