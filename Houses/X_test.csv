@@ -1,0 +1,1420 @@
+,Bath(s),Area(Marla),Bedroom(s),Servant Quarters,Kitchens,Store Rooms,Storey Unit,Main Location,IsPrimeLoc,SolarInstalled,WaterBore,CornerHouse,luxury_type,Property era
+2758,6.0,5.0,6.0,1.0,1.0,1.0,1.0,B-17,False,False,False,True,0,Recently Built
+4047,6.0,12.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,True,0,Recently Built
+2910,5.0,9.0,5.0,1.0,2.0,1.0,2.0,PWD Housing Scheme,False,False,False,False,0,Brand New (2025)
+3425,8.0,20.0,8.0,2.0,2.0,2.0,3.0,F-11,False,False,False,True,0,Recently Built
+5440,7.0,20.0,6.0,2.0,2.0,1.0,2.0,DHA Phase 2,True,True,False,False,0,Brand New (2025)
+3879,6.0,11.0,6.0,1.0,2.0,1.0,2.0,D-12,True,False,False,False,0,Recently Built
+2658,4.0,7.0,4.0,1.0,2.0,2.0,2.0,F-11,False,True,False,False,0,Modern Era
+2028,4.0,5.0,4.0,1.0,1.0,1.0,2.0,National Police Foundation O-9,False,False,False,False,0,Brand New (2025)
+3850,5.0,11.0,6.0,2.0,1.0,1.0,2.0,F-6,False,False,True,False,0,Vintage
+2370,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 3,False,False,False,False,0,Brand New (2025)
+427,6.0,10.0,5.0,1.0,1.0,1.0,2.0,Bahria Town,False,True,True,False,1,Recently Built
+5980,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Gulberg Residencia,False,False,False,False,1,Brand New (2025)
+6318,6.0,40.0,5.0,2.0,2.0,2.0,1.0,F-7,True,False,False,False,0,Recently Built
+3299,3.0,5.0,3.0,1.0,1.0,1.0,2.0,Lehtrar Road,False,False,False,False,0,Recently Built
+6397,6.0,8.0,4.0,2.0,2.0,2.0,2.0,F-17,False,False,False,False,0,Modern Era
+3819,2.0,4.0,2.0,1.0,2.0,1.0,1.0,Ghauri Town,False,False,False,False,0,Brand New (2025)
+2892,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+426,6.0,10.0,6.0,1.0,1.0,1.0,2.0,Top City 1,False,False,False,False,1,Brand New (2025)
+4888,6.0,8.0,6.0,1.0,1.0,2.0,1.0,B-17,False,False,False,False,0,Brand New (2025)
+2480,4.0,4.0,4.0,1.0,2.0,1.0,2.0,I-10,False,False,False,False,0,Recently Built
+5782,6.0,20.0,5.0,2.0,1.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+5268,6.0,20.0,9.0,1.0,3.0,1.0,1.0,E-11,False,False,False,False,0,Recently Built
+1838,6.0,10.0,5.0,1.0,1.0,1.0,1.0,Bahria Town,False,False,False,False,0,Future
+3227,6.0,20.0,5.0,1.0,1.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Recently Built
+2739,4.0,5.0,4.0,1.0,1.0,1.0,2.0,B-17,False,False,False,False,0,Recently Built
+2355,6.0,7.0,7.0,1.0,2.0,1.0,2.0,FECHS,False,False,False,False,0,Brand New (2025)
+3110,7.0,20.0,8.0,2.0,3.0,1.0,3.0,D-12,False,False,False,False,0,Recently Built
+4548,6.0,20.0,5.0,2.0,2.0,1.0,1.0,DHA Phase 2,False,False,False,False,0,Recently Built
+2653,6.0,13.0,4.0,1.0,1.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+222,7.0,26.0,7.0,2.0,2.0,2.0,2.0,G-14,True,False,False,False,0,Brand New (2025)
+5846,6.0,10.0,5.0,1.0,1.0,1.0,2.0,Top City 1,True,False,False,False,1,Established
+1291,6.0,10.0,7.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+5694,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Recently Built
+2926,6.0,9.0,5.0,1.0,2.0,1.0,2.0,D-17,False,False,True,False,0,Brand New (2025)
+3566,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Recently Built
+511,6.0,5.0,6.0,1.0,1.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+3888,6.0,12.0,6.0,2.0,3.0,1.0,2.0,G-15,False,False,False,False,0,Recently Built
+2239,6.0,20.0,6.0,1.0,1.0,1.0,2.0,Naval Anchorage,False,False,True,False,0,Modern Era
+1042,6.0,8.0,6.0,1.0,2.0,1.0,3.0,Faisal Town Phase 1,True,False,False,False,0,Brand New (2025)
+2847,3.0,6.0,2.0,1.0,1.0,1.0,3.0,Gulberg Greens,False,False,False,False,0,Recently Built
+3462,5.0,6.0,4.0,1.0,2.0,1.0,2.0,G-11,False,False,True,True,0,Modern Era
+275,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Recently Built
+4926,4.0,5.0,4.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+198,6.0,8.0,5.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+4809,4.0,4.0,3.0,1.0,1.0,1.0,1.0,D-12,True,False,False,True,0,Recently Built
+238,5.0,6.0,5.0,1.0,2.0,1.0,2.0,G-14,True,False,False,False,0,Brand New (2025)
+3211,2.0,5.0,2.0,2.0,1.0,2.0,1.0,DHA Valley,True,False,False,False,0,Brand New (2025)
+3972,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+2675,6.0,20.0,6.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+3482,6.0,10.0,7.0,1.0,2.0,1.0,2.0,G-14,False,False,False,False,0,Brand New (2025)
+2149,6.0,10.0,6.0,1.0,2.0,1.0,1.0,DHA Phase 2,False,False,False,False,0,Modern Era
+444,7.0,15.0,7.0,1.0,1.0,1.0,3.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+2833,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Recently Built
+5271,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+2639,7.0,10.0,6.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+1879,7.0,6.0,7.0,1.0,2.0,1.0,2.0,Ghauri Town,False,False,True,False,0,Recently Built
+890,6.0,20.0,6.0,1.0,2.0,1.0,2.0,Bahria Town,True,False,False,False,0,Brand New (2025)
+4865,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Jinnah Gardens,False,False,False,False,0,Future
+5329,2.0,4.0,2.0,1.0,2.0,1.0,1.0,Ghauri Town,False,False,False,False,1,Brand New (2025)
+147,6.0,6.0,5.0,1.0,2.0,1.0,2.0,I-11,False,False,False,False,0,Brand New (2025)
+673,6.0,20.0,5.0,2.0,2.0,1.0,2.0,F-8,False,False,False,False,1,Recently Built
+5136,4.0,10.0,4.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,0,Modern Era
+3131,6.0,8.0,5.0,1.0,2.0,2.0,1.0,Faisal Hills,False,False,False,False,0,Brand New (2025)
+3524,6.0,14.0,6.0,2.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+1138,7.0,24.0,7.0,2.0,2.0,2.0,3.0,F-7,False,False,False,False,0,Brand New (2025)
+4146,6.0,8.0,5.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Modern Era
+93,5.0,20.0,5.0,1.0,1.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Recently Built
+2418,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+5836,7.0,20.0,7.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,True,0,Brand New (2025)
+6443,2.0,5.0,2.0,1.0,2.0,1.0,2.0,Alipur Farash,False,False,True,False,0,Brand New (2025)
+741,6.0,12.0,6.0,2.0,2.0,2.0,2.0,I-8,False,False,False,False,0,Modern Era
+3867,6.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,1,Brand New (2025)
+2404,4.0,6.0,4.0,1.0,2.0,1.0,2.0,G-10,False,False,False,False,0,Brand New (2025)
+4159,4.0,5.0,4.0,1.0,2.0,1.0,2.0,I-14,False,False,False,False,0,Brand New (2025)
+4979,2.0,5.0,2.0,1.0,1.0,1.0,1.0,Bani Gala,False,False,True,False,1,Brand New (2025)
+3914,6.0,7.0,5.0,1.0,3.0,1.0,2.0,Soan Garden,False,False,True,False,1,Brand New (2025)
+3684,4.0,5.0,3.0,1.0,1.0,1.0,1.0,MPCHS - Multi Gardens,False,False,False,True,1,Brand New (2025)
+5597,6.0,14.0,6.0,1.0,2.0,1.0,2.0,G-9,True,False,False,False,0,Brand New (2025)
+1668,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,True,False,False,False,0,Recently Built
+4819,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+720,5.0,10.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,False,False,0,Brand New (2025)
+1271,6.0,20.0,5.0,2.0,2.0,1.0,2.0,F-8,False,False,False,True,0,Recently Built
+166,5.0,7.0,4.0,1.0,2.0,1.0,1.0,Gulberg Greens,True,False,False,False,0,Brand New (2025)
+4801,3.0,5.0,3.0,1.0,1.0,1.0,1.0,E-18,False,False,False,False,0,Brand New (2025)
+4068,8.0,20.0,7.0,2.0,2.0,1.0,2.0,F-8,False,False,True,False,0,Modern Era
+441,7.0,7.0,5.0,1.0,1.0,1.0,2.0,G-10,False,False,False,False,0,Brand New (2025)
+3155,7.0,14.0,7.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+4754,3.0,8.0,2.0,1.0,1.0,1.0,1.0,Jinnah Gardens,False,False,True,False,0,Brand New (2025)
+4104,6.0,8.0,5.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+3371,6.0,20.0,6.0,1.0,2.0,1.0,2.0,Soan Garden,False,False,False,False,0,Recently Built
+1158,3.0,8.0,3.0,1.0,2.0,1.0,2.0,DHA Valley,False,False,False,False,0,Brand New (2025)
+6063,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+213,6.0,5.0,4.0,1.0,2.0,2.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+5396,5.0,11.0,5.0,1.0,2.0,1.0,3.0,Bahria Enclave,True,False,False,False,0,Recently Built
+2313,5.0,20.0,5.0,2.0,2.0,1.0,1.0,D-12,False,True,True,False,0,Recently Built
+1918,4.0,5.0,4.0,1.0,1.0,1.0,2.0,Faisal Town Phase 1,False,False,True,False,0,Brand New (2025)
+1150,6.0,22.0,6.0,1.0,3.0,1.0,1.0,F-7,False,False,False,False,0,Brand New (2025)
+3672,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Mumtaz City,False,False,False,False,0,Recently Built
+5523,3.0,8.0,2.0,1.0,1.0,1.0,2.0,G-16,False,False,True,True,1,Recently Built
+2221,5.0,5.0,5.0,1.0,2.0,1.0,3.0,B-17,True,False,False,True,1,Recently Built
+132,7.0,20.0,7.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+4883,5.0,8.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,1,Established
+2622,2.0,4.0,3.0,1.0,1.0,1.0,1.0,Bhara kahu,False,False,False,False,1,Brand New (2025)
+3288,7.0,20.0,6.0,2.0,2.0,1.0,2.0,G-13,True,False,True,False,1,Brand New (2025)
+694,5.0,10.0,4.0,1.0,2.0,1.0,2.0,F-11,False,False,False,False,0,Recently Built
+206,4.0,5.0,4.0,2.0,2.0,2.0,2.0,Gulberg Residencia,False,False,True,False,0,Brand New (2025)
+3907,6.0,7.0,6.0,1.0,2.0,1.0,2.0,Ghauri Town,False,False,False,False,0,Recently Built
+3393,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,True,1,Brand New (2025)
+1666,2.0,5.0,2.0,1.0,1.0,1.0,1.0,DHA Valley,False,False,False,False,1,Recently Built
+4418,4.0,4.0,5.0,1.0,2.0,2.0,1.0,I-10,False,False,False,False,0,Recently Built
+5819,7.0,8.0,6.0,1.0,2.0,1.0,2.0,F-17,False,False,False,False,0,Brand New (2025)
+1671,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+932,6.0,20.0,5.0,2.0,3.0,1.0,2.0,DHA Phase 2,True,False,False,False,0,Modern Era
+205,6.0,20.0,7.0,1.0,2.0,1.0,2.0,E-11,False,False,False,False,0,Recently Built
+2349,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+2292,6.0,12.0,6.0,1.0,2.0,1.0,1.0,G-16,False,False,False,False,0,Recently Built
+4705,4.0,8.0,4.0,1.0,2.0,1.0,2.0,Kuri Road,False,False,False,False,0,Brand New (2025)
+864,6.0,42.0,5.0,2.0,2.0,1.0,1.0,F-6,False,False,False,False,0,Recently Built
+859,6.0,14.0,6.0,1.0,2.0,1.0,2.0,I-8,False,False,False,False,0,Recently Built
+23,4.0,4.0,4.0,1.0,1.0,1.0,2.0,D-12,False,False,True,False,0,Modern Era
+2058,5.0,5.0,4.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+445,6.0,20.0,7.0,1.0,2.0,1.0,1.0,D-12,False,False,False,True,0,Brand New (2025)
+4100,7.0,20.0,5.0,2.0,2.0,1.0,3.0,D-12,True,False,False,False,1,Recently Built
+5540,5.0,8.0,5.0,1.0,2.0,1.0,2.0,Kuri Road,False,False,False,False,1,Modern Era
+204,7.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+540,5.0,5.0,3.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+2054,2.0,5.0,2.0,1.0,1.0,1.0,1.0,DHA Valley,True,False,False,False,0,Recently Built
+3146,6.0,14.0,6.0,1.0,2.0,2.0,2.0,I-8,True,False,False,False,0,Recently Built
+2649,6.0,8.0,5.0,1.0,2.0,2.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+4904,6.0,14.0,6.0,1.0,2.0,1.0,2.0,I-8,True,False,False,False,0,Recently Built
+5075,6.0,24.0,5.0,1.0,2.0,1.0,1.0,F-8,False,False,False,False,0,Modern Era
+5397,6.0,20.0,6.0,1.0,2.0,1.0,2.0,Naval Anchorage,False,False,False,False,0,Brand New (2025)
+2255,5.0,10.0,4.0,1.0,2.0,2.0,2.0,Tarnol,False,False,False,False,0,Brand New (2025)
+3866,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Recently Built
+3807,10.0,20.0,9.0,2.0,3.0,2.0,3.0,D-12,False,False,False,False,0,Recently Built
+3000,4.0,11.0,3.0,2.0,2.0,2.0,1.0,DHA Phase 1,False,False,False,False,0,Established
+3923,5.0,8.0,5.0,1.0,1.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Modern Era
+453,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,True,False,False,0,Brand New (2025)
+4271,6.0,10.0,6.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+3534,2.0,3.0,2.0,1.0,1.0,1.0,1.0,Bhara kahu,False,False,False,False,1,Brand New (2025)
+1829,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+2971,6.0,5.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 5,True,False,False,False,0,Brand New (2025)
+3620,4.0,4.0,4.0,2.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Modern Era
+6093,6.0,20.0,5.0,1.0,2.0,1.0,3.0,Kashmir Highway,False,False,False,False,0,Modern Era
+1506,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+2080,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+4822,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+2663,6.0,16.0,6.0,1.0,2.0,1.0,2.0,D-17,False,False,False,False,0,Recently Built
+5312,4.0,8.0,4.0,1.0,1.0,1.0,2.0,Kuri Road,False,False,False,False,0,Modern Era
+2875,5.0,10.0,5.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Recently Built
+3417,6.0,7.0,6.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+2553,6.0,14.0,6.0,1.0,2.0,1.0,2.0,I-8,False,False,False,False,0,Established
+3285,6.0,10.0,5.0,1.0,2.0,1.0,1.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+4099,4.0,5.0,3.0,1.0,2.0,1.0,2.0,Bahria Town,True,False,False,False,0,Brand New (2025)
+2191,6.0,10.0,6.0,1.0,2.0,1.0,2.0,Chatha Bakhtawar,False,False,True,False,1,Modern Era
+3194,6.0,10.0,6.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+5407,6.0,20.0,8.0,1.0,2.0,1.0,3.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+677,5.0,5.0,5.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+309,6.0,20.0,8.0,1.0,3.0,2.0,3.0,DHA Phase 1,True,False,False,False,0,Modern Era
+234,6.0,10.0,6.0,2.0,2.0,2.0,2.0,G-13,False,False,False,False,0,Modern Era
+6022,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,1,Brand New (2025)
+207,5.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 5,False,False,False,False,1,Brand New (2025)
+3796,4.0,7.0,4.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,1,Brand New (2025)
+2697,4.0,10.0,4.0,1.0,2.0,2.0,2.0,I-10,False,False,False,False,1,Recently Built
+3817,7.0,14.0,7.0,1.0,2.0,1.0,2.0,D-17,False,False,True,False,0,Brand New (2025)
+4056,6.0,14.0,6.0,2.0,2.0,2.0,2.0,G-9,False,False,False,False,0,Modern Era
+5718,6.0,8.0,6.0,1.0,2.0,1.0,2.0,G-16,True,False,False,False,0,Recently Built
+5587,6.0,26.0,5.0,1.0,1.0,2.0,2.0,F-7,False,False,False,False,0,Recently Built
+11,4.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+1152,5.0,26.0,5.0,2.0,1.0,1.0,2.0,F-7,False,False,False,True,0,Recently Built
+3549,7.0,12.0,6.0,1.0,2.0,1.0,2.0,PWD Housing Scheme,False,True,False,True,1,Brand New (2025)
+4333,6.0,20.0,5.0,2.0,2.0,2.0,2.0,Kashmir Highway,False,False,False,False,1,Recently Built
+6242,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,True,False,0,Recently Built
+3777,4.0,5.0,4.0,1.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Recently Built
+1134,6.0,7.0,4.0,1.0,2.0,1.0,2.0,Gulberg Residencia,False,False,False,False,1,Brand New (2025)
+379,3.0,4.0,3.0,1.0,1.0,1.0,1.0,D-12,False,False,False,False,0,Brand New (2025)
+5851,6.0,10.0,6.0,1.0,2.0,1.0,2.0,G-13,False,False,True,False,0,Recently Built
+3760,4.0,7.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,True,True,1,Brand New (2025)
+1674,6.0,24.0,8.0,2.0,2.0,2.0,3.0,DHA Phase 2,False,False,False,False,0,Recently Built
+2792,6.0,4.0,5.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+804,3.0,20.0,3.0,1.0,1.0,1.0,2.0,Pir Sohawa,False,False,False,False,1,Brand New (2025)
+3956,6.0,20.0,6.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,True,0,Brand New (2025)
+4014,5.0,7.0,5.0,1.0,2.0,1.0,2.0,F-17,False,False,False,False,0,Brand New (2025)
+742,4.0,14.0,4.0,1.0,1.0,1.0,2.0,I-8,False,False,False,False,0,Established
+2132,6.0,14.0,9.0,1.0,2.0,1.0,3.0,G-13,False,False,True,True,1,Brand New (2025)
+3551,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+1438,5.0,8.0,4.0,1.0,2.0,2.0,2.0,Bahria Enclave,True,False,False,False,0,Brand New (2025)
+1292,6.0,14.0,6.0,1.0,2.0,1.0,1.0,MPCHS - Multi Gardens,False,True,False,True,0,Brand New (2025)
+1317,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+2308,7.0,14.0,6.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+5520,4.0,7.0,4.0,1.0,2.0,1.0,2.0,G-9,False,False,True,False,1,Recently Built
+3953,5.0,7.0,4.0,1.0,2.0,1.0,2.0,F-11,False,False,False,False,0,Recently Built
+892,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,1,Recently Built
+4763,7.0,20.0,6.0,2.0,2.0,1.0,1.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+4774,7.0,20.0,9.0,1.0,2.0,1.0,3.0,F-11,True,False,False,True,0,Vintage
+1024,5.0,6.0,5.0,2.0,2.0,2.0,1.0,I-10,False,False,False,False,0,Recently Built
+4586,7.0,5.0,5.0,1.0,2.0,1.0,3.0,H-13,True,False,False,False,0,Brand New (2025)
+2282,7.0,20.0,9.0,1.0,2.0,1.0,2.0,D-12,True,False,False,False,0,Recently Built
+2113,6.0,7.0,6.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+4260,4.0,7.0,6.0,1.0,2.0,1.0,2.0,G-15,False,False,False,False,1,Brand New (2025)
+1552,6.0,20.0,6.0,2.0,2.0,1.0,2.0,Soan Garden,True,False,False,False,0,Brand New (2025)
+1787,5.0,5.0,5.0,1.0,1.0,1.0,2.0,Gulberg Greens,False,False,False,False,0,Recently Built
+6010,5.0,4.0,4.0,2.0,2.0,1.0,2.0,G-13,False,False,True,False,0,Brand New (2025)
+1009,6.0,6.0,6.0,1.0,2.0,1.0,2.0,Soan Garden,False,False,False,False,0,Brand New (2025)
+3276,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,True,False,False,False,0,Recently Built
+648,6.0,22.0,8.0,1.0,2.0,1.0,2.0,G-16,False,False,False,False,1,Recently Built
+118,6.0,6.0,5.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+1221,6.0,42.0,5.0,2.0,2.0,1.0,1.0,F-6,False,False,False,False,0,Recently Built
+419,6.0,7.0,5.0,1.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+2410,4.0,7.0,4.0,1.0,2.0,1.0,2.0,F-11,False,False,False,False,0,Recently Built
+4208,5.0,14.0,5.0,1.0,1.0,1.0,2.0,G-9,False,False,False,False,0,Brand New (2025)
+1063,3.0,3.0,5.0,1.0,2.0,1.0,3.0,G-11,False,False,False,False,0,Modern Era
+2347,4.0,5.0,4.0,1.0,2.0,1.0,2.0,Bahria Enclave,True,False,False,False,0,Recently Built
+1878,5.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+1543,6.0,14.0,7.0,1.0,3.0,1.0,3.0,D-12,False,False,False,False,0,Brand New (2025)
+4464,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 5,True,False,False,False,0,Brand New (2025)
+375,4.0,7.0,4.0,1.0,2.0,1.0,2.0,I-14,False,False,False,False,1,Brand New (2025)
+5892,5.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+6229,6.0,8.0,4.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Recently Built
+1601,3.0,4.0,3.0,1.0,3.0,3.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+451,2.0,5.0,2.0,1.0,1.0,1.0,1.0,DHA Valley,False,False,False,False,1,Recently Built
+2870,5.0,5.0,4.0,1.0,1.0,1.0,1.0,Park View City,False,False,False,False,0,Recently Built
+1242,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+3720,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Modern Era
+5693,5.0,4.0,4.0,1.0,1.0,1.0,2.0,G-13,True,False,True,False,0,Recently Built
+3232,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,True,False,0,Recently Built
+5503,4.0,6.0,4.0,2.0,1.0,2.0,2.0,G-9,True,False,False,True,0,Vintage
+2203,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+863,6.0,8.0,5.0,2.0,2.0,1.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+243,6.0,8.0,6.0,1.0,2.0,1.0,2.0,G-13,True,False,False,False,0,Recently Built
+679,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+3059,4.0,5.0,4.0,1.0,2.0,1.0,2.0,D-12,False,True,False,False,1,Brand New (2025)
+5122,5.0,40.0,5.0,2.0,1.0,1.0,2.0,F-6,False,False,False,False,1,Recently Built
+6327,6.0,10.0,5.0,1.0,2.0,1.0,1.0,Bahria Town,False,False,False,False,1,Brand New (2025)
+3829,6.0,20.0,6.0,2.0,2.0,2.0,2.0,F-11,False,False,False,False,1,Established
+4149,6.0,10.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+614,6.0,17.0,7.0,1.0,2.0,2.0,2.0,Soan Garden,False,False,False,False,1,Recently Built
+1160,6.0,20.0,7.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+247,6.0,5.0,4.0,1.0,2.0,2.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+1733,5.0,6.0,4.0,1.0,1.0,1.0,3.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+5792,5.0,8.0,5.0,1.0,2.0,1.0,2.0,G-11,True,False,True,False,0,Modern Era
+2121,5.0,5.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,False,False,1,Brand New (2025)
+29,7.0,20.0,9.0,1.0,2.0,1.0,2.0,Margalla View Housing Society,False,False,True,False,0,Modern Era
+3413,6.0,10.0,7.0,1.0,2.0,1.0,2.0,G-14,False,False,False,False,0,Brand New (2025)
+4034,7.0,46.0,7.0,2.0,2.0,2.0,1.0,F-6,False,False,True,False,0,Vintage
+3214,6.0,10.0,6.0,2.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+6029,4.0,6.0,4.0,1.0,2.0,1.0,2.0,E-18,False,False,False,False,1,Brand New (2025)
+922,6.0,20.0,6.0,2.0,2.0,1.0,1.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+997,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+3148,5.0,10.0,5.0,1.0,1.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+4128,6.0,20.0,6.0,1.0,2.0,1.0,1.0,Naval Anchorage,False,False,False,False,0,Brand New (2025)
+1708,5.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+5094,5.0,18.0,5.0,2.0,2.0,1.0,2.0,F-8,False,False,False,False,0,Recently Built
+4043,6.0,8.0,6.0,1.0,2.0,2.0,1.0,Mumtaz City,False,False,False,False,0,Recently Built
+3599,6.0,18.0,6.0,1.0,1.0,1.0,3.0,F-11,False,False,False,False,0,Modern Era
+5729,6.0,5.0,4.0,1.0,2.0,1.0,2.0,Jinnah Gardens,False,False,False,True,0,Future
+4721,6.0,7.0,7.0,1.0,2.0,1.0,2.0,Gulberg Residencia,False,False,False,False,1,Brand New (2025)
+2334,6.0,20.0,5.0,2.0,2.0,1.0,2.0,F-8,False,False,False,False,1,Recently Built
+3325,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,False,False,True,False,0,Recently Built
+1148,5.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,True,True,0,Brand New (2025)
+1198,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 1,True,False,False,False,0,Recently Built
+2942,4.0,10.0,4.0,1.0,2.0,1.0,2.0,F-11,False,False,False,False,0,Modern Era
+814,6.0,8.0,4.0,2.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,False,0,Brand New (2025)
+3973,6.0,7.0,5.0,1.0,2.0,1.0,2.0,FECHS,False,False,False,False,1,Brand New (2025)
+2946,3.0,5.0,3.0,1.0,1.0,1.0,1.0,Bani Gala,False,False,True,False,1,Brand New (2025)
+1447,6.0,20.0,5.0,2.0,2.0,1.0,2.0,F-6,False,False,True,False,0,Vintage
+3153,6.0,20.0,6.0,1.0,2.0,2.0,1.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+5363,6.0,10.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+5517,4.0,7.0,4.0,1.0,2.0,1.0,2.0,I-10,False,False,False,False,0,Brand New (2025)
+845,5.0,5.0,4.0,2.0,1.0,1.0,2.0,Faisal Hills,True,False,False,False,0,Brand New (2025)
+1629,3.0,8.0,3.0,1.0,1.0,1.0,2.0,DHA Valley,False,False,False,False,1,Recently Built
+3085,6.0,40.0,5.0,2.0,1.0,1.0,2.0,DHA Phase 1,False,True,False,False,1,Recently Built
+2142,2.0,5.0,2.0,1.0,1.0,2.0,1.0,FECHS,False,False,False,False,0,Brand New (2025)
+1070,3.0,5.0,2.0,1.0,1.0,1.0,1.0,Bani Gala,False,False,False,False,1,Brand New (2025)
+4388,6.0,6.0,7.0,1.0,2.0,1.0,2.0,G-10,False,False,False,False,1,Brand New (2025)
+1693,5.0,10.0,5.0,1.0,1.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+3376,4.0,6.0,4.0,1.0,2.0,1.0,2.0,Pakistan Town,False,False,False,False,1,Brand New (2025)
+255,2.0,5.0,2.0,1.0,1.0,1.0,1.0,DHA Valley,False,False,False,False,1,Brand New (2025)
+1503,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,True,False,False,True,1,Recently Built
+284,6.0,5.0,5.0,1.0,1.0,1.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+5327,6.0,10.0,7.0,1.0,3.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+2490,5.0,42.0,5.0,2.0,2.0,1.0,2.0,E-7,False,False,False,False,0,Brand New (2025)
+3943,6.0,14.0,6.0,1.0,2.0,1.0,2.0,G-10,False,False,False,False,0,Brand New (2025)
+3222,4.0,4.0,4.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+5012,5.0,5.0,5.0,1.0,1.0,1.0,1.0,D-12,True,False,False,False,0,Brand New (2025)
+4851,7.0,10.0,6.0,1.0,2.0,1.0,2.0,Top City 1,True,False,False,False,1,Brand New (2025)
+1468,4.0,4.0,3.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Recently Built
+5929,4.0,8.0,4.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Modern Era
+3205,6.0,20.0,6.0,2.0,2.0,3.0,3.0,DHA Phase 2,True,True,False,False,0,Recently Built
+2152,5.0,8.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Modern Era
+2838,6.0,20.0,6.0,1.0,2.0,2.0,2.0,PWD Housing Scheme,True,False,False,False,0,Brand New (2025)
+3569,6.0,4.0,5.0,1.0,2.0,1.0,2.0,G-14,True,False,True,True,0,Brand New (2025)
+1092,3.0,4.0,3.0,1.0,1.0,1.0,2.0,Khanna Pul,False,False,False,False,0,Modern Era
+2791,6.0,30.0,6.0,1.0,1.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+3480,4.0,11.0,3.0,1.0,1.0,1.0,2.0,DHA Phase 1,False,False,False,False,0,Modern Era
+1075,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,1,Brand New (2025)
+456,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,True,False,False,0,Brand New (2025)
+527,5.0,5.0,5.0,1.0,2.0,1.0,3.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+5749,6.0,5.0,5.0,1.0,2.0,1.0,2.0,Thanda Pani,False,False,False,False,0,Established
+266,5.0,4.0,5.0,1.0,2.0,1.0,2.0,I-11,True,False,False,False,0,Brand New (2025)
+3193,5.0,8.0,4.0,1.0,2.0,1.0,2.0,Park View City,False,False,False,False,0,Recently Built
+1026,4.0,6.0,5.0,1.0,1.0,1.0,2.0,I-10,False,False,False,False,1,Recently Built
+5415,5.0,8.0,5.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,1,Brand New (2025)
+5706,7.0,20.0,9.0,2.0,3.0,2.0,3.0,F-11,False,False,False,True,0,Brand New (2025)
+2075,4.0,8.0,4.0,1.0,2.0,1.0,2.0,G-11,False,False,False,False,0,Brand New (2025)
+5015,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,1,Brand New (2025)
+4469,5.0,4.0,4.0,1.0,2.0,1.0,2.0,D-12,False,False,True,False,0,Brand New (2025)
+3344,6.0,5.0,5.0,1.0,2.0,1.0,2.0,Soan Garden,False,False,False,False,0,Brand New (2025)
+3811,6.0,7.0,4.0,1.0,2.0,1.0,2.0,Soan Garden,False,False,False,False,1,Brand New (2025)
+3784,6.0,5.0,5.0,1.0,2.0,1.0,2.0,D-12,True,False,True,False,0,Brand New (2025)
+2365,6.0,14.0,6.0,1.0,2.0,1.0,2.0,D-12,False,False,False,True,0,Recently Built
+43,6.0,8.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,True,0,Brand New (2025)
+4559,2.0,5.0,2.0,1.0,1.0,1.0,1.0,MPCHS - Multi Gardens,False,False,False,False,1,Brand New (2025)
+5214,6.0,10.0,7.0,1.0,2.0,1.0,2.0,Shaheen Town,False,False,False,False,0,Recently Built
+5317,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,True,False,False,0,Recently Built
+5842,6.0,20.0,5.0,1.0,2.0,1.0,2.0,Park View City,False,True,False,False,0,Future
+728,6.0,24.0,6.0,2.0,2.0,2.0,2.0,I-8,False,False,False,False,0,Established
+2466,4.0,8.0,4.0,1.0,1.0,1.0,2.0,G-11,False,False,False,False,0,Modern Era
+3258,6.0,14.0,6.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,0,Vintage
+5835,6.0,20.0,5.0,2.0,2.0,1.0,1.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+5619,6.0,7.0,5.0,1.0,2.0,1.0,2.0,FECHS,True,False,False,False,1,Brand New (2025)
+1949,6.0,14.0,7.0,1.0,2.0,1.0,2.0,B-17,True,False,True,False,1,Brand New (2025)
+725,6.0,24.0,5.0,2.0,2.0,1.0,2.0,I-8,False,False,False,False,0,Recently Built
+6288,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bani Gala,False,False,False,True,0,Brand New (2025)
+751,6.0,20.0,6.0,1.0,1.0,1.0,2.0,G-13,True,False,True,False,0,Modern Era
+1375,5.0,16.0,5.0,1.0,2.0,1.0,2.0,Kashmir Highway,False,False,False,False,0,Recently Built
+1859,5.0,14.0,5.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,0,Brand New (2025)
+1310,4.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,1,Brand New (2025)
+635,6.0,20.0,5.0,1.0,1.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+5961,5.0,20.0,5.0,2.0,2.0,1.0,3.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+339,6.0,7.0,4.0,1.0,2.0,1.0,2.0,F-17,False,False,False,False,0,Recently Built
+1700,6.0,11.0,5.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+2148,3.0,8.0,3.0,1.0,1.0,1.0,2.0,DHA Valley,False,False,False,False,1,Recently Built
+3083,4.0,5.0,3.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+4784,5.0,15.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,True,True,0,Brand New (2025)
+4301,6.0,20.0,6.0,2.0,2.0,1.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+5937,4.0,6.0,4.0,1.0,1.0,1.0,2.0,G-9,False,False,False,True,1,Brand New (2025)
+2290,5.0,7.0,4.0,1.0,2.0,1.0,2.0,CBR Town Phase 1,False,False,False,False,0,Brand New (2025)
+5297,6.0,26.0,5.0,2.0,2.0,1.0,2.0,F-7,False,False,False,False,0,Recently Built
+1833,6.0,32.0,9.0,1.0,1.0,1.0,2.0,F-7,False,False,False,False,0,Brand New (2025)
+2762,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Margalla View Housing Society,False,False,False,False,1,Modern Era
+2743,6.0,6.0,5.0,1.0,2.0,1.0,2.0,I-14,False,False,False,False,0,Brand New (2025)
+2724,6.0,20.0,6.0,1.0,1.0,2.0,2.0,F-10,False,False,False,True,0,Established
+6075,6.0,8.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,False,1,Brand New (2025)
+4518,6.0,26.0,7.0,2.0,2.0,1.0,3.0,F-11,False,False,False,False,0,Brand New (2025)
+6223,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Recently Built
+127,7.0,20.0,6.0,1.0,1.0,1.0,1.0,MPCHS - Multi Gardens,True,False,False,False,0,Modern Era
+1441,6.0,20.0,7.0,1.0,2.0,2.0,2.0,Top City 1,True,False,False,False,1,Brand New (2025)
+1911,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Recently Built
+1930,6.0,20.0,7.0,1.0,1.0,1.0,1.0,F-17,False,False,False,False,0,Brand New (2025)
+1831,7.0,22.0,6.0,2.0,2.0,1.0,2.0,F-7,False,False,False,False,1,Recently Built
+4135,6.0,10.0,5.0,1.0,3.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+2770,5.0,10.0,5.0,1.0,1.0,1.0,1.0,PWD Housing Scheme,False,False,False,False,0,Brand New (2025)
+431,6.0,20.0,6.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,True,False,False,0,Recently Built
+1427,7.0,50.0,8.0,2.0,2.0,1.0,1.0,F-7,False,False,True,False,0,Vintage
+2965,4.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Modern Era
+2757,5.0,8.0,5.0,1.0,1.0,2.0,1.0,F-17,False,False,False,True,0,Modern Era
+6373,4.0,7.0,4.0,1.0,2.0,1.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+4090,6.0,20.0,6.0,2.0,2.0,2.0,2.0,MPCHS - Multi Gardens,False,False,False,False,1,Brand New (2025)
+5772,5.0,10.0,5.0,1.0,1.0,1.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+2104,6.0,10.0,9.0,2.0,3.0,1.0,3.0,Bani Gala,True,False,False,False,0,Brand New (2025)
+3292,6.0,20.0,6.0,2.0,2.0,2.0,1.0,E-11,False,False,False,False,0,Recently Built
+1682,3.0,8.0,3.0,1.0,1.0,1.0,2.0,DHA Valley,False,False,False,False,1,Recently Built
+1990,6.0,22.0,5.0,1.0,1.0,1.0,2.0,F-7,False,False,False,False,0,Brand New (2025)
+4715,4.0,7.0,4.0,1.0,1.0,1.0,2.0,Jinnah Gardens,False,False,False,False,1,Future
+1760,6.0,7.0,5.0,1.0,2.0,1.0,2.0,G-13,False,False,True,False,0,Recently Built
+2582,6.0,10.0,5.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+5006,6.0,7.0,5.0,1.0,1.0,1.0,1.0,G-13,False,False,False,False,0,Recently Built
+5640,5.0,14.0,5.0,1.0,1.0,1.0,2.0,G-9,False,False,False,False,1,Recently Built
+1883,4.0,8.0,4.0,1.0,1.0,1.0,2.0,Bhara kahu,False,False,False,True,0,Brand New (2025)
+6193,7.0,42.0,6.0,2.0,2.0,1.0,2.0,F-7,False,False,False,False,0,Modern Era
+5776,4.0,5.0,3.0,1.0,1.0,1.0,2.0,B-17,False,False,False,False,0,Modern Era
+4786,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+4379,6.0,40.0,6.0,2.0,2.0,2.0,2.0,F-8,True,False,False,False,0,Modern Era
+2590,6.0,7.0,4.0,1.0,2.0,1.0,2.0,CBR Town Phase 1,False,False,False,False,1,Recently Built
+2609,6.0,8.0,6.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,1,Brand New (2025)
+6428,6.0,20.0,6.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,True,0,Modern Era
+1331,3.0,8.0,3.0,1.0,1.0,1.0,2.0,DHA Valley,False,False,False,False,0,Recently Built
+959,5.0,7.0,4.0,1.0,2.0,1.0,1.0,B-17,True,False,False,False,1,Brand New (2025)
+5421,7.0,20.0,6.0,2.0,2.0,1.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+5657,7.0,24.0,10.0,1.0,2.0,1.0,2.0,G-10,False,False,False,True,0,Recently Built
+92,6.0,20.0,6.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+3732,7.0,20.0,9.0,1.0,2.0,1.0,3.0,F-11,False,True,False,True,0,Brand New (2025)
+1319,3.0,9.0,3.0,1.0,1.0,1.0,1.0,Korang Town,False,False,False,False,1,Brand New (2025)
+3938,2.0,3.0,2.0,1.0,1.0,1.0,2.0,Taramrri,False,False,False,False,0,Recently Built
+3046,6.0,10.0,6.0,1.0,2.0,1.0,2.0,B-17,False,False,True,False,0,Recently Built
+477,6.0,10.0,5.0,1.0,1.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+3267,7.0,8.0,6.0,1.0,2.0,1.0,2.0,F-17,False,False,False,False,0,Brand New (2025)
+310,7.0,20.0,6.0,2.0,2.0,1.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+5918,6.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+1114,5.0,7.0,5.0,1.0,1.0,1.0,2.0,Mumtaz City,False,False,False,False,1,Recently Built
+2385,7.0,24.0,7.0,2.0,2.0,2.0,2.0,G-6,True,False,False,False,1,Recently Built
+794,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+4899,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Town,True,False,False,False,0,Brand New (2025)
+2807,6.0,30.0,6.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,False,False,0,Modern Era
+6310,6.0,8.0,6.0,2.0,2.0,2.0,2.0,Mumtaz City,False,False,False,False,0,Brand New (2025)
+808,6.0,20.0,6.0,1.0,2.0,1.0,2.0,F-11,False,False,False,False,0,Brand New (2025)
+2224,5.0,10.0,5.0,1.0,2.0,2.0,2.0,Top City 1,False,False,False,True,0,Brand New (2025)
+2052,2.0,3.0,2.0,2.0,1.0,2.0,1.0,Jhangi Syedan,False,False,False,False,0,Brand New (2025)
+861,6.0,12.0,7.0,1.0,2.0,1.0,2.0,I-8,False,False,False,False,0,Recently Built
+3098,6.0,20.0,6.0,1.0,2.0,2.0,1.0,DHA Phase 2,False,True,False,False,0,Recently Built
+6377,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,1,Brand New (2025)
+2182,6.0,24.0,6.0,2.0,2.0,2.0,1.0,G-10,False,False,False,True,0,Brand New (2025)
+827,6.0,10.0,5.0,1.0,2.0,1.0,1.0,Bahria Enclave,True,False,False,False,0,Brand New (2025)
+4432,4.0,18.0,4.0,2.0,2.0,1.0,2.0,F-6,False,False,False,True,0,Brand New (2025)
+78,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,True,False,False,False,0,Brand New (2025)
+4131,6.0,7.0,6.0,1.0,2.0,1.0,2.0,B-17,False,False,True,False,1,Brand New (2025)
+6045,6.0,5.0,5.0,1.0,2.0,1.0,2.0,I-14,False,False,False,False,0,Recently Built
+57,5.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+1043,6.0,8.0,7.0,1.0,2.0,2.0,3.0,Faisal Town Phase 1,True,False,False,False,1,Brand New (2025)
+1282,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 3,False,False,False,False,0,Brand New (2025)
+4955,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+5281,3.0,6.0,3.0,1.0,2.0,1.0,2.0,I-10,False,False,False,False,0,Recently Built
+20,6.0,7.0,5.0,1.0,2.0,2.0,2.0,CBR Town Phase 1,False,False,False,False,0,Recently Built
+4205,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+608,6.0,8.0,4.0,1.0,2.0,1.0,2.0,Mumtaz City,False,False,False,False,1,Recently Built
+5432,5.0,7.0,5.0,1.0,1.0,1.0,3.0,E-11,False,False,True,False,0,Recently Built
+784,6.0,11.0,5.0,1.0,2.0,1.0,1.0,DHA Phase 2,False,True,False,True,0,Future
+1753,4.0,5.0,3.0,1.0,1.0,1.0,2.0,DHA Phase 3,False,False,False,False,0,Brand New (2025)
+3264,7.0,10.0,6.0,1.0,3.0,1.0,3.0,Bahria Enclave,True,False,False,False,1,Recently Built
+2671,5.0,14.0,5.0,1.0,1.0,1.0,2.0,Kuri Road,False,False,False,False,0,Recently Built
+5023,6.0,10.0,6.0,1.0,2.0,1.0,1.0,G-13,False,False,False,False,0,Recently Built
+5876,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+4390,4.0,40.0,3.0,1.0,2.0,1.0,1.0,Naval Anchorage,True,False,True,False,0,Brand New (2025)
+4045,4.0,5.0,4.0,1.0,2.0,1.0,2.0,National Police Foundation O-9,False,False,False,False,1,Brand New (2025)
+3335,3.0,38.0,3.0,1.0,1.0,1.0,2.0,E-7,False,False,False,False,0,Brand New (2025)
+2615,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+1507,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+2243,7.0,26.0,6.0,2.0,2.0,1.0,2.0,F-7,False,False,False,False,1,Recently Built
+4081,3.0,7.0,2.0,1.0,1.0,1.0,1.0,Jinnah Gardens,False,False,False,False,1,Brand New (2025)
+2373,4.0,18.0,3.0,1.0,1.0,1.0,2.0,F-6,False,False,False,False,0,Recently Built
+3737,4.0,5.0,3.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Recently Built
+6370,2.0,4.0,2.0,1.0,2.0,1.0,2.0,Blue Area,False,False,False,False,0,Recently Built
+3225,6.0,26.0,5.0,2.0,1.0,1.0,2.0,F-6,True,False,False,False,0,Recently Built
+63,6.0,20.0,9.0,1.0,1.0,1.0,3.0,D-12,False,False,False,False,0,Brand New (2025)
+5254,4.0,5.0,3.0,1.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Recently Built
+4793,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+1485,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+4497,4.0,5.0,3.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+6168,6.0,40.0,6.0,1.0,1.0,1.0,2.0,F-10,True,False,False,False,0,Vintage
+1243,4.0,5.0,3.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+3778,7.0,32.0,6.0,2.0,2.0,2.0,2.0,E-7,False,False,False,False,1,Recently Built
+5992,6.0,20.0,5.0,1.0,3.0,1.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+4314,4.0,5.0,4.0,1.0,2.0,1.0,2.0,G-9,False,False,False,True,1,Vintage
+4095,5.0,22.0,5.0,2.0,3.0,1.0,2.0,Bahria Enclave,False,True,False,False,0,Brand New (2025)
+3382,7.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,1,Brand New (2025)
+575,6.0,12.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 1,True,False,False,False,0,Brand New (2025)
+5291,6.0,50.0,6.0,1.0,1.0,1.0,3.0,F-8,True,False,False,False,0,Recently Built
+2776,6.0,10.0,6.0,1.0,1.0,1.0,2.0,Top City 1,False,False,False,False,0,Established
+4731,4.0,5.0,5.0,1.0,2.0,1.0,2.0,I-14,False,False,False,False,1,Brand New (2025)
+2929,6.0,5.0,6.0,1.0,2.0,1.0,2.0,Bhara kahu,False,False,True,False,1,Brand New (2025)
+4627,6.0,7.0,6.0,2.0,2.0,2.0,2.0,G-13,False,False,True,False,0,Brand New (2025)
+689,6.0,26.0,5.0,2.0,2.0,1.0,1.0,F-8,False,False,False,False,1,Recently Built
+3792,7.0,32.0,6.0,2.0,2.0,1.0,3.0,E-7,False,False,True,False,0,Brand New (2025)
+3416,5.0,7.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,False,False,0,Brand New (2025)
+4818,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+4952,4.0,5.0,4.0,2.0,3.0,2.0,2.0,Airport Enclave,False,False,False,False,0,Brand New (2025)
+1554,4.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Modern Era
+409,5.0,4.0,4.0,1.0,1.0,1.0,1.0,G-13,False,False,False,False,0,Brand New (2025)
+5526,6.0,14.0,8.0,1.0,2.0,1.0,2.0,PWD Housing Scheme,False,False,False,False,1,Brand New (2025)
+2691,4.0,24.0,4.0,2.0,3.0,1.0,2.0,G-10,False,False,False,False,0,Brand New (2025)
+5223,6.0,10.0,6.0,1.0,2.0,1.0,3.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+1161,4.0,5.0,3.0,1.0,1.0,2.0,2.0,Bahria Enclave,True,False,False,False,0,Brand New (2025)
+3468,6.0,14.0,7.0,1.0,2.0,1.0,2.0,G-15,False,False,False,False,0,Brand New (2025)
+180,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+3755,4.0,6.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,True,False,1,Brand New (2025)
+4794,4.0,5.0,3.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+1193,6.0,10.0,6.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+3550,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+4856,7.0,8.0,5.0,1.0,2.0,1.0,2.0,G-15,False,False,False,False,0,Recently Built
+2021,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Recently Built
+869,4.0,5.0,4.0,1.0,2.0,1.0,2.0,Faisal Hills,True,False,False,False,1,Brand New (2025)
+3885,2.0,3.0,3.0,1.0,1.0,1.0,2.0,Madina Town,False,True,False,False,1,Brand New (2025)
+2345,5.0,24.0,4.0,2.0,1.0,1.0,3.0,F-8,False,False,True,False,0,Established
+6389,3.0,2.0,1.0,1.0,1.0,1.0,3.0,F-17,False,False,False,False,0,Recently Built
+5963,6.0,20.0,6.0,2.0,2.0,2.0,1.0,DHA Phase 2,False,False,False,False,0,Recently Built
+6167,5.0,24.0,5.0,1.0,1.0,1.0,2.0,F-6,True,False,False,False,0,Established
+3921,4.0,4.0,3.0,1.0,1.0,1.0,2.0,D-12,False,False,False,True,1,Brand New (2025)
+1982,4.0,5.0,4.0,1.0,2.0,1.0,3.0,MPCHS - Multi Gardens,False,False,False,False,0,Recently Built
+872,6.0,10.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,1,Brand New (2025)
+2387,4.0,11.0,4.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,1,Brand New (2025)
+1954,7.0,20.0,6.0,1.0,1.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Recently Built
+4561,6.0,10.0,7.0,1.0,3.0,1.0,3.0,E-11,True,False,False,False,0,Recently Built
+5922,7.0,8.0,7.0,1.0,2.0,1.0,2.0,River Garden,True,False,False,False,0,Brand New (2025)
+1893,7.0,14.0,6.0,1.0,2.0,1.0,2.0,CBR Town Phase 1,True,False,False,True,1,Brand New (2025)
+3243,6.0,8.0,6.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,True,False,0,Brand New (2025)
+5878,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+1257,2.0,3.0,2.0,2.0,3.0,2.0,2.0,F-10,False,False,False,False,0,Brand New (2025)
+3016,5.0,15.0,4.0,1.0,2.0,1.0,2.0,Kashmir Highway,False,False,False,False,0,Recently Built
+1497,4.0,7.0,4.0,1.0,2.0,2.0,2.0,G-13,True,False,True,False,0,Recently Built
+4826,6.0,10.0,6.0,1.0,2.0,2.0,3.0,F-6,True,False,True,False,0,Brand New (2025)
+1027,5.0,6.0,5.0,1.0,2.0,1.0,3.0,I-10,False,False,False,True,1,Recently Built
+473,6.0,10.0,6.0,1.0,1.0,2.0,2.0,Airport Green Garden,False,False,False,False,0,Brand New (2025)
+3832,6.0,42.0,6.0,2.0,2.0,2.0,2.0,E-7,True,False,True,False,0,Modern Era
+1809,4.0,10.0,5.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+3457,6.0,24.0,7.0,1.0,3.0,1.0,2.0,F-8,False,False,False,False,0,Recently Built
+775,6.0,20.0,5.0,2.0,2.0,1.0,1.0,DHA Phase 2,True,True,False,False,0,Brand New (2025)
+1757,6.0,14.0,6.0,2.0,2.0,1.0,2.0,G-13,False,False,True,False,0,Brand New (2025)
+183,6.0,14.0,7.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+2397,6.0,14.0,9.0,2.0,2.0,2.0,2.0,G-9,False,False,False,False,0,Brand New (2025)
+4286,7.0,8.0,7.0,1.0,1.0,1.0,2.0,F-17,False,False,False,False,0,Modern Era
+3183,6.0,7.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,False,False,0,Brand New (2025)
+2015,6.0,5.0,6.0,1.0,2.0,1.0,2.0,Ghauri Town,False,False,False,False,0,Modern Era
+6183,5.0,30.0,4.0,1.0,2.0,1.0,1.0,Soan Garden,False,False,False,False,0,Modern Era
+4023,5.0,10.0,4.0,1.0,2.0,1.0,2.0,DHA Phase 2,True,False,False,True,0,Recently Built
+893,3.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Town,False,False,False,False,1,Brand New (2025)
+3411,6.0,8.0,5.0,1.0,2.0,1.0,2.0,G-13,True,False,False,False,0,Brand New (2025)
+5812,7.0,5.0,5.0,1.0,2.0,1.0,2.0,University Town,False,False,False,False,0,Recently Built
+3664,5.0,10.0,5.0,1.0,2.0,1.0,2.0,E-11,False,False,False,False,0,Brand New (2025)
+1361,6.0,10.0,9.0,1.0,2.0,1.0,3.0,D-12,False,False,False,True,0,Recently Built
+3280,5.0,9.0,4.0,1.0,2.0,1.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+6455,7.0,10.0,6.0,1.0,2.0,1.0,2.0,Bhara kahu,False,False,False,False,0,Brand New (2025)
+42,6.0,8.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,False,0,Brand New (2025)
+2775,6.0,8.0,5.0,1.0,1.0,1.0,2.0,Faisal Town Phase 1,False,False,True,False,0,Recently Built
+6311,6.0,40.0,5.0,2.0,1.0,2.0,2.0,F-10,False,False,False,False,0,Recently Built
+3959,6.0,20.0,6.0,2.0,2.0,2.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+1695,6.0,5.0,4.0,2.0,3.0,1.0,1.0,MPCHS - Multi Gardens,True,False,False,True,0,Brand New (2025)
+5919,6.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+4770,5.0,12.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,True,False,False,0,Brand New (2025)
+5629,5.0,6.0,5.0,1.0,2.0,2.0,2.0,G-9,False,False,False,False,0,Recently Built
+2726,6.0,11.0,6.0,1.0,2.0,1.0,2.0,Gulberg Residencia,False,False,False,False,0,Brand New (2025)
+1480,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Modern Era
+2501,6.0,34.0,5.0,2.0,2.0,1.0,2.0,F-8,False,False,False,False,0,Recently Built
+294,6.0,14.0,5.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,1,Brand New (2025)
+1651,5.0,6.0,5.0,1.0,2.0,1.0,2.0,I-11,False,False,False,False,1,Brand New (2025)
+6468,7.0,20.0,10.0,2.0,3.0,1.0,3.0,D-12,False,False,True,False,0,Brand New (2025)
+605,2.0,2.0,2.0,1.0,1.0,1.0,1.0,Bhara kahu,False,False,False,True,0,Recently Built
+229,6.0,24.0,8.0,2.0,2.0,2.0,2.0,I-8,False,False,False,False,0,Established
+4306,3.0,7.0,2.0,1.0,1.0,1.0,1.0,Jinnah Gardens,False,False,True,False,1,Brand New (2025)
+3903,6.0,10.0,6.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+3323,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+1443,5.0,5.0,5.0,1.0,3.0,1.0,2.0,National Police Foundation O-9,False,False,False,False,0,Brand New (2025)
+4046,3.0,4.0,3.0,1.0,3.0,2.0,3.0,H-13,False,False,False,False,0,Brand New (2025)
+3782,6.0,20.0,6.0,1.0,2.0,1.0,2.0,Pakistan Town,False,False,False,False,0,Modern Era
+1528,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+2827,6.0,20.0,5.0,2.0,2.0,1.0,1.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+3119,7.0,7.0,7.0,1.0,3.0,1.0,2.0,Ghauri Town,False,False,False,False,0,Recently Built
+55,5.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+3911,3.0,5.0,2.0,1.0,1.0,1.0,1.0,Bani Gala,False,False,False,False,1,Brand New (2025)
+5430,2.0,3.0,2.0,1.0,1.0,1.0,1.0,Tarlai,False,False,False,False,0,Recently Built
+5083,7.0,20.0,9.0,1.0,1.0,1.0,3.0,I-8,False,False,False,True,1,Recently Built
+6445,3.0,5.0,2.0,1.0,1.0,1.0,2.0,Taramrri,False,False,True,False,0,Modern Era
+5931,6.0,10.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,False,False,1,Modern Era
+1323,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,1,Brand New (2025)
+854,3.0,14.0,3.0,1.0,1.0,1.0,1.0,I-8,False,False,False,False,0,Recently Built
+336,6.0,10.0,6.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+2581,6.0,8.0,6.0,1.0,1.0,1.0,1.0,Bahria Enclave,False,False,False,False,0,Modern Era
+2137,3.0,5.0,3.0,1.0,1.0,1.0,1.0,Kashmir Highway,True,False,False,False,0,Brand New (2025)
+5173,5.0,20.0,5.0,2.0,2.0,1.0,2.0,F-10,True,False,False,False,0,Modern Era
+6451,7.0,10.0,5.0,1.0,2.0,1.0,2.0,Mumtaz City,False,False,False,False,0,Recently Built
+1060,5.0,5.0,4.0,1.0,2.0,1.0,2.0,Faisal Hills,True,False,False,False,1,Brand New (2025)
+2895,3.0,10.0,2.0,1.0,1.0,1.0,1.0,PWD Housing Scheme,False,False,False,False,1,Brand New (2025)
+4910,4.0,5.0,3.0,1.0,2.0,1.0,1.0,Bahria Town,False,False,False,False,1,Recently Built
+468,2.0,5.0,2.0,2.0,2.0,1.0,1.0,DHA Valley,False,False,False,False,0,Modern Era
+2146,4.0,40.0,4.0,1.0,1.0,1.0,2.0,F-6,False,False,False,False,0,Modern Era
+4283,7.0,7.0,7.0,1.0,2.0,1.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+5777,9.0,14.0,6.0,1.0,2.0,1.0,2.0,B-17,True,False,False,True,0,Brand New (2025)
+6264,6.0,10.0,8.0,1.0,3.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+966,6.0,12.0,6.0,1.0,2.0,1.0,2.0,G-16,False,True,True,False,0,Recently Built
+1672,7.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,True,1,Brand New (2025)
+2186,6.0,20.0,5.0,2.0,2.0,1.0,1.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+3508,6.0,10.0,6.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+3593,4.0,7.0,4.0,2.0,2.0,2.0,2.0,G-9,False,False,True,False,0,Recently Built
+2314,5.0,20.0,5.0,1.0,1.0,2.0,2.0,DHA Phase 2,False,False,False,False,1,Recently Built
+1040,6.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+5225,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+136,3.0,5.0,3.0,1.0,1.0,1.0,1.0,H-13,False,False,False,False,0,Brand New (2025)
+1529,7.0,40.0,9.0,1.0,2.0,1.0,1.0,Naval Anchorage,True,False,False,False,0,Brand New (2025)
+1463,4.0,5.0,4.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,True,0,Brand New (2025)
+6362,5.0,7.0,5.0,1.0,2.0,1.0,2.0,G-10,False,False,False,True,0,Brand New (2025)
+2716,6.0,42.0,6.0,1.0,1.0,1.0,2.0,F-10,False,False,False,False,0,Modern Era
+5056,6.0,8.0,5.0,1.0,2.0,1.0,1.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+4942,6.0,6.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+726,6.0,24.0,6.0,2.0,2.0,2.0,2.0,I-8,False,False,False,False,0,Modern Era
+2217,2.0,5.0,2.0,1.0,1.0,1.0,2.0,DHA Valley,False,False,False,False,1,Brand New (2025)
+5753,3.0,5.0,2.0,1.0,1.0,1.0,1.0,Bani Gala,False,False,False,False,1,Brand New (2025)
+1533,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+2306,7.0,7.0,5.0,1.0,2.0,1.0,1.0,FECHS,False,False,False,False,1,Brand New (2025)
+1267,4.0,4.0,4.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+736,6.0,9.0,5.0,1.0,2.0,1.0,2.0,D-17,False,False,True,False,0,Brand New (2025)
+5551,4.0,20.0,4.0,1.0,2.0,1.0,2.0,G-10,False,False,False,True,0,Brand New (2025)
+3958,7.0,8.0,10.0,1.0,2.0,1.0,3.0,D-12,False,True,False,True,0,Brand New (2025)
+4781,6.0,10.0,7.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,False,False,1,Brand New (2025)
+6316,6.0,26.0,5.0,2.0,2.0,1.0,2.0,F-7,False,False,False,False,1,Recently Built
+1515,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,True,False,True,False,0,Brand New (2025)
+2567,7.0,14.0,7.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+3283,5.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+2587,6.0,14.0,6.0,1.0,2.0,1.0,2.0,Naval Anchorage,False,False,False,False,0,Brand New (2025)
+4858,4.0,5.0,3.0,1.0,2.0,2.0,2.0,Bahria Enclave,False,False,False,False,0,Recently Built
+2868,5.0,20.0,5.0,2.0,2.0,1.0,1.0,DHA Phase 5,False,False,False,False,1,Brand New (2025)
+923,6.0,20.0,5.0,2.0,3.0,1.0,1.0,F-6,True,False,False,False,0,Recently Built
+233,6.0,8.0,5.0,2.0,2.0,2.0,2.0,I-14,False,False,False,False,0,Brand New (2025)
+281,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+6195,6.0,20.0,5.0,1.0,2.0,1.0,1.0,F-11,False,False,False,True,0,Recently Built
+2189,6.0,20.0,6.0,2.0,1.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Recently Built
+1613,2.0,5.0,2.0,1.0,2.0,1.0,1.0,DHA Valley,False,False,False,True,0,Recently Built
+5790,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+6297,6.0,12.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Recently Built
+4549,5.0,20.0,4.0,2.0,2.0,1.0,2.0,F-8,False,False,True,False,0,Vintage
+981,6.0,8.0,4.0,1.0,1.0,2.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+3932,5.0,36.0,4.0,2.0,2.0,1.0,2.0,F-8,False,False,True,False,0,Vintage
+5467,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,1,Brand New (2025)
+3543,4.0,5.0,4.0,1.0,1.0,1.0,2.0,DHA Phase 5,False,False,False,False,0,Brand New (2025)
+4682,6.0,14.0,7.0,1.0,2.0,1.0,1.0,PWD Housing Scheme,False,False,False,False,1,Modern Era
+837,4.0,5.0,4.0,1.0,2.0,1.0,2.0,Tarnol,False,False,False,False,0,Modern Era
+212,6.0,20.0,5.0,1.0,1.0,1.0,1.0,DHA Phase 1,False,False,False,False,0,Recently Built
+2238,7.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+4611,4.0,10.0,4.0,1.0,2.0,1.0,2.0,E-11,True,False,False,False,1,Established
+2399,6.0,16.0,7.0,2.0,2.0,2.0,2.0,G-9,False,False,False,True,0,Brand New (2025)
+4416,6.0,12.0,8.0,1.0,2.0,1.0,2.0,CBR Town Phase 1,False,False,False,False,0,Recently Built
+4082,4.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Modern Era
+1412,6.0,10.0,5.0,1.0,2.0,2.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+131,4.0,5.0,4.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+5721,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+314,6.0,20.0,6.0,2.0,2.0,2.0,1.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+1571,6.0,20.0,5.0,1.0,2.0,1.0,1.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+3635,5.0,8.0,4.0,1.0,1.0,1.0,3.0,Bahria Enclave,False,False,False,True,0,Recently Built
+1955,7.0,20.0,6.0,1.0,2.0,2.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+994,7.0,20.0,6.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Recently Built
+3487,7.0,15.0,7.0,1.0,3.0,1.0,3.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+3216,5.0,5.0,4.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,True,False,False,0,Brand New (2025)
+5837,7.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,True,1,Brand New (2025)
+682,6.0,10.0,6.0,1.0,2.0,1.0,2.0,Top City 1,True,False,False,False,0,Brand New (2025)
+5055,6.0,14.0,6.0,1.0,2.0,2.0,2.0,G-9,True,False,True,False,0,Modern Era
+4838,6.0,20.0,6.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+4769,7.0,40.0,7.0,2.0,2.0,1.0,3.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+3542,6.0,14.0,6.0,1.0,2.0,1.0,2.0,PWD Housing Scheme,False,False,True,False,0,Recently Built
+1849,6.0,8.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,False,0,Brand New (2025)
+5383,3.0,14.0,3.0,1.0,2.0,1.0,2.0,G-15,False,False,False,False,0,Brand New (2025)
+3650,6.0,4.0,6.0,1.0,1.0,1.0,2.0,Burma Town,False,False,False,False,0,Recently Built
+4461,6.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Recently Built
+1494,5.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,True,0,Brand New (2025)
+236,4.0,4.0,4.0,1.0,2.0,1.0,1.0,G-13,False,False,False,False,0,Recently Built
+3401,2.0,5.0,2.0,1.0,1.0,1.0,1.0,Jinnah Gardens,False,False,False,True,1,Brand New (2025)
+4408,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Recently Built
+6314,6.0,20.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+3398,4.0,5.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,True,False,0,Brand New (2025)
+3634,6.0,8.0,5.0,1.0,2.0,1.0,1.0,D-17,False,False,True,False,0,Recently Built
+3736,6.0,10.0,6.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+3151,7.0,20.0,9.0,1.0,2.0,2.0,3.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+97,7.0,40.0,9.0,1.0,3.0,1.0,3.0,F-8,False,False,False,False,0,Recently Built
+657,7.0,14.0,5.0,1.0,1.0,1.0,2.0,G-13,False,False,False,False,0,Recently Built
+1847,6.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,True,False,0,Brand New (2025)
+5348,6.0,12.0,6.0,1.0,1.0,1.0,1.0,G-15,False,False,False,False,0,Brand New (2025)
+1619,5.0,18.0,4.0,2.0,2.0,1.0,1.0,F-6,False,False,False,False,0,Recently Built
+3427,7.0,60.0,7.0,1.0,2.0,1.0,3.0,DHA Phase 1,False,False,False,False,0,Recently Built
+1527,6.0,46.0,7.0,2.0,2.0,1.0,2.0,F-7,True,False,False,False,1,Recently Built
+1694,6.0,10.0,6.0,1.0,2.0,1.0,2.0,F-17,False,False,False,False,0,Recently Built
+4340,4.0,6.0,4.0,1.0,1.0,1.0,3.0,G-8,False,False,False,False,0,Brand New (2025)
+64,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,True,False,False,False,0,Brand New (2025)
+597,6.0,16.0,6.0,1.0,2.0,1.0,2.0,Soan Garden,False,False,False,False,1,Recently Built
+1210,7.0,40.0,8.0,1.0,1.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+643,6.0,26.0,6.0,1.0,2.0,1.0,2.0,F-8,False,False,False,True,1,Recently Built
+5948,6.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+3012,6.0,12.0,6.0,1.0,2.0,1.0,3.0,E-11,False,False,False,False,0,Brand New (2025)
+821,7.0,6.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+3574,6.0,8.0,6.0,1.0,1.0,1.0,2.0,G-11,False,False,False,False,0,Modern Era
+3019,6.0,20.0,8.0,1.0,2.0,2.0,2.0,D-17,False,False,False,True,0,Recently Built
+34,6.0,22.0,6.0,2.0,2.0,1.0,2.0,D-12,True,False,False,False,1,Brand New (2025)
+1894,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Recently Built
+2088,4.0,4.0,4.0,1.0,2.0,1.0,2.0,G-14,False,False,False,True,0,Brand New (2025)
+278,4.0,20.0,3.0,1.0,1.0,1.0,1.0,F-8,True,False,False,True,0,Brand New (2025)
+1387,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bani Gala,False,False,False,False,0,Recently Built
+5649,7.0,11.0,7.0,1.0,2.0,1.0,2.0,G-13,True,False,False,True,0,Brand New (2025)
+4771,5.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,True,0,Brand New (2025)
+3902,6.0,8.0,5.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+5435,5.0,7.0,5.0,1.0,1.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+5791,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+2785,7.0,20.0,9.0,2.0,3.0,3.0,3.0,F-7,False,False,False,True,1,Recently Built
+3718,4.0,5.0,3.0,2.0,2.0,2.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Recently Built
+1477,6.0,14.0,6.0,1.0,2.0,1.0,2.0,G-10,False,False,False,False,1,Brand New (2025)
+460,7.0,7.0,6.0,1.0,2.0,1.0,2.0,Al Qaim Town,False,False,True,False,0,Recently Built
+4414,6.0,7.0,5.0,1.0,2.0,1.0,2.0,FECHS,False,False,False,False,0,Brand New (2025)
+5026,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+937,5.0,5.0,4.0,1.0,2.0,1.0,2.0,G-14,False,False,False,False,0,Brand New (2025)
+2516,6.0,7.0,5.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Recently Built
+4855,7.0,20.0,7.0,2.0,3.0,3.0,3.0,D-12,True,False,False,False,0,Recently Built
+1401,10.0,32.0,10.0,2.0,3.0,2.0,3.0,F-11,True,False,False,True,0,Recently Built
+1162,4.0,5.0,3.0,1.0,2.0,2.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+1929,3.0,5.0,3.0,1.0,1.0,1.0,1.0,B-17,False,False,False,False,0,Brand New (2025)
+772,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+3626,3.0,4.0,4.0,1.0,2.0,1.0,2.0,I-10,False,False,False,False,0,Established
+168,6.0,36.0,8.0,2.0,2.0,2.0,2.0,DHA Phase 5,False,False,False,False,0,Recently Built
+5239,6.0,5.0,6.0,1.0,2.0,1.0,2.0,Bhara kahu,False,False,False,False,1,Brand New (2025)
+2905,6.0,13.0,5.0,1.0,2.0,1.0,1.0,Top City 1,False,False,False,True,0,Brand New (2025)
+56,5.0,20.0,5.0,1.0,1.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+3432,6.0,24.0,8.0,1.0,1.0,1.0,3.0,Bani Gala,False,False,False,False,1,Brand New (2025)
+1153,6.0,20.0,6.0,1.0,1.0,1.0,1.0,F-8,False,False,False,False,0,Modern Era
+5703,7.0,26.0,6.0,2.0,2.0,2.0,2.0,F-7,False,False,False,False,0,Established
+1520,6.0,10.0,5.0,1.0,2.0,2.0,2.0,Bahria Enclave,True,False,False,False,0,Brand New (2025)
+514,5.0,5.0,4.0,1.0,2.0,1.0,1.0,DHA Phase 5,False,False,False,False,1,Brand New (2025)
+6117,3.0,8.0,3.0,1.0,1.0,1.0,2.0,DHA Valley,True,False,False,False,0,Recently Built
+6355,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+2097,5.0,5.0,4.0,1.0,1.0,1.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+1851,6.0,8.0,5.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,True,False,0,Brand New (2025)
+2116,6.0,10.0,6.0,2.0,2.0,2.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+5899,5.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+779,5.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,False,True,0,Brand New (2025)
+3827,5.0,5.0,5.0,2.0,1.0,1.0,3.0,D-12,False,False,False,False,1,Recently Built
+5546,6.0,5.0,5.0,1.0,1.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+5561,7.0,8.0,6.0,1.0,2.0,2.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+1842,6.0,5.0,7.0,1.0,2.0,1.0,1.0,H-13,False,False,False,False,0,Brand New (2025)
+341,6.0,10.0,6.0,1.0,2.0,2.0,2.0,D-12,True,False,False,False,0,Modern Era
+2114,6.0,10.0,5.0,2.0,3.0,1.0,2.0,Gulberg Residencia,True,False,False,False,0,Brand New (2025)
+3663,5.0,10.0,4.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+3915,6.0,20.0,6.0,1.0,2.0,2.0,3.0,PWD Housing Scheme,False,False,False,False,0,Modern Era
+1394,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+927,6.0,8.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,False,0,Brand New (2025)
+5880,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+4564,5.0,5.0,5.0,1.0,2.0,1.0,2.0,Gulberg Residencia,False,False,True,False,0,Brand New (2025)
+5800,6.0,20.0,7.0,2.0,2.0,2.0,3.0,F-10,False,False,False,False,0,Modern Era
+6134,6.0,10.0,6.0,2.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+4119,5.0,20.0,4.0,1.0,1.0,1.0,1.0,D-17,False,False,False,False,0,Recently Built
+420,5.0,5.0,3.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+4073,5.0,20.0,4.0,2.0,1.0,1.0,2.0,E-11,False,False,False,False,0,Recently Built
+1303,5.0,20.0,4.0,2.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+2433,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Established
+1284,6.0,7.0,5.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+2033,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+3301,6.0,10.0,5.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+2699,6.0,6.0,5.0,1.0,2.0,1.0,2.0,Soan Garden,True,False,False,False,1,Brand New (2025)
+364,2.0,8.0,2.0,1.0,2.0,1.0,1.0,Bhara kahu,False,False,False,False,0,Recently Built
+2824,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+1521,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Town,True,False,False,False,0,Brand New (2025)
+1085,6.0,20.0,6.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+5292,5.0,20.0,5.0,2.0,2.0,1.0,3.0,F-8,False,False,False,False,1,Recently Built
+73,6.0,20.0,6.0,1.0,2.0,1.0,2.0,Naval Anchorage,False,False,False,False,0,Brand New (2025)
+1658,4.0,4.0,3.0,1.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Recently Built
+4884,3.0,8.0,3.0,1.0,1.0,1.0,1.0,DHA Valley,False,False,False,True,0,Modern Era
+2462,6.0,32.0,5.0,2.0,1.0,1.0,2.0,F-6,True,False,False,False,0,Established
+1928,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+978,6.0,30.0,6.0,1.0,1.0,1.0,1.0,DHA Phase 2,False,False,False,True,0,Recently Built
+1585,3.0,5.0,3.0,1.0,1.0,1.0,1.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+2192,5.0,20.0,5.0,2.0,2.0,1.0,1.0,Kuri Road,False,False,False,False,0,Modern Era
+3619,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-14,True,False,False,False,1,Recently Built
+2781,5.0,7.0,4.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Modern Era
+3197,7.0,10.0,6.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+2319,7.0,26.0,4.0,2.0,2.0,1.0,1.0,F-6,False,False,False,False,0,Recently Built
+980,6.0,10.0,5.0,1.0,2.0,2.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+6429,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+3629,4.0,8.0,2.0,1.0,1.0,1.0,1.0,E-18,False,False,False,False,0,Brand New (2025)
+1988,11.0,24.0,9.0,2.0,3.0,1.0,1.0,I-8,False,False,True,True,0,Brand New (2025)
+5814,7.0,10.0,6.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+2980,6.0,48.0,7.0,2.0,2.0,1.0,2.0,G-6,False,False,False,False,0,Recently Built
+5008,7.0,14.0,6.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+2798,6.0,14.0,8.0,1.0,2.0,1.0,2.0,CBR Town Phase 1,True,False,False,False,1,Brand New (2025)
+5192,6.0,7.0,5.0,1.0,1.0,1.0,1.0,FECHS,False,False,False,False,0,Recently Built
+5875,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+16,4.0,5.0,4.0,1.0,1.0,2.0,2.0,Bahria Enclave,True,False,False,False,0,Brand New (2025)
+5373,5.0,4.0,4.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+463,6.0,10.0,6.0,1.0,2.0,1.0,3.0,National Police Foundation O-9,True,False,False,False,0,Modern Era
+1841,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,True,0,Brand New (2025)
+1128,4.0,5.0,3.0,1.0,1.0,1.0,2.0,DHA Phase 5,False,False,False,False,0,Brand New (2025)
+1046,5.0,5.0,4.0,1.0,2.0,1.0,2.0,PWD Housing Scheme,False,False,False,False,1,Brand New (2025)
+4995,6.0,8.0,4.0,1.0,2.0,2.0,2.0,B-17,True,False,True,False,0,Brand New (2025)
+4990,6.0,20.0,6.0,1.0,1.0,1.0,1.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+2521,6.0,8.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Recently Built
+5259,5.0,10.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 5,True,False,False,False,0,Brand New (2025)
+6379,6.0,12.0,7.0,1.0,2.0,1.0,2.0,G-15,False,False,False,False,0,Brand New (2025)
+2092,6.0,12.0,8.0,1.0,2.0,1.0,2.0,G-15,False,False,False,False,0,Brand New (2025)
+5734,6.0,7.0,5.0,1.0,1.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+5391,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Shaheen Town,False,False,False,False,1,Recently Built
+3714,6.0,6.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Recently Built
+1316,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Jinnah Gardens,False,False,False,False,0,Brand New (2025)
+6461,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Recently Built
+3733,6.0,10.0,6.0,1.0,1.0,1.0,1.0,Top City 1,False,False,False,False,1,Brand New (2025)
+993,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,True,False,False,False,0,Brand New (2025)
+5826,6.0,7.0,5.0,1.0,2.0,2.0,2.0,Jinnah Gardens,False,False,False,True,1,Brand New (2025)
+5444,6.0,10.0,5.0,1.0,2.0,2.0,3.0,Bahria Enclave,True,True,False,True,0,Brand New (2025)
+2966,3.0,5.0,3.0,1.0,1.0,1.0,2.0,Jhangi Syedan,False,False,False,False,1,Brand New (2025)
+1603,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Modern Era
+4181,4.0,5.0,3.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,1,Brand New (2025)
+4898,10.0,20.0,8.0,2.0,3.0,2.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+3790,7.0,10.0,5.0,2.0,2.0,1.0,2.0,PWD Housing Scheme,False,False,False,False,0,Brand New (2025)
+1834,6.0,48.0,5.0,2.0,2.0,1.0,2.0,G-6,False,False,False,False,0,Recently Built
+4867,5.0,10.0,5.0,1.0,2.0,1.0,3.0,Bahria Enclave,False,False,False,False,0,Recently Built
+618,6.0,7.0,4.0,1.0,1.0,1.0,2.0,D-17,False,False,False,False,0,Recently Built
+2825,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+3582,7.0,20.0,7.0,1.0,2.0,1.0,2.0,PWD Housing Scheme,False,False,False,False,1,Brand New (2025)
+292,4.0,4.0,4.0,1.0,1.0,1.0,2.0,Khanna Pul,False,False,False,False,0,Brand New (2025)
+5761,5.0,7.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,True,0,Brand New (2025)
+2529,3.0,6.0,2.0,1.0,2.0,2.0,1.0,Soan Garden,False,False,False,False,0,Modern Era
+3010,3.0,4.0,3.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+3986,4.0,8.0,4.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,True,0,Recently Built
+1775,5.0,6.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,1,Recently Built
+4778,6.0,8.0,5.0,2.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+1298,3.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+4288,5.0,5.0,4.0,1.0,2.0,1.0,2.0,Ghauri Town,False,False,False,False,0,Recently Built
+3239,5.0,6.0,5.0,1.0,2.0,1.0,2.0,I-11,False,False,False,False,0,Brand New (2025)
+2850,6.0,10.0,6.0,2.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+5020,5.0,4.0,4.0,1.0,2.0,1.0,1.0,G-13,False,False,True,False,0,Brand New (2025)
+1705,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+5924,6.0,10.0,6.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,1,Brand New (2025)
+242,6.0,20.0,6.0,1.0,2.0,1.0,2.0,Park Enclave,True,False,False,False,0,Recently Built
+5941,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Recently Built
+1800,3.0,4.0,3.0,1.0,1.0,1.0,1.0,D-12,True,False,False,False,0,Brand New (2025)
+716,5.0,5.0,5.0,1.0,2.0,1.0,2.0,Soan Garden,False,False,False,False,1,Recently Built
+2068,5.0,5.0,5.0,1.0,1.0,1.0,1.0,Faisal Town Phase 1,False,False,False,False,0,Recently Built
+5751,5.0,8.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+2448,5.0,11.0,3.0,1.0,2.0,1.0,2.0,DHA Phase 1,True,False,False,False,1,Recently Built
+3187,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Emaar Canyon Views,False,False,False,False,0,Brand New (2025)
+190,3.0,3.0,3.0,1.0,1.0,1.0,3.0,F-10,False,False,False,False,0,Brand New (2025)
+5728,6.0,7.0,4.0,1.0,2.0,1.0,2.0,Jinnah Gardens,False,False,False,False,0,Future
+6423,4.0,11.0,3.0,1.0,2.0,1.0,2.0,DHA Phase 1,False,False,False,False,0,Modern Era
+367,4.0,8.0,4.0,2.0,1.0,2.0,2.0,Jinnah Gardens,False,False,False,False,0,Brand New (2025)
+3613,4.0,20.0,3.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,True,False,1,Brand New (2025)
+5463,7.0,20.0,7.0,2.0,2.0,2.0,2.0,G-13,True,False,True,False,0,Recently Built
+81,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,1,Brand New (2025)
+1605,6.0,10.0,5.0,1.0,2.0,1.0,1.0,DHA Phase 5,True,False,False,False,0,Brand New (2025)
+3632,6.0,20.0,7.0,1.0,2.0,2.0,2.0,Soan Garden,False,False,False,False,0,Recently Built
+3433,4.0,18.0,4.0,1.0,1.0,1.0,2.0,F-6,False,False,False,False,1,Recently Built
+3036,7.0,50.0,7.0,2.0,2.0,1.0,2.0,F-7,False,False,True,False,0,Established
+3284,7.0,8.0,6.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+3969,7.0,40.0,8.0,2.0,2.0,2.0,2.0,F-10,False,False,False,False,0,Recently Built
+1509,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+5999,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,1,Brand New (2025)
+2082,6.0,20.0,7.0,1.0,1.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+1475,3.0,8.0,3.0,1.0,1.0,1.0,2.0,DHA Valley,False,False,False,False,1,Recently Built
+2731,4.0,7.0,4.0,1.0,2.0,2.0,1.0,River Garden,False,False,False,False,0,Recently Built
+3822,2.0,5.0,2.0,1.0,2.0,1.0,1.0,Thanda Pani,False,False,False,False,0,Established
+6037,6.0,20.0,7.0,1.0,2.0,1.0,2.0,Soan Garden,False,False,False,False,0,Recently Built
+140,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+4656,6.0,20.0,7.0,2.0,2.0,2.0,3.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+6179,6.0,26.0,6.0,1.0,2.0,1.0,1.0,F-11,True,False,False,False,0,Recently Built
+1777,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-14,False,False,True,False,0,Brand New (2025)
+4337,6.0,12.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+4712,6.0,16.0,6.0,1.0,2.0,1.0,2.0,Soan Garden,True,False,False,False,1,Modern Era
+2855,4.0,4.0,3.0,1.0,1.0,1.0,2.0,D-12,True,False,False,False,0,Brand New (2025)
+3513,6.0,20.0,5.0,2.0,2.0,1.0,2.0,F-8,True,False,False,True,0,Vintage
+5804,6.0,20.0,9.0,2.0,3.0,2.0,3.0,F-10,False,False,False,False,0,Modern Era
+5074,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+396,5.0,5.0,5.0,1.0,2.0,1.0,2.0,G-11,False,False,False,False,1,Modern Era
+5111,5.0,8.0,6.0,1.0,2.0,1.0,2.0,I-9,False,False,False,False,1,Vintage
+5258,6.0,5.0,5.0,1.0,3.0,1.0,2.0,DHA Phase 5,True,False,False,False,0,Brand New (2025)
+5046,4.0,4.0,3.0,1.0,1.0,1.0,1.0,D-12,False,False,True,False,0,Brand New (2025)
+518,3.0,7.0,2.0,1.0,1.0,1.0,1.0,E-18,False,False,False,False,1,Brand New (2025)
+4810,4.0,4.0,4.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Modern Era
+432,6.0,20.0,5.0,1.0,2.0,1.0,1.0,DHA Phase 2,False,False,False,False,0,Recently Built
+1598,2.0,5.0,2.0,2.0,2.0,2.0,2.0,DHA Valley,False,False,False,False,0,Recently Built
+1947,6.0,8.0,4.0,1.0,2.0,1.0,1.0,MPCHS - Multi Gardens,False,False,False,False,1,Brand New (2025)
+1547,4.0,4.0,3.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Recently Built
+2577,6.0,6.0,5.0,1.0,2.0,1.0,2.0,Soan Garden,True,False,False,True,0,Recently Built
+1089,3.0,5.0,3.0,2.0,2.0,2.0,1.0,Khanna Pul,False,False,False,False,0,Modern Era
+2996,4.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+6482,6.0,8.0,4.0,1.0,2.0,1.0,1.0,Mumtaz City,False,True,False,False,0,Future
+615,4.0,15.0,4.0,1.0,1.0,2.0,2.0,Soan Garden,False,False,False,False,0,Recently Built
+513,6.0,20.0,6.0,1.0,2.0,1.0,1.0,MPCHS - Multi Gardens,False,True,False,False,0,Brand New (2025)
+1887,5.0,5.0,4.0,1.0,1.0,1.0,2.0,I-10,False,True,True,False,0,Recently Built
+1612,5.0,10.0,4.0,1.0,2.0,1.0,2.0,F-11,False,False,False,False,1,Recently Built
+4393,7.0,20.0,10.0,2.0,2.0,2.0,3.0,D-12,False,False,False,False,0,Brand New (2025)
+2916,6.0,24.0,6.0,2.0,2.0,2.0,2.0,I-8,False,False,False,False,0,Modern Era
+5755,6.0,8.0,6.0,1.0,1.0,1.0,2.0,Bani Gala,False,False,False,False,1,Recently Built
+5603,5.0,10.0,4.0,2.0,2.0,1.0,2.0,Shah Allah Ditta,False,False,False,False,1,Recently Built
+4250,5.0,5.0,5.0,1.0,2.0,1.0,2.0,Malot,False,False,False,False,1,Brand New (2025)
+6269,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Mumtaz City,False,False,False,False,0,Recently Built
+5368,6.0,5.0,6.0,1.0,1.0,1.0,2.0,Jhangi Syedan,False,False,False,False,0,Recently Built
+5069,4.0,10.0,4.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,True,False,False,0,Recently Built
+1710,5.0,5.0,4.0,2.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+3679,6.0,8.0,7.0,1.0,1.0,1.0,2.0,Kuri Road,False,False,False,False,0,Modern Era
+3228,7.0,14.0,6.0,2.0,2.0,1.0,2.0,CBR Town Phase 1,False,False,False,True,0,Established
+146,6.0,10.0,5.0,1.0,2.0,2.0,2.0,Zaraj Housing Scheme,False,True,False,False,0,Modern Era
+2172,6.0,20.0,6.0,1.0,1.0,1.0,1.0,B-17,False,True,False,False,0,Brand New (2025)
+5958,5.0,5.0,5.0,1.0,2.0,1.0,1.0,E-18,False,False,False,False,0,Brand New (2025)
+2760,6.0,5.0,6.0,1.0,1.0,1.0,2.0,B-17,False,False,False,True,0,Brand New (2025)
+75,5.0,7.0,5.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,0,Brand New (2025)
+100,5.0,4.0,5.0,1.0,1.0,1.0,2.0,I-11,False,False,False,False,0,Modern Era
+5078,6.0,26.0,5.0,2.0,2.0,1.0,1.0,F-8,False,False,False,False,0,Recently Built
+533,5.0,5.0,4.0,1.0,2.0,1.0,2.0,Naval Anchorage,False,False,False,False,0,Recently Built
+4915,5.0,4.0,4.0,1.0,2.0,1.0,1.0,G-13,False,False,False,False,0,Recently Built
+1125,6.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,False,False,1,Brand New (2025)
+3068,7.0,12.0,7.0,1.0,3.0,2.0,3.0,G-16,False,False,False,False,0,Brand New (2025)
+1709,5.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+2580,8.0,32.0,6.0,2.0,2.0,2.0,2.0,E-7,False,False,True,False,0,Recently Built
+5468,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,1,Brand New (2025)
+5884,6.0,10.0,6.0,1.0,2.0,2.0,2.0,B-17,False,False,False,False,0,Recently Built
+2086,6.0,20.0,6.0,2.0,1.0,2.0,2.0,DHA Phase 2,False,True,False,False,0,Recently Built
+6305,6.0,10.0,6.0,2.0,3.0,2.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+3469,5.0,8.0,5.0,1.0,2.0,1.0,2.0,Faisal Hills,False,False,True,False,0,Brand New (2025)
+2061,6.0,10.0,7.0,1.0,2.0,1.0,2.0,Pakistan Town,False,False,False,False,0,Brand New (2025)
+6163,4.0,7.0,3.0,1.0,1.0,1.0,1.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+3834,6.0,7.0,6.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+2228,7.0,12.0,8.0,1.0,1.0,1.0,2.0,CBR Town Phase 1,True,False,False,False,1,Brand New (2025)
+3987,4.0,5.0,4.0,1.0,1.0,1.0,2.0,G-11,False,False,False,False,0,Modern Era
+170,5.0,20.0,5.0,1.0,1.0,1.0,2.0,F-8,False,False,False,False,0,Recently Built
+4059,7.0,10.0,5.0,1.0,2.0,1.0,1.0,DHA Phase 5,True,False,False,False,0,Brand New (2025)
+5953,6.0,14.0,6.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+1171,6.0,14.0,7.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,True,False,True,False,1,Brand New (2025)
+1462,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,True,False,False,False,0,Recently Built
+2324,6.0,11.0,6.0,2.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+3768,5.0,10.0,5.0,1.0,1.0,1.0,2.0,Bani Gala,True,False,True,True,0,Recently Built
+3809,4.0,20.0,5.0,2.0,2.0,1.0,2.0,G-10,False,False,False,False,1,Brand New (2025)
+631,6.0,20.0,5.0,1.0,2.0,1.0,1.0,DHA Phase 5,False,False,False,True,0,Recently Built
+2723,4.0,10.0,4.0,1.0,2.0,1.0,2.0,FECHS,False,False,False,False,1,Brand New (2025)
+949,6.0,20.0,9.0,1.0,2.0,2.0,3.0,D-12,False,False,False,False,0,Recently Built
+5775,6.0,20.0,6.0,1.0,2.0,2.0,2.0,DHA Phase 2,True,True,False,False,0,Brand New (2025)
+3797,5.0,5.0,5.0,1.0,2.0,1.0,2.0,Soan Garden,False,False,False,False,1,Recently Built
+3220,7.0,10.0,8.0,1.0,2.0,1.0,3.0,Bani Gala,False,False,False,False,1,Brand New (2025)
+1670,6.0,20.0,7.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+653,6.0,40.0,6.0,2.0,2.0,1.0,3.0,F-10,False,False,False,False,0,Established
+1964,4.0,10.0,4.0,1.0,1.0,1.0,2.0,G-6,False,False,False,False,0,Recently Built
+1943,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Recently Built
+1776,7.0,11.0,6.0,1.0,3.0,1.0,3.0,Bani Gala,False,False,False,False,0,Recently Built
+638,4.0,7.0,4.0,1.0,2.0,1.0,2.0,G-9,True,False,False,False,0,Brand New (2025)
+3174,6.0,14.0,6.0,1.0,2.0,1.0,2.0,CBR Town Phase 1,False,False,False,False,1,Recently Built
+2642,6.0,20.0,6.0,1.0,3.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+562,6.0,6.0,4.0,1.0,2.0,1.0,2.0,C-18,False,False,False,False,0,Recently Built
+40,6.0,14.0,5.0,1.0,2.0,1.0,1.0,G-9,False,False,False,False,0,Brand New (2025)
+5366,6.0,10.0,6.0,1.0,2.0,2.0,2.0,Top City 1,True,False,False,False,0,Brand New (2025)
+6287,6.0,7.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+264,5.0,10.0,5.0,1.0,2.0,1.0,2.0,E-11,False,False,False,False,0,Recently Built
+2276,7.0,20.0,8.0,2.0,2.0,2.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+1939,7.0,14.0,6.0,1.0,1.0,1.0,2.0,CBR Town Phase 1,True,False,False,True,0,Brand New (2025)
+4516,5.0,5.0,4.0,1.0,2.0,1.0,2.0,DHA Phase 5,False,False,False,False,0,Recently Built
+6356,8.0,10.0,8.0,2.0,3.0,2.0,3.0,E-11,False,False,False,False,1,Recently Built
+467,6.0,10.0,6.0,1.0,2.0,1.0,2.0,F-11,True,True,False,False,1,Recently Built
+3399,5.0,7.0,5.0,1.0,2.0,1.0,2.0,F-17,False,False,False,False,1,Recently Built
+1155,7.0,10.0,7.0,2.0,2.0,1.0,1.0,F-6,False,False,False,False,0,Recently Built
+1556,4.0,18.0,5.0,1.0,1.0,1.0,2.0,F-6,True,False,False,True,1,Vintage
+3491,6.0,14.0,8.0,1.0,3.0,1.0,2.0,G-13,True,False,False,False,0,Brand New (2025)
+3517,3.0,5.0,4.0,1.0,2.0,1.0,2.0,G-10,True,False,False,False,0,Established
+3315,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+4467,7.0,8.0,10.0,1.0,2.0,1.0,3.0,D-12,False,True,False,True,0,Brand New (2025)
+705,4.0,5.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,1,Brand New (2025)
+628,4.0,5.0,4.0,1.0,2.0,2.0,2.0,MPCHS - Multi Gardens,True,False,False,False,0,Brand New (2025)
+6380,5.0,9.0,5.0,2.0,2.0,2.0,2.0,D-17,False,False,False,False,0,Modern Era
+3931,6.0,32.0,6.0,2.0,2.0,1.0,3.0,E-7,False,False,True,False,0,Recently Built
+654,6.0,8.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Recently Built
+1478,4.0,8.0,4.0,1.0,1.0,1.0,2.0,Park View City,False,False,False,False,0,Brand New (2025)
+952,3.0,5.0,3.0,1.0,1.0,1.0,2.0,FECHS,True,False,False,False,0,Brand New (2025)
+6112,4.0,4.0,7.0,1.0,1.0,1.0,2.0,I-10,False,False,False,False,0,Recently Built
+2566,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Modern Era
+3355,7.0,10.0,5.0,2.0,2.0,1.0,2.0,Bahria Town,False,False,True,False,0,Brand New (2025)
+251,3.0,14.0,3.0,1.0,1.0,1.0,1.0,I-8,False,False,False,False,0,Recently Built
+6115,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,True,False,0,Brand New (2025)
+826,6.0,8.0,7.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+3647,7.0,34.0,5.0,2.0,2.0,1.0,2.0,Bani Gala,False,True,False,False,0,Recently Built
+3928,7.0,32.0,6.0,2.0,2.0,2.0,2.0,E-7,False,False,True,False,0,Recently Built
+6,4.0,5.0,3.0,1.0,2.0,1.0,1.0,D-12,False,False,False,False,1,Brand New (2025)
+1356,6.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,True,False,False,0,Brand New (2025)
+5352,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-14,False,False,True,False,0,Brand New (2025)
+649,1.0,4.0,2.0,1.0,1.0,1.0,1.0,Tarnol,False,False,False,False,0,Modern Era
+415,5.0,8.0,4.0,1.0,2.0,2.0,2.0,D-12,False,False,False,False,0,Recently Built
+4758,7.0,16.0,6.0,1.0,1.0,1.0,3.0,F-11,False,False,False,False,0,Vintage
+4863,3.0,7.0,2.0,1.0,1.0,3.0,1.0,Jinnah Gardens,False,False,False,False,0,Brand New (2025)
+1863,4.0,11.0,4.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,0,Brand New (2025)
+6369,2.0,4.0,2.0,1.0,1.0,1.0,2.0,Blue Area,False,False,False,False,0,Recently Built
+1702,7.0,20.0,6.0,1.0,2.0,1.0,1.0,MPCHS - Multi Gardens,False,True,False,False,1,Brand New (2025)
+4221,6.0,14.0,8.0,1.0,2.0,1.0,2.0,CBR Town Phase 1,False,False,False,False,0,Recently Built
+4907,6.0,20.0,6.0,1.0,2.0,1.0,1.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+2511,5.0,8.0,4.0,1.0,2.0,1.0,3.0,MPCHS - Multi Gardens,False,False,True,False,0,Brand New (2025)
+5810,6.0,50.0,8.0,2.0,2.0,2.0,2.0,F-8,False,False,False,False,0,Established
+3385,6.0,8.0,6.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+6021,3.0,8.0,3.0,1.0,1.0,1.0,2.0,Korang Town,False,False,False,False,1,Brand New (2025)
+5382,7.0,60.0,7.0,1.0,2.0,1.0,2.0,DHA Phase 2,True,False,False,False,1,Brand New (2025)
+4428,6.0,42.0,7.0,2.0,2.0,2.0,2.0,F-10,False,False,False,False,0,Vintage
+5033,7.0,7.0,8.0,1.0,3.0,1.0,3.0,G-13,False,False,False,False,0,Brand New (2025)
+4841,5.0,4.0,3.0,1.0,1.0,1.0,2.0,D-12,False,False,True,False,0,Brand New (2025)
+4110,6.0,20.0,5.0,1.0,2.0,1.0,1.0,MPCHS - Multi Gardens,True,False,False,False,0,Recently Built
+2366,6.0,26.0,5.0,1.0,2.0,2.0,2.0,F-6,True,False,False,False,0,Brand New (2025)
+253,5.0,4.0,5.0,1.0,2.0,2.0,2.0,I-14,False,False,False,False,0,Brand New (2025)
+664,3.0,4.0,2.0,2.0,2.0,2.0,1.0,H-13,False,False,False,False,0,Brand New (2025)
+2997,6.0,26.0,8.0,2.0,2.0,2.0,2.0,F-7,True,False,False,False,0,Recently Built
+1263,6.0,11.0,5.0,1.0,1.0,1.0,1.0,DHA Phase 1,False,False,False,False,0,Modern Era
+5869,7.0,14.0,10.0,1.0,2.0,1.0,1.0,Lehtrar Road,False,False,False,False,0,Recently Built
+4833,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 1,True,False,False,False,0,Recently Built
+38,5.0,5.0,5.0,1.0,2.0,1.0,2.0,Mumtaz City,False,False,False,False,0,Brand New (2025)
+5554,6.0,7.0,5.0,1.0,2.0,1.0,2.0,Soan Garden,False,False,False,False,1,Recently Built
+6448,6.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+4681,4.0,10.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,1,Brand New (2025)
+3295,6.0,8.0,6.0,1.0,2.0,1.0,2.0,G-11,False,False,False,False,0,Brand New (2025)
+5137,6.0,14.0,6.0,1.0,2.0,1.0,2.0,G-11,False,False,False,True,0,Recently Built
+6138,6.0,8.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,False,0,Recently Built
+3671,5.0,5.0,5.0,1.0,2.0,1.0,1.0,I-16,False,False,False,False,1,Brand New (2025)
+940,6.0,40.0,6.0,2.0,2.0,1.0,2.0,F-8,True,False,True,False,0,Established
+4999,5.0,5.0,4.0,1.0,2.0,1.0,2.0,D-12,False,True,True,False,0,Brand New (2025)
+1610,4.0,8.0,3.0,1.0,2.0,2.0,2.0,DHA Valley,False,False,False,False,0,Recently Built
+6192,3.0,38.0,3.0,1.0,1.0,1.0,1.0,F-8,False,False,False,True,1,Recently Built
+3848,5.0,9.0,5.0,2.0,2.0,1.0,2.0,F-11,False,False,False,False,0,Recently Built
+423,4.0,8.0,3.0,1.0,1.0,1.0,2.0,DHA Valley,False,False,False,True,0,Recently Built
+2768,7.0,14.0,7.0,1.0,1.0,1.0,1.0,PWD Housing Scheme,False,False,False,False,0,Brand New (2025)
+6202,5.0,6.0,5.0,1.0,2.0,1.0,2.0,I-9,False,False,False,False,0,Brand New (2025)
+1780,5.0,7.0,4.0,1.0,2.0,1.0,2.0,I-11,True,False,True,False,0,Brand New (2025)
+2897,6.0,14.0,6.0,1.0,2.0,1.0,2.0,I-8,False,False,False,False,0,Recently Built
+286,6.0,20.0,8.0,2.0,2.0,2.0,3.0,E-11,False,False,False,False,0,Modern Era
+3795,4.0,5.0,3.0,1.0,2.0,1.0,2.0,DHA Phase 3,False,False,False,False,0,Brand New (2025)
+1557,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,True,False,False,False,0,Recently Built
+834,7.0,6.0,5.0,1.0,2.0,1.0,2.0,Mumtaz City,False,False,False,False,1,Brand New (2025)
+4494,6.0,5.0,5.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,True,0,Brand New (2025)
+5764,4.0,5.0,4.0,1.0,1.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+2690,4.0,5.0,4.0,2.0,2.0,2.0,2.0,Naval Anchorage,False,False,False,False,0,Recently Built
+5894,5.0,5.0,4.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+1163,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+3780,3.0,5.0,3.0,1.0,1.0,1.0,1.0,Bani Gala,False,False,True,False,0,Brand New (2025)
+5050,6.0,14.0,7.0,1.0,2.0,2.0,2.0,G-9,False,True,False,False,0,Recently Built
+6412,6.0,14.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+620,7.0,8.0,6.0,1.0,2.0,1.0,2.0,Faisal Hills,False,False,False,False,0,Brand New (2025)
+5927,6.0,8.0,6.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,1,Brand New (2025)
+6252,6.0,7.0,5.0,1.0,1.0,1.0,2.0,Gulberg Residencia,False,False,False,False,0,Recently Built
+110,5.0,8.0,4.0,2.0,3.0,2.0,2.0,B-17,False,False,True,True,0,Modern Era
+342,6.0,20.0,6.0,1.0,1.0,1.0,2.0,F-11,False,False,False,False,0,Recently Built
+425,5.0,26.0,5.0,2.0,2.0,2.0,2.0,F-8,False,False,False,True,0,Established
+5730,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Jinnah Gardens,False,False,False,False,0,Brand New (2025)
+3386,5.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+3523,6.0,14.0,6.0,2.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+5034,6.0,14.0,6.0,1.0,2.0,1.0,2.0,Naval Anchorage,True,False,False,False,0,Brand New (2025)
+4849,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,True,0,Brand New (2025)
+2414,4.0,5.0,4.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+4636,5.0,9.0,4.0,1.0,2.0,1.0,2.0,E-16,True,False,False,False,0,Recently Built
+5204,6.0,20.0,5.0,2.0,2.0,1.0,1.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+1750,6.0,6.0,5.0,1.0,2.0,1.0,2.0,I-14,False,False,True,False,0,Brand New (2025)
+4335,2.0,5.0,2.0,1.0,2.0,1.0,2.0,DHA Valley,True,False,False,False,1,Recently Built
+5205,6.0,20.0,5.0,1.0,2.0,2.0,1.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+5552,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,1,Brand New (2025)
+1722,6.0,10.0,6.0,1.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Recently Built
+545,5.0,8.0,5.0,1.0,2.0,1.0,2.0,Kuri Road,True,False,False,False,0,Modern Era
+1017,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,True,False,1,Recently Built
+4853,7.0,20.0,7.0,1.0,1.0,1.0,1.0,B-17,False,True,False,False,0,Future
+2158,6.0,20.0,6.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,True,0,Recently Built
+1711,7.0,20.0,6.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Modern Era
+4304,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+5301,7.0,20.0,6.0,2.0,2.0,1.0,3.0,F-6,False,False,False,False,1,Recently Built
+4845,6.0,20.0,6.0,1.0,2.0,1.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+1216,12.0,40.0,9.0,1.0,3.0,2.0,2.0,F-7,False,True,False,True,1,Recently Built
+6309,5.0,10.0,4.0,1.0,1.0,1.0,2.0,E-11,False,False,False,False,0,Modern Era
+662,6.0,20.0,8.0,2.0,2.0,2.0,3.0,D-12,True,False,False,False,0,Recently Built
+2288,4.0,4.0,4.0,1.0,1.0,1.0,2.0,G-13,True,False,True,False,0,Established
+2641,6.0,20.0,8.0,1.0,2.0,1.0,2.0,DHA Phase 4,True,False,False,False,0,Brand New (2025)
+1385,4.0,4.0,4.0,1.0,1.0,1.0,2.0,D-12,False,False,True,False,0,Brand New (2025)
+5985,5.0,5.0,5.0,1.0,2.0,1.0,2.0,Mumtaz City,True,False,False,False,0,Brand New (2025)
+936,4.0,14.0,4.0,1.0,1.0,1.0,2.0,Emaar Canyon Views,False,False,False,False,0,Modern Era
+5914,5.0,5.0,4.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,False,0,Brand New (2025)
+5879,4.0,5.0,4.0,1.0,2.0,1.0,3.0,G-7,False,False,False,False,0,Vintage
+609,6.0,5.0,5.0,1.0,1.0,1.0,2.0,Park View City,False,False,False,False,0,Brand New (2025)
+4238,6.0,10.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,True,False,0,Brand New (2025)
+5688,4.0,6.0,4.0,1.0,2.0,1.0,2.0,Mumtaz City,False,False,False,False,0,Recently Built
+5399,4.0,5.0,4.0,1.0,1.0,1.0,2.0,Soan Garden,False,False,False,False,0,Recently Built
+2074,4.0,2.0,3.0,2.0,2.0,1.0,2.0,Bhara kahu,False,False,False,False,0,Brand New (2025)
+6361,7.0,24.0,6.0,2.0,3.0,1.0,2.0,G-10,False,False,False,False,0,Recently Built
+3899,6.0,8.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,False,False,1,Modern Era
+5699,7.0,40.0,6.0,2.0,2.0,2.0,2.0,F-10,False,False,False,False,0,Vintage
+633,4.0,26.0,4.0,1.0,1.0,1.0,2.0,G-10,False,False,False,False,1,Brand New (2025)
+3553,5.0,15.0,5.0,1.0,1.0,1.0,2.0,Bani Gala,False,False,True,True,0,Brand New (2025)
+1609,6.0,20.0,6.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,1,Brand New (2025)
+4506,4.0,8.0,4.0,1.0,2.0,1.0,2.0,B-17,False,True,False,False,0,Future
+5447,4.0,5.0,3.0,1.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+3842,4.0,10.0,4.0,1.0,2.0,1.0,1.0,Soan Garden,False,False,False,False,0,Recently Built
+139,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Recently Built
+6013,6.0,10.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 5,False,False,False,False,0,Brand New (2025)
+4193,4.0,4.0,4.0,1.0,1.0,1.0,2.0,G-11,False,False,False,False,0,Modern Era
+4909,6.0,7.0,5.0,1.0,2.0,1.0,1.0,FECHS,False,True,False,False,0,Brand New (2025)
+5996,4.0,8.0,5.0,1.0,2.0,1.0,2.0,FECHS,False,False,False,False,0,Recently Built
+3608,6.0,10.0,6.0,1.0,2.0,1.0,2.0,G-13,False,False,True,False,1,Recently Built
+2219,6.0,12.0,6.0,1.0,2.0,3.0,2.0,DHA Phase 2,False,True,False,False,0,Brand New (2025)
+1744,12.0,42.0,9.0,1.0,3.0,1.0,2.0,F-7,False,False,False,False,0,Recently Built
+4531,7.0,5.0,4.0,1.0,2.0,1.0,2.0,H-13,True,False,False,False,0,Brand New (2025)
+3693,6.0,20.0,7.0,1.0,2.0,1.0,1.0,B-17,False,True,False,False,0,Brand New (2025)
+1889,3.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+2644,6.0,8.0,6.0,1.0,2.0,1.0,3.0,Faisal Town Phase 1,True,False,False,False,1,Brand New (2025)
+6279,5.0,6.0,5.0,1.0,1.0,1.0,2.0,PWD Housing Scheme,True,False,True,False,0,Brand New (2025)
+1172,5.0,7.0,5.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Recently Built
+1692,4.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,False,1,Brand New (2025)
+3406,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+1170,6.0,26.0,6.0,2.0,1.0,1.0,1.0,F-7,False,False,False,False,0,Brand New (2025)
+4921,6.0,20.0,5.0,1.0,1.0,1.0,2.0,DHA Phase 2,False,True,False,False,0,Recently Built
+2815,6.0,26.0,6.0,2.0,2.0,1.0,2.0,F-10,False,False,False,False,0,Modern Era
+2098,6.0,5.0,5.0,1.0,2.0,1.0,2.0,B-17,True,False,False,False,1,Brand New (2025)
+4684,5.0,12.0,5.0,1.0,2.0,1.0,2.0,I-8,False,False,False,False,1,Recently Built
+2141,6.0,8.0,6.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,1,Recently Built
+3954,6.0,6.0,5.0,1.0,2.0,1.0,2.0,I-11,False,False,False,False,1,Brand New (2025)
+5802,6.0,26.0,6.0,2.0,2.0,2.0,2.0,F-7,False,False,False,True,0,Vintage
+1262,7.0,60.0,7.0,2.0,1.0,1.0,3.0,DHA Phase 1,False,False,False,False,0,Recently Built
+2484,4.0,9.0,4.0,1.0,3.0,1.0,2.0,Margalla View Housing Society,False,False,False,False,0,Recently Built
+3445,5.0,7.0,4.0,1.0,2.0,1.0,2.0,G-11,False,False,True,False,0,Modern Era
+807,6.0,22.0,7.0,1.0,2.0,1.0,2.0,F-10,True,False,False,False,0,Modern Era
+5353,6.0,20.0,5.0,1.0,1.0,1.0,2.0,DHA Phase 1,False,False,False,False,0,Brand New (2025)
+3697,4.0,11.0,4.0,2.0,2.0,1.0,2.0,G-6,False,False,False,False,0,Recently Built
+2225,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,True,False,False,False,0,Recently Built
+2620,4.0,4.0,4.0,1.0,2.0,1.0,2.0,Kashmir Highway,False,False,False,False,1,Recently Built
+5445,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+5754,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,1,Brand New (2025)
+2918,5.0,7.0,4.0,1.0,2.0,1.0,2.0,Jinnah Gardens,True,False,False,False,0,Modern Era
+1264,6.0,14.0,6.0,1.0,2.0,1.0,3.0,G-9,False,False,False,False,0,Brand New (2025)
+1071,6.0,5.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Recently Built
+5377,6.0,8.0,5.0,1.0,1.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+3109,4.0,5.0,3.0,1.0,1.0,2.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+4566,6.0,10.0,6.0,2.0,2.0,1.0,2.0,G-13,False,False,True,False,0,Brand New (2025)
+2362,4.0,11.0,3.0,1.0,1.0,1.0,2.0,DHA Phase 1,False,False,False,False,0,Modern Era
+1038,4.0,9.0,3.0,1.0,1.0,1.0,1.0,F-10,False,False,False,False,0,Modern Era
+5199,6.0,20.0,5.0,2.0,1.0,1.0,1.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+2450,6.0,15.0,6.0,1.0,2.0,1.0,2.0,G-10,True,False,False,False,1,Brand New (2025)
+3233,6.0,10.0,6.0,1.0,2.0,1.0,2.0,G-14,True,False,True,False,0,Brand New (2025)
+4964,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+4653,7.0,14.0,6.0,1.0,1.0,1.0,2.0,I-8,False,False,False,False,0,Recently Built
+504,5.0,5.0,4.0,1.0,2.0,1.0,2.0,G-11,False,False,False,False,1,Modern Era
+5774,6.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+5908,6.0,8.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,False,0,Brand New (2025)
+839,6.0,12.0,6.0,1.0,2.0,1.0,2.0,I-8,False,False,False,False,0,Recently Built
+5617,7.0,22.0,8.0,2.0,2.0,2.0,3.0,G-15,False,False,False,False,0,Modern Era
+5725,5.0,5.0,4.0,1.0,2.0,1.0,2.0,Park View City,False,False,False,False,1,Brand New (2025)
+2551,6.0,20.0,5.0,2.0,2.0,1.0,1.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+3024,5.0,6.0,6.0,1.0,3.0,1.0,2.0,G-11,True,False,False,False,1,Modern Era
+6059,6.0,20.0,6.0,1.0,3.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+237,7.0,20.0,8.0,2.0,2.0,2.0,2.0,G-13,True,False,False,False,0,Brand New (2025)
+5422,4.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,False,False,1,Brand New (2025)
+2595,6.0,10.0,6.0,1.0,2.0,1.0,2.0,Pakistan Town,True,False,False,False,0,Brand New (2025)
+2564,6.0,8.0,5.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Modern Era
+2233,4.0,8.0,3.0,1.0,1.0,2.0,1.0,DHA Valley,False,False,False,False,1,Brand New (2025)
+871,6.0,8.0,6.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,False,False,1,Brand New (2025)
+5582,3.0,5.0,2.0,2.0,1.0,2.0,1.0,H-13,False,False,False,False,0,Brand New (2025)
+31,4.0,5.0,3.0,1.0,2.0,2.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+6028,3.0,8.0,3.0,1.0,1.0,1.0,2.0,E-18,False,False,False,False,1,Brand New (2025)
+3622,7.0,20.0,7.0,1.0,1.0,1.0,3.0,PWD Housing Scheme,False,False,False,False,0,Brand New (2025)
+4003,6.0,20.0,9.0,1.0,3.0,3.0,3.0,Bahria Enclave,False,True,False,False,0,Brand New (2025)
+232,5.0,10.0,4.0,1.0,2.0,2.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+5207,7.0,26.0,7.0,2.0,2.0,2.0,3.0,F-7,True,False,True,False,0,Brand New (2025)
+476,3.0,6.0,4.0,1.0,2.0,1.0,2.0,G-9,True,False,False,False,1,Vintage
+497,3.0,4.0,3.0,2.0,1.0,1.0,2.0,Khanna Pul,False,False,False,False,0,Recently Built
+2586,6.0,8.0,5.0,1.0,2.0,2.0,2.0,Mumtaz City,False,False,False,False,0,Brand New (2025)
+1575,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-14,False,False,False,True,1,Brand New (2025)
+706,5.0,20.0,5.0,1.0,1.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+1033,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+5758,4.0,17.0,4.0,1.0,1.0,1.0,1.0,Bani Gala,False,False,False,False,0,Modern Era
+1410,6.0,14.0,6.0,1.0,2.0,1.0,2.0,I-8,False,False,False,True,0,Modern Era
+1626,7.0,7.0,5.0,1.0,2.0,1.0,2.0,Jinnah Gardens,True,False,False,False,0,Recently Built
+1839,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+5359,7.0,20.0,6.0,1.0,2.0,1.0,2.0,E-11,False,False,False,False,0,Modern Era
+3436,4.0,4.0,4.0,1.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+5102,6.0,20.0,6.0,2.0,2.0,2.0,1.0,DHA Phase 5,False,False,False,False,0,Brand New (2025)
+3327,6.0,10.0,6.0,2.0,2.0,1.0,2.0,G-13,False,False,True,False,0,Brand New (2025)
+6290,6.0,42.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,False,False,0,Modern Era
+2218,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,True,False,False,0,Recently Built
+1931,6.0,10.0,7.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,True,False,False,0,Brand New (2025)
+4882,3.0,5.0,2.0,1.0,1.0,1.0,1.0,Jinnah Gardens,False,False,True,False,0,Brand New (2025)
+4890,6.0,7.0,5.0,1.0,2.0,1.0,2.0,FECHS,False,False,False,False,0,Brand New (2025)
+3734,6.0,10.0,7.0,1.0,2.0,1.0,1.0,Top City 1,False,False,False,False,0,Brand New (2025)
+4489,5.0,10.0,5.0,1.0,1.0,1.0,2.0,E-16,False,False,False,False,0,Brand New (2025)
+4281,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Modern Era
+3115,4.0,10.0,4.0,1.0,1.0,1.0,2.0,B-17,False,False,False,False,1,Recently Built
+87,3.0,5.0,2.0,1.0,1.0,1.0,3.0,Bani Gala,False,False,True,False,0,Recently Built
+1794,5.0,5.0,6.0,1.0,2.0,1.0,3.0,British Homes Colony,False,False,False,False,1,Modern Era
+285,7.0,6.0,5.0,1.0,2.0,1.0,2.0,D-17,False,False,True,False,0,Brand New (2025)
+5260,4.0,5.0,4.0,1.0,2.0,1.0,2.0,DHA Phase 5,False,False,False,False,0,Brand New (2025)
+4796,6.0,10.0,6.0,1.0,3.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+4695,6.0,8.0,6.0,2.0,2.0,1.0,3.0,Faisal Town Phase 1,False,False,False,False,0,Brand New (2025)
+122,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+5950,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+6184,6.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+4817,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 3,False,False,False,False,0,Brand New (2025)
+3616,6.0,7.0,5.0,1.0,2.0,1.0,2.0,G-13,False,False,True,False,0,Brand New (2025)
+3009,3.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,1,Brand New (2025)
+3152,2.0,5.0,2.0,1.0,1.0,1.0,1.0,DHA Valley,False,False,False,False,0,Recently Built
+5315,4.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,True,False,0,Brand New (2025)
+5675,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+3659,5.0,14.0,5.0,2.0,2.0,2.0,2.0,G-9,False,False,False,False,0,Established
+2637,6.0,24.0,7.0,1.0,1.0,2.0,2.0,DHA Phase 1,False,False,False,False,0,Recently Built
+6121,5.0,6.0,4.0,1.0,2.0,1.0,2.0,B-17,True,False,True,False,0,Brand New (2025)
+5206,6.0,20.0,5.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+3218,6.0,11.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,False,False,0,Recently Built
+3370,6.0,18.0,7.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,0,Recently Built
+4820,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+2961,6.0,10.0,5.0,2.0,2.0,2.0,1.0,Bahria Enclave,True,False,False,False,0,Recently Built
+1589,3.0,6.0,3.0,1.0,1.0,1.0,2.0,Bahria Town,False,False,False,False,1,Brand New (2025)
+5019,5.0,5.0,5.0,1.0,2.0,1.0,2.0,G-14,True,False,True,False,0,Brand New (2025)
+5771,4.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+3392,7.0,12.0,6.0,1.0,2.0,2.0,2.0,E-11,True,False,False,False,0,Modern Era
+403,6.0,14.0,6.0,1.0,2.0,1.0,2.0,G-9,False,False,True,False,0,Modern Era
+4655,6.0,20.0,7.0,2.0,2.0,1.0,3.0,DHA Phase 2,False,True,False,False,0,Modern Era
+4364,3.0,8.0,3.0,1.0,2.0,1.0,2.0,DHA Valley,False,False,False,True,0,Recently Built
+2780,6.0,7.0,5.0,2.0,2.0,1.0,2.0,G-13,True,False,False,False,0,Brand New (2025)
+2423,6.0,8.0,7.0,1.0,1.0,1.0,1.0,D-12,True,False,False,False,0,Recently Built
+885,6.0,20.0,7.0,1.0,2.0,1.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+4140,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+2759,5.0,5.0,5.0,1.0,1.0,1.0,2.0,B-17,False,False,False,True,0,Modern Era
+2596,6.0,20.0,5.0,1.0,2.0,1.0,2.0,Soan Garden,True,False,False,False,0,Recently Built
+625,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+5045,6.0,20.0,7.0,2.0,2.0,1.0,1.0,Bahria Town,True,True,False,False,0,Brand New (2025)
+2081,7.0,20.0,7.0,1.0,2.0,2.0,2.0,Top City 1,True,False,False,False,0,Recently Built
+5746,6.0,20.0,6.0,1.0,3.0,1.0,2.0,DHA Phase 5,True,False,False,False,0,Recently Built
+1212,6.0,5.0,4.0,1.0,2.0,1.0,2.0,University Town,False,False,False,False,0,Recently Built
+733,6.0,10.0,8.0,2.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Brand New (2025)
+2123,4.0,5.0,4.0,1.0,2.0,1.0,2.0,FECHS,False,False,False,False,1,Brand New (2025)
+2062,7.0,14.0,7.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+801,10.0,26.0,10.0,2.0,3.0,3.0,3.0,F-7,False,False,False,False,0,Modern Era
+810,3.0,4.0,3.0,2.0,1.0,1.0,2.0,D-12,True,False,False,False,0,Future
+2470,5.0,7.0,4.0,1.0,1.0,1.0,1.0,FECHS,False,False,False,False,0,Modern Era
+4836,7.0,14.0,8.0,1.0,2.0,1.0,3.0,I-8,True,False,False,False,1,Brand New (2025)
+282,5.0,30.0,5.0,1.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+3367,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+1642,6.0,20.0,5.0,2.0,3.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+272,5.0,14.0,5.0,1.0,2.0,1.0,2.0,I-8,False,False,False,False,0,Recently Built
+3345,7.0,20.0,7.0,2.0,3.0,2.0,2.0,Soan Garden,False,False,False,False,0,Modern Era
+4953,6.0,26.0,6.0,1.0,2.0,1.0,1.0,F-8,True,False,False,False,0,Recently Built
+5769,7.0,20.0,6.0,1.0,2.0,1.0,2.0,DHA Phase 1,False,False,False,False,0,Recently Built
+2993,6.0,14.0,6.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Modern Era
+1373,6.0,10.0,7.0,1.0,2.0,1.0,2.0,F-17,False,False,True,False,1,Brand New (2025)
+4707,6.0,5.0,5.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,True,1,Future
+777,6.0,7.0,5.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+3658,6.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,True,False,False,0,Recently Built
+4985,9.0,20.0,9.0,2.0,2.0,1.0,3.0,D-12,False,False,True,False,0,Recently Built
+6116,6.0,7.0,5.0,1.0,2.0,1.0,2.0,CBR Town Phase 1,False,True,False,False,0,Recently Built
+5025,6.0,20.0,9.0,2.0,3.0,2.0,3.0,D-12,False,False,False,True,0,Brand New (2025)
+6107,5.0,14.0,5.0,1.0,2.0,1.0,2.0,I-8,False,False,False,False,0,Established
+6257,4.0,10.0,4.0,1.0,1.0,1.0,1.0,B-17,False,False,False,False,0,Brand New (2025)
+5356,4.0,5.0,3.0,1.0,2.0,1.0,2.0,Faisal Hills,True,False,False,False,0,Brand New (2025)
+0,7.0,10.0,6.0,2.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+4929,3.0,8.0,3.0,1.0,1.0,1.0,2.0,Soan Garden,False,False,False,False,0,Future
+6352,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Zaraj Housing Scheme,False,False,False,False,0,Brand New (2025)
+3851,6.0,48.0,5.0,2.0,2.0,2.0,2.0,G-6,False,False,True,False,0,Established
+2185,4.0,6.0,4.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,0,Modern Era
+1798,5.0,14.0,5.0,1.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+326,3.0,8.0,3.0,1.0,1.0,1.0,2.0,DHA Valley,False,False,False,False,0,Recently Built
+5318,6.0,20.0,5.0,1.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+5935,5.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Recently Built
+5088,6.0,10.0,7.0,1.0,2.0,2.0,2.0,Soan Garden,False,False,False,False,0,Recently Built
+3984,6.0,4.0,6.0,2.0,1.0,1.0,3.0,F-10,False,False,False,False,0,Recently Built
+3890,6.0,10.0,6.0,1.0,2.0,1.0,2.0,Simly Dam Road,True,False,False,False,0,Brand New (2025)
+4827,4.0,14.0,4.0,1.0,1.0,1.0,2.0,Kuri Road,False,False,False,False,1,Modern Era
+4404,6.0,10.0,6.0,1.0,2.0,1.0,3.0,F-15,False,False,False,False,0,Brand New (2025)
+2954,7.0,20.0,9.0,2.0,3.0,3.0,1.0,G-11,True,False,False,False,1,Modern Era
+3374,5.0,9.0,5.0,1.0,2.0,1.0,2.0,FECHS,False,False,False,False,0,Recently Built
+3919,6.0,10.0,6.0,2.0,2.0,1.0,2.0,G-13,False,False,True,False,0,Brand New (2025)
+2173,3.0,5.0,4.0,1.0,1.0,1.0,2.0,G-11,False,False,False,False,0,Future
+3662,3.0,16.0,6.0,1.0,1.0,1.0,2.0,E-11,False,False,False,False,0,Recently Built
+3158,7.0,20.0,7.0,2.0,3.0,1.0,3.0,F-8,True,False,False,False,0,Modern Era
+5970,5.0,6.0,4.0,1.0,2.0,1.0,1.0,Pakistan Town,False,False,False,False,0,Recently Built
+392,5.0,6.0,4.0,1.0,2.0,1.0,2.0,G-8,False,False,False,False,0,Brand New (2025)
+1379,6.0,44.0,5.0,2.0,1.0,2.0,2.0,F-10,False,False,False,False,0,Established
+3676,5.0,5.0,4.0,1.0,2.0,1.0,2.0,Lehtrar Road,False,False,False,False,1,Modern Era
+4829,5.0,7.0,4.0,1.0,2.0,1.0,2.0,Gulberg Residencia,False,False,False,False,1,Brand New (2025)
+2091,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+1906,5.0,5.0,4.0,1.0,2.0,1.0,2.0,PWD Housing Scheme,False,False,False,False,0,Brand New (2025)
+4220,6.0,20.0,6.0,2.0,2.0,2.0,2.0,F-10,True,False,False,False,1,Modern Era
+6215,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,True,0,Brand New (2025)
+5981,5.0,5.0,5.0,1.0,2.0,1.0,2.0,I-14,False,False,True,True,0,Brand New (2025)
+4571,4.0,7.0,4.0,1.0,2.0,1.0,1.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+211,6.0,20.0,5.0,1.0,2.0,2.0,2.0,DHA Phase 1,False,False,False,False,0,Recently Built
+1421,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+4254,3.0,5.0,3.0,1.0,3.0,1.0,1.0,Japan Road,False,False,False,False,1,Brand New (2025)
+1965,6.0,8.0,7.0,1.0,3.0,1.0,2.0,Faisal Town Phase 1,False,False,True,False,0,Recently Built
+2053,3.0,5.0,3.0,1.0,1.0,1.0,2.0,Jhangi Syedan,False,False,False,False,0,Recently Built
+2721,6.0,26.0,6.0,2.0,2.0,2.0,2.0,F-11,False,False,False,False,0,Recently Built
+2400,5.0,26.0,5.0,2.0,2.0,2.0,2.0,F-11,False,False,False,False,0,Recently Built
+2782,7.0,9.0,7.0,1.0,2.0,2.0,3.0,F-11,False,False,False,False,0,Established
+2447,5.0,7.0,4.0,1.0,1.0,2.0,2.0,G-10,False,False,False,True,0,Brand New (2025)
+2234,7.0,60.0,8.0,2.0,2.0,3.0,3.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+6122,2.0,3.0,3.0,1.0,1.0,1.0,2.0,Taramrri,False,False,False,False,0,Recently Built
+5611,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 1,True,False,False,True,0,Modern Era
+1004,6.0,10.0,5.0,1.0,1.0,1.0,2.0,D-12,False,False,True,False,0,Recently Built
+3139,6.0,30.0,6.0,2.0,1.0,1.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+924,5.0,8.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,False,False,1,Brand New (2025)
+5897,6.0,20.0,9.0,1.0,3.0,1.0,2.0,D-12,False,False,False,False,0,Recently Built
+1353,4.0,6.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,True,False,0,Future
+4275,6.0,20.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,1,Brand New (2025)
+5530,5.0,7.0,4.0,1.0,3.0,1.0,1.0,Gulberg Residencia,True,False,False,True,0,Recently Built
+4063,6.0,11.0,6.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+323,5.0,7.0,4.0,1.0,2.0,1.0,1.0,Gulberg Residencia,False,False,False,False,1,Brand New (2025)
+4218,6.0,5.0,6.0,1.0,2.0,1.0,2.0,H-13,False,False,False,True,1,Brand New (2025)
+1340,4.0,24.0,6.0,2.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,1,Brand New (2025)
+1707,6.0,8.0,4.0,1.0,2.0,1.0,2.0,B-17,True,False,False,False,1,Brand New (2025)
+5853,5.0,6.0,5.0,1.0,2.0,1.0,2.0,I-14,True,False,False,True,0,Brand New (2025)
+953,5.0,10.0,5.0,1.0,2.0,2.0,2.0,Top City 1,True,False,False,False,0,Brand New (2025)
+3602,5.0,6.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,True,False,False,False,0,Recently Built
+2230,6.0,14.0,5.0,1.0,2.0,2.0,3.0,G-9,False,True,False,True,0,Modern Era
+6016,4.0,20.0,3.0,1.0,1.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+4265,6.0,12.0,6.0,2.0,2.0,2.0,2.0,I-8,False,False,False,False,0,Established
+4251,6.0,6.0,4.0,1.0,2.0,1.0,2.0,Soan Garden,False,False,False,False,1,Recently Built
+5464,7.0,10.0,6.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Recently Built
+928,5.0,14.0,5.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,False,False,1,Brand New (2025)
+793,5.0,20.0,5.0,2.0,3.0,3.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+2729,5.0,48.0,4.0,2.0,2.0,1.0,2.0,G-6,False,False,False,True,0,Modern Era
+2008,3.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+4966,5.0,8.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,True,True,1,Brand New (2025)
+350,4.0,5.0,3.0,1.0,1.0,1.0,1.0,Park View City,False,False,False,False,0,Recently Built
+5458,3.0,6.0,2.0,1.0,1.0,1.0,1.0,Marwa Town,False,False,False,False,0,Recently Built
+3251,6.0,20.0,7.0,1.0,3.0,1.0,2.0,G-16,False,False,False,False,0,Recently Built
+1347,6.0,10.0,6.0,1.0,2.0,2.0,3.0,D-12,False,False,False,False,0,Brand New (2025)
+884,7.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,True,False,False,True,0,Brand New (2025)
+1476,3.0,5.0,3.0,1.0,2.0,1.0,2.0,DHA Phase 5,False,False,False,False,0,Recently Built
+2394,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Recently Built
+1661,2.0,5.0,2.0,2.0,3.0,1.0,1.0,DHA Valley,False,False,False,False,1,Recently Built
+283,6.0,40.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,True,False,False,0,Brand New (2025)
+5328,5.0,4.0,4.0,2.0,2.0,1.0,2.0,G-14,False,False,True,True,0,Brand New (2025)
+714,7.0,14.0,7.0,1.0,2.0,1.0,2.0,G-13,False,False,False,True,0,Brand New (2025)
+3872,8.0,20.0,8.0,1.0,3.0,1.0,3.0,E-11,False,False,False,False,0,Modern Era
+2403,5.0,8.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 5,True,False,False,False,0,Brand New (2025)
+347,5.0,5.0,5.0,1.0,2.0,1.0,1.0,Park View City,False,False,False,False,0,Modern Era
+6277,6.0,7.0,5.0,1.0,2.0,1.0,2.0,Jinnah Gardens,False,False,False,False,0,Brand New (2025)
+558,8.0,20.0,8.0,2.0,2.0,3.0,3.0,F-11,True,False,False,True,0,Established
+1227,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 3,False,False,False,False,0,Brand New (2025)
+6203,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,1,Brand New (2025)
+2708,6.0,10.0,7.0,1.0,3.0,1.0,2.0,Bani Gala,False,False,False,False,1,Brand New (2025)
+4859,6.0,22.0,5.0,2.0,2.0,1.0,2.0,F-6,False,False,False,False,0,Recently Built
+4543,6.0,7.0,5.0,1.0,2.0,1.0,2.0,Jinnah Gardens,False,False,False,False,1,Brand New (2025)
+6130,3.0,4.0,3.0,1.0,1.0,1.0,1.0,I-10,False,False,False,False,0,Recently Built
+1796,6.0,5.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+2835,6.0,5.0,5.0,1.0,1.0,1.0,1.0,Mumtaz City,False,False,False,False,0,Recently Built
+5267,2.0,6.0,3.0,1.0,1.0,1.0,2.0,FECHS,False,False,False,False,1,Brand New (2025)
+4821,6.0,20.0,6.0,1.0,2.0,1.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+4261,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,1,Brand New (2025)
+4512,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+1586,3.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,True,False,False,False,0,Brand New (2025)
+6292,6.0,6.0,5.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Brand New (2025)
+2682,6.0,5.0,5.0,1.0,2.0,2.0,2.0,Ghauri Town,True,False,False,False,0,Brand New (2025)
+2196,4.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,False,False,False,False,0,Recently Built
+743,6.0,12.0,9.0,2.0,3.0,3.0,3.0,I-8,False,False,False,False,0,Established
+10,4.0,5.0,4.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,False,False,False,False,1,Brand New (2025)
+5200,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Recently Built
+3400,6.0,8.0,5.0,1.0,1.0,1.0,2.0,Gulberg Residencia,False,False,False,False,0,Recently Built
+3577,6.0,10.0,6.0,1.0,1.0,1.0,1.0,MPCHS - Multi Gardens,True,True,True,False,0,Established
+3472,4.0,6.0,4.0,1.0,2.0,1.0,2.0,Pakistan Town,False,False,False,False,0,Recently Built
+5304,6.0,5.0,5.0,1.0,2.0,1.0,2.0,D-12,False,False,False,False,0,Brand New (2025)
+2435,5.0,10.0,5.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+547,7.0,20.0,6.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,True,False,False,False,1,Brand New (2025)
+5887,6.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Recently Built
+976,3.0,5.0,3.0,1.0,1.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+5872,4.0,5.0,3.0,1.0,1.0,1.0,2.0,H-13,False,False,False,False,0,Brand New (2025)
+2296,4.0,8.0,3.0,1.0,2.0,1.0,2.0,Kuri Road,False,False,False,False,0,Recently Built
+1454,6.0,20.0,5.0,1.0,2.0,1.0,2.0,F-11,True,False,False,False,0,Recently Built
+2617,5.0,20.0,5.0,1.0,2.0,1.0,2.0,F-10,False,False,False,False,0,Brand New (2025)
+2398,5.0,7.0,5.0,1.0,2.0,2.0,2.0,G-9,False,False,False,True,0,Established
+4649,2.0,5.0,2.0,1.0,1.0,1.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+84,5.0,7.0,5.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,0,Brand New (2025)
+4871,2.0,5.0,2.0,1.0,1.0,1.0,1.0,DHA Valley,False,False,False,False,0,Modern Era
+5674,6.0,8.0,6.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,1,Brand New (2025)
+4994,4.0,5.0,3.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,1,Brand New (2025)
+4602,4.0,7.0,4.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,0,Brand New (2025)
+977,5.0,7.0,4.0,1.0,2.0,1.0,1.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+3244,6.0,14.0,6.0,1.0,2.0,2.0,3.0,D-12,False,False,False,False,0,Brand New (2025)
+1120,6.0,20.0,8.0,2.0,3.0,2.0,3.0,F-11,False,False,False,False,0,Modern Era
+4530,4.0,4.0,4.0,1.0,2.0,1.0,2.0,H-13,False,False,False,False,0,Brand New (2025)
+901,5.0,14.0,5.0,1.0,2.0,2.0,3.0,F-6,True,False,False,False,0,Brand New (2025)
+2985,6.0,26.0,7.0,2.0,2.0,1.0,2.0,F-7,False,False,False,False,0,Recently Built
+2408,5.0,10.0,5.0,1.0,2.0,1.0,2.0,D-12,True,False,False,False,0,Recently Built
+2659,5.0,20.0,5.0,1.0,2.0,1.0,3.0,F-6,True,False,False,False,0,Modern Era
+6301,5.0,9.0,4.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Recently Built
+6032,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,False,1,Brand New (2025)
+1286,6.0,20.0,7.0,1.0,1.0,1.0,2.0,G-13,False,False,False,False,1,Brand New (2025)
+1579,4.0,11.0,4.0,1.0,2.0,1.0,2.0,G-9,False,False,False,False,1,Brand New (2025)
+553,6.0,11.0,6.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Modern Era
+5529,3.0,6.0,4.0,1.0,1.0,1.0,2.0,I-10,False,False,False,False,0,Modern Era
+4825,6.0,20.0,6.0,1.0,2.0,1.0,1.0,DHA Phase 2,True,False,False,False,0,Modern Era
+2565,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,True,0,Brand New (2025)
+5129,6.0,7.0,4.0,1.0,2.0,1.0,1.0,FECHS,False,False,False,False,1,Brand New (2025)
+41,6.0,5.0,4.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,1,Brand New (2025)
+3628,3.0,8.0,3.0,1.0,1.0,1.0,1.0,E-18,False,False,False,False,0,Brand New (2025)
+2927,6.0,9.0,4.0,1.0,3.0,1.0,3.0,D-17,False,False,False,False,0,Brand New (2025)
+5342,6.0,10.0,6.0,1.0,2.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+882,5.0,8.0,5.0,1.0,2.0,1.0,2.0,Bahria Enclave,False,False,False,False,1,Brand New (2025)
+831,6.0,14.0,7.0,2.0,2.0,1.0,2.0,I-8,False,False,False,False,0,Brand New (2025)
+3303,5.0,8.0,5.0,1.0,2.0,2.0,2.0,G-15,False,False,False,False,0,Brand New (2025)
+498,2.0,2.0,2.0,1.0,1.0,1.0,1.0,Khanna Pul,False,False,False,False,0,Modern Era
+3272,6.0,8.0,5.0,1.0,2.0,2.0,2.0,Bahria Enclave,False,False,False,True,0,Brand New (2025)
+3568,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+3422,6.0,10.0,6.0,1.0,2.0,1.0,2.0,CBR Town Phase 1,False,False,False,False,1,Recently Built
+5123,7.0,6.0,5.0,1.0,2.0,1.0,3.0,Ghauri Town,False,False,True,False,0,Recently Built
+5579,6.0,8.0,6.0,1.0,2.0,1.0,2.0,I-10,True,False,False,True,0,Brand New (2025)
+4164,3.0,20.0,3.0,1.0,1.0,1.0,2.0,Kashmir Highway,False,False,False,False,0,Recently Built
+6299,6.0,34.0,6.0,1.0,2.0,1.0,2.0,Bani Gala,False,False,False,False,0,Recently Built
+5118,4.0,5.0,4.0,1.0,1.0,1.0,2.0,Airport Enclave,False,False,False,False,0,Brand New (2025)
+2277,4.0,5.0,4.0,1.0,2.0,2.0,1.0,Kashmir Highway,False,False,False,False,1,Recently Built
+1637,7.0,44.0,6.0,1.0,2.0,1.0,2.0,F-6,True,False,False,False,1,Recently Built
+3504,3.0,5.0,3.0,1.0,1.0,1.0,1.0,Ghauri Town,False,False,False,False,0,Recently Built
+5287,6.0,14.0,6.0,1.0,2.0,2.0,2.0,I-8,False,False,False,True,0,Modern Era
+1214,7.0,20.0,8.0,2.0,3.0,2.0,3.0,Top City 1,False,False,False,False,0,Recently Built
+4759,7.0,20.0,6.0,1.0,2.0,1.0,2.0,F-11,False,False,False,True,0,Vintage
+2188,6.0,20.0,5.0,2.0,2.0,1.0,1.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+1396,6.0,26.0,8.0,2.0,2.0,2.0,1.0,F-11,True,False,False,False,0,Recently Built
+773,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+235,5.0,8.0,4.0,1.0,2.0,2.0,2.0,G-13,False,False,False,False,0,Modern Era
+624,4.0,5.0,4.0,1.0,2.0,1.0,2.0,B-17,False,False,False,True,0,Brand New (2025)
+2579,7.0,42.0,4.0,2.0,2.0,1.0,3.0,F-7,False,False,True,False,0,Recently Built
+5539,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 5,False,False,False,False,0,Brand New (2025)
+3391,5.0,8.0,4.0,1.0,2.0,2.0,2.0,D-12,True,False,False,False,0,Brand New (2025)
+833,9.0,20.0,8.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+3843,6.0,8.0,5.0,1.0,2.0,1.0,2.0,Bahria Town,False,False,False,False,0,Brand New (2025)
+411,3.0,5.0,3.0,1.0,1.0,2.0,2.0,G-11,False,False,False,False,0,Recently Built
+2310,6.0,22.0,6.0,2.0,2.0,1.0,2.0,G-15,False,False,False,False,1,Brand New (2025)
+2455,6.0,10.0,5.0,1.0,2.0,1.0,2.0,DHA Phase 5,False,False,False,False,1,Brand New (2025)
+4403,6.0,7.0,5.0,1.0,2.0,1.0,2.0,G-15,False,False,False,True,1,Brand New (2025)
+4233,7.0,20.0,7.0,1.0,1.0,1.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+4897,4.0,5.0,4.0,2.0,2.0,2.0,2.0,MPCHS - Multi Gardens,True,False,True,True,0,Recently Built
+3859,6.0,14.0,6.0,1.0,2.0,1.0,2.0,D-12,False,False,False,True,1,Recently Built
+6404,4.0,4.0,5.0,1.0,2.0,1.0,1.0,I-10,False,False,False,False,0,Recently Built
+4347,7.0,12.0,6.0,1.0,2.0,1.0,2.0,G-15,False,False,False,False,0,Recently Built
+5047,4.0,5.0,3.0,1.0,1.0,1.0,2.0,Bahria Enclave,False,False,False,False,0,Brand New (2025)
+5779,10.0,14.0,9.0,1.0,3.0,2.0,3.0,B-17,True,False,False,False,0,Recently Built
+4933,3.0,8.0,3.0,1.0,1.0,1.0,2.0,DHA Valley,False,False,False,False,1,Recently Built
+554,6.0,20.0,6.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+5275,8.0,8.0,7.0,1.0,2.0,1.0,2.0,F-17,False,False,True,False,0,Recently Built
+537,5.0,8.0,4.0,2.0,2.0,2.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+3231,6.0,7.0,7.0,1.0,2.0,2.0,3.0,G-10,False,False,False,False,0,Brand New (2025)
+5417,5.0,8.0,5.0,1.0,2.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,1,Brand New (2025)
+6169,6.0,38.0,6.0,1.0,2.0,1.0,2.0,F-6,True,False,False,False,0,Established
+1599,7.0,14.0,8.0,1.0,1.0,1.0,3.0,D-12,False,False,False,False,0,Recently Built
+5744,5.0,6.0,4.0,1.0,2.0,1.0,2.0,B-17,True,False,False,False,0,Brand New (2025)
+2320,5.0,20.0,5.0,2.0,2.0,1.0,2.0,F-6,False,False,False,False,0,Recently Built
+4307,6.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,True,False,False,False,0,Brand New (2025)
+3453,6.0,10.0,7.0,1.0,2.0,1.0,2.0,G-13,True,False,False,False,0,Recently Built
+194,7.0,26.0,6.0,2.0,2.0,1.0,2.0,F-7,False,False,False,False,1,Recently Built
+5738,6.0,20.0,7.0,1.0,1.0,1.0,2.0,Top City 1,True,False,False,False,0,Brand New (2025)
+721,6.0,14.0,6.0,2.0,2.0,2.0,2.0,G-9,False,False,False,False,0,Brand New (2025)
+257,7.0,11.0,7.0,1.0,2.0,1.0,2.0,G-13,True,False,False,False,0,Recently Built
+3717,8.0,20.0,6.0,2.0,2.0,2.0,2.0,F-8,False,False,True,False,0,Modern Era
+1683,4.0,5.0,5.0,1.0,2.0,1.0,3.0,Jinnah Gardens,False,False,False,False,0,Brand New (2025)
+1781,5.0,4.0,4.0,1.0,2.0,1.0,2.0,G-13,True,False,True,False,0,Brand New (2025)
+2685,7.0,26.0,6.0,2.0,2.0,1.0,2.0,F-7,False,False,False,False,1,Recently Built
+5367,5.0,10.0,4.0,1.0,2.0,2.0,2.0,Bahria Enclave,False,False,False,False,0,Recently Built
+2507,5.0,7.0,5.0,1.0,2.0,1.0,2.0,Faisal Town Phase 1,True,False,False,False,0,Recently Built
+2788,4.0,5.0,4.0,1.0,1.0,1.0,2.0,MPCHS - Multi Gardens,False,False,False,False,0,Brand New (2025)
+254,5.0,5.0,4.0,1.0,2.0,1.0,3.0,I-14,False,False,False,False,0,Brand New (2025)
+1277,6.0,20.0,5.0,2.0,2.0,1.0,2.0,DHA Phase 2,True,False,False,False,0,Modern Era
+4071,3.0,7.0,2.0,1.0,1.0,1.0,1.0,Soan Garden,False,False,False,False,1,Recently Built
+5641,7.0,17.0,7.0,1.0,2.0,1.0,3.0,F-10,False,False,False,False,1,Modern Era
+4445,7.0,20.0,6.0,2.0,2.0,2.0,2.0,DHA Phase 2,False,False,False,False,0,Brand New (2025)
+1213,7.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Recently Built
+842,7.0,10.0,5.0,1.0,2.0,1.0,1.0,DHA Phase 5,True,False,False,False,0,Brand New (2025)
+5062,6.0,10.0,5.0,1.0,2.0,1.0,2.0,Top City 1,False,False,False,False,0,Brand New (2025)
+2120,6.0,8.0,6.0,1.0,2.0,1.0,2.0,G-16,False,False,False,False,0,Modern Era
+1314,3.0,5.0,3.0,1.0,1.0,1.0,1.0,Bhara kahu,False,False,False,False,0,Modern Era

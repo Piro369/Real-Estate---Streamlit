@@ -1,0 +1,547 @@
+,Bath(s),Area(Marla),Bedroom(s),Servant Quarters,Kitchens,Store Rooms,Building,Main Location,luxury_type,Parking Spaces,Floor,Elevators,Floor in Building,Price per Unit,Property era,Floor Level,Building Type,Elevator Capacity
+1194,3.0,8.0,3.0,1.0,1.0,1.0,Silver Oaks Apartments,F-10,0,1.0,1.0,1.0,10.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+324,2.0,4.0,2.0,1.0,1.0,1.0,Diamond Mall & Residency,Gulberg Greens,1,1.0,3.0,1.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+2147,2.0,5.0,2.0,1.0,1.0,1.0,B-17,B-17,0,2.0,5.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+1967,3.0,10.0,2.0,1.0,1.0,1.0,Diplomatic Enclave,Diplomatic Enclave,1,1.0,2.0,1.0,6.0,1.0,Modern Era,Lower Floors,Mid Rise Core,Single/None
+106,1.0,2.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+1857,3.0,11.0,3.0,1.0,1.0,1.0,Askari Tower 3,DHA Phase 5,1,1.0,1.0,1.0,12.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+3273,3.0,8.0,2.0,0.0,1.0,1.0,Mall of Imarat,Jinnah Gardens,0,1.0,6.0,1.0,15.0,0.0,Recently Built,Mid-Level,High Rise,Single/None
+1077,2.0,4.0,2.0,1.0,1.0,1.0,I-16,I-16,1,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+4900,3.0,7.0,3.0,1.0,1.0,1.0,I-16,I-16,1,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+486,2.0,5.0,2.0,1.0,1.0,1.0,Faisal Town,Faisal Town Phase 1,0,2.0,5.0,1.0,5.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+3798,1.0,4.0,2.0,1.0,1.0,0.0,Top City 1,Top City 1,0,1.0,5.0,2.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+6274,1.0,4.0,1.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,1.0,1.0,5.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,High-Capacity
+1600,1.0,3.0,1.0,0.0,1.0,0.0,Cube Apartments,Bahria Enclave,0,1.0,7.0,4.0,10.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Multiple Bank
+6371,1.0,2.0,1.0,1.0,1.0,1.0,Blue Area,Blue Area,0,1.0,1.0,3.0,6.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+3897,2.0,5.0,2.0,1.0,1.0,1.0,One Constitution Avenue,Constitution Avenue,0,1.0,4.0,1.0,22.0,1.0,Modern Era,Lower Floors,High Rise,Single/None
+6006,2.0,8.0,2.0,1.0,1.0,1.0,AJ Towers,Gulberg Greens,0,2.0,13.0,3.0,17.0,0.0,Recently Built,High-Rise,High Rise,Multiple Bank
+4200,3.0,6.0,2.0,1.0,1.0,1.0,Business Bay DHA,DHA Phase 1,0,3.0,2.0,1.0,2.0,0.0,Recently Built,Lower Floors,Lower Levels,Single/None
+1484,1.0,4.0,1.0,1.0,1.0,1.0,Gulberg Heights,Gulberg Greens,0,2.0,1.0,8.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,High-Capacity
+4930,2.0,6.0,2.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,9.0,3.0,11.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Multiple Bank
+3783,2.0,3.0,2.0,0.0,1.0,0.0,G-11,G-11,0,1.0,1.0,3.0,10.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+4474,3.0,7.0,1.0,1.0,1.0,2.0,The Centaurus,F-8,0,1.0,1.0,4.0,7.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+4269,2.0,4.0,2.0,1.0,1.0,1.0,I-12,I-12,0,1.0,1.0,1.0,1.0,0.0,Modern Era,Ground/First Floor,Ground/Flat,Single/None
+5462,3.0,8.0,3.0,1.0,1.0,1.0,Bahria Enclave,Bahria Enclave,0,1.0,7.0,10.0,9.0,0.0,Recently Built,Mid-Level,Mid Rise Core,High-Capacity
+4296,2.0,6.0,2.0,1.0,2.0,1.0,Al-Ghurair Giga,DHA Phase 2,0,1.0,1.0,2.0,10.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+3348,1.0,2.0,1.0,0.0,1.0,0.0,Gulberg Greens,Gulberg Greens,0,1.0,4.0,2.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+3896,1.0,4.0,1.0,1.0,1.0,1.0,One Constitution Avenue,Constitution Avenue,0,1.0,11.0,1.0,22.0,1.0,Modern Era,High-Rise,High Rise,Single/None
+3347,1.0,2.0,1.0,0.0,1.0,0.0,Gulberg Greens,Gulberg Greens,0,1.0,5.0,2.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+4697,2.0,7.0,2.0,2.0,3.0,1.0,G-11,G-11,0,1.0,4.0,3.0,10.0,1.0,Brand New (2025),Lower Floors,Mid Rise Core,Multiple Bank
+3709,1.0,2.0,1.0,1.0,1.0,1.0,DHA Phase 1,DHA Phase 1,0,1.0,1.0,1.0,8.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+637,1.0,2.0,1.0,2.0,2.0,1.0,MPCHS,MPCHS - Multi Gardens,0,2.0,1.0,1.0,4.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Single/None
+4328,2.0,4.0,2.0,1.0,1.0,1.0,I-12,I-12,1,1.0,1.0,2.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+5504,2.0,3.0,2.0,1.0,1.0,1.0,The Magnus,Top City 1,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+5443,2.0,2.0,2.0,0.0,1.0,0.0,Faisal Margalla City,B-17,0,1.0,1.0,1.0,7.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+2842,1.0,3.0,1.0,1.0,1.0,1.0,Al-Ghurair Giga,Al-Ghurair Giga,0,1.0,8.0,2.0,10.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Dual Setup
+3443,1.0,3.0,1.0,1.0,1.0,1.0,Gulberg Heights,Gulberg Greens,1,1.0,1.0,1.0,6.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+5279,3.0,4.0,2.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,2.0,4.0,2.0,6.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+6060,3.0,5.0,3.0,1.0,1.0,1.0,Al-Ghurair Giga,Al-Ghurair Giga,0,1.0,1.0,2.0,10.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+1100,1.0,2.0,1.0,1.0,2.0,1.0,B-17,B-17,0,2.0,1.0,1.0,1.0,0.0,Modern Era,Ground/First Floor,Ground/Flat,Single/None
+1916,3.0,5.0,2.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,0,1.0,3.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+149,2.0,7.0,2.0,1.0,1.0,1.0,DHA Phase 4,DHA Phase 4,1,1.0,1.0,4.0,22.0,0.0,Future,Ground/First Floor,High Rise,Multiple Bank
+1972,2.0,4.0,2.0,3.0,1.0,1.0,Residency,DHA Phase 2,0,1.0,2.0,1.0,4.0,0.0,Recently Built,Lower Floors,Lower Levels,Single/None
+2888,2.0,3.0,2.0,1.0,1.0,1.0,Faisal Town,Faisal Town Phase 1,0,3.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+530,3.0,10.0,3.0,1.0,1.0,0.0,Mumtaz City,Mumtaz City,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+2242,2.0,5.0,2.0,1.0,1.0,1.0,Kazani Heights,Islamabad Expressway,0,4.0,5.0,4.0,12.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+150,3.0,7.0,3.0,1.0,1.0,2.0,Al-Ghurair Giga,Al-Ghurair Giga,0,1.0,1.0,2.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Dual Setup
+345,5.0,12.0,3.0,1.0,1.0,1.0,The Centaurus,F-8,0,1.0,1.0,4.0,1.0,1.0,Recently Built,Ground/First Floor,Ground/Flat,Multiple Bank
+2921,2.0,7.0,2.0,2.0,1.0,1.0,Skypark One,Gulberg Greens,0,3.0,1.0,1.0,9.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+1697,2.0,6.0,2.0,2.0,2.0,1.0,Executive Heights,F-11,0,1.0,4.0,4.0,9.0,1.0,Modern Era,Lower Floors,Mid Rise Core,Multiple Bank
+4472,3.0,7.0,1.0,1.0,1.0,0.0,The Centaurus,F-8,0,1.0,1.0,4.0,7.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+4875,2.0,7.0,2.0,1.0,1.0,1.0,Diplomatic Enclave,Diplomatic Enclave,0,1.0,1.0,1.0,11.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+2766,4.0,11.0,4.0,2.0,1.0,1.0,Capital Residencia,Margalla Hills-2,0,1.0,10.0,2.0,15.0,0.0,Recently Built,Mid-Level,High Rise,Dual Setup
+3442,3.0,8.0,2.0,1.0,2.0,1.0,Karakoram Greens,Gulberg Greens,1,1.0,1.0,1.0,16.0,0.0,Brand New (2025),Ground/First Floor,High Rise,Single/None
+412,2.0,7.0,2.0,1.0,1.0,1.0,Capital Heights,G-11,0,1.0,2.0,4.0,12.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Multiple Bank
+1803,1.0,3.0,1.0,1.0,1.0,1.0,Aries Tower,Gulberg Greens,0,1.0,1.0,6.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,High-Capacity
+5238,3.0,11.0,3.0,1.0,3.0,1.0,G-11,G-11,0,1.0,5.0,1.0,8.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Single/None
+5419,2.0,4.0,2.0,1.0,1.0,1.0,MPCHS,MPCHS - Multi Gardens,1,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+3334,1.0,3.0,1.0,0.0,1.0,0.0,Gulberg Residencia,Gulberg Residencia,0,1.0,5.0,2.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+663,4.0,10.0,4.0,2.0,1.0,1.0,Askari Heights 4,DHA Phase 5,0,1.0,1.0,4.0,5.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Multiple Bank
+4630,1.0,4.0,1.0,1.0,1.0,1.0,Zaraj Housing Scheme,Zaraj Housing Scheme,1,1.0,1.0,4.0,5.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+1562,2.0,4.0,2.0,1.0,2.0,1.0,Al-Ghurair Giga,Al-Ghurair Giga,1,3.0,1.0,2.0,10.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+2363,5.0,12.0,4.0,1.0,1.0,1.0,Askari Tower 4,DHA Phase 5,1,1.0,1.0,1.0,12.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+5319,3.0,4.0,2.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,4.0,1.0,6.0,8.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,High-Capacity
+2734,4.0,8.0,3.0,1.0,1.0,2.0,E-11,E-11,0,1.0,1.0,2.0,10.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Dual Setup
+4620,2.0,7.0,2.0,1.0,1.0,1.0,Bahria Enclave,Bahria Town,0,1.0,1.0,5.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,High-Capacity
+1725,4.0,9.0,3.0,0.0,1.0,1.0,Cube Apartments,Bahria Enclave,0,1.0,1.0,4.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+1996,2.0,4.0,2.0,1.0,1.0,1.0,MPCHS,MPCHS - Multi Gardens,1,1.0,1.0,1.0,3.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Single/None
+5535,4.0,16.0,4.0,1.0,1.0,1.0,Zarkon Heights,G-15,1,2.0,21.0,3.0,23.0,0.0,Recently Built,High-Rise,High Rise,Multiple Bank
+154,2.0,7.0,2.0,1.0,1.0,1.0,Goldcrest Views,DHA Phase 2,0,1.0,9.0,5.0,40.0,0.0,Future,Mid-Level,Skyscarper,High-Capacity
+3703,2.0,6.0,2.0,0.0,1.0,0.0,Faisal Town Phase 1,Faisal Town Phase 1,0,1.0,6.0,6.0,16.0,0.0,Brand New (2025),Mid-Level,High Rise,High-Capacity
+1712,1.0,4.0,1.0,1.0,1.0,1.0,Eighteen,Kashmir Highway,0,2.0,5.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+6200,1.0,2.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+2297,2.0,6.0,2.0,1.0,1.0,1.0,The Royal Mall and Residency,Bahria Enclave,0,1.0,5.0,6.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,High-Capacity
+4066,2.0,5.0,2.0,2.0,1.0,1.0,MPCHS,B-17,0,4.0,1.0,1.0,5.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+607,2.0,9.0,2.0,1.0,1.0,0.0,F-11,F-11,0,1.0,1.0,3.0,5.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Multiple Bank
+2939,1.0,2.0,1.0,0.0,1.0,0.0,Faisal Margalla City,B-17,0,1.0,3.0,1.0,15.0,0.0,Recently Built,Lower Floors,High Rise,Single/None
+2263,1.0,4.0,1.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,0,1.0,8.0,1.0,19.0,0.0,Future,Mid-Level,High Rise,Single/None
+1788,1.0,3.0,1.0,1.0,1.0,1.0,Elanza Mall & Residency,Gulberg Residencia,0,4.0,3.0,4.0,6.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+3648,4.0,10.0,3.0,1.0,1.0,1.0,Askari Heights 4,DHA Phase 5,0,2.0,1.0,2.0,12.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+6434,3.0,7.0,3.0,1.0,1.0,1.0,MPCHS,B-17,0,1.0,11.0,1.0,13.0,0.0,Recently Built,High-Rise,High Rise,Single/None
+1768,2.0,3.0,2.0,1.0,1.0,1.0,MPCHS,MPCHS - Multi Gardens,0,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+305,2.0,4.0,2.0,1.0,1.0,1.0,Top City 1,Top City 1,1,4.0,6.0,2.0,8.0,0.0,Brand New (2025),Mid-Level,Mid Rise Core,Dual Setup
+3473,3.0,9.0,3.0,1.0,1.0,1.0,Sukh Chayn Residence,F-10,0,3.0,3.0,1.0,3.0,1.0,Modern Era,Lower Floors,Lower Levels,Single/None
+344,4.0,16.0,3.0,1.0,1.0,1.0,F-11,F-11,1,1.0,1.0,1.0,9.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+4576,2.0,5.0,2.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,0,1.0,1.0,1.0,7.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+3101,2.0,4.0,3.0,1.0,1.0,1.0,Soan Garden,Soan Garden,0,3.0,2.0,1.0,3.0,0.0,Modern Era,Lower Floors,Lower Levels,Single/None
+5404,2.0,7.0,2.0,1.0,1.0,1.0,AJ Towers,Gulberg Greens,0,1.0,4.0,1.0,14.0,0.0,Recently Built,Lower Floors,High Rise,Single/None
+1769,3.0,11.0,3.0,0.0,1.0,0.0,B-17,B-17,0,1.0,1.0,1.0,22.0,0.0,Future,Ground/First Floor,High Rise,Single/None
+5133,5.0,14.0,4.0,1.0,1.0,1.0,DHA Phase 2,DHA Phase 2,1,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+1081,2.0,5.0,2.0,1.0,1.0,1.0,New Blue Area,New Blue Area,0,1.0,1.0,1.0,1.0,1.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+5130,3.0,12.0,3.0,1.0,3.0,1.0,Askari Tower 4,DHA Phase 5,0,2.0,1.0,1.0,12.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+5459,3.0,8.0,3.0,1.0,1.0,1.0,Pine Heights Luxury Apartments,D-17,0,1.0,7.0,3.0,10.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Multiple Bank
+2264,3.0,5.0,2.0,1.0,1.0,1.0,B-17,B-17,0,1.0,3.0,2.0,14.0,0.0,Recently Built,Lower Floors,High Rise,Dual Setup
+1992,4.0,12.0,3.0,1.0,1.0,1.0,Askari Tower 2,DHA Phase 2,0,1.0,4.0,2.0,7.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+3004,3.0,7.0,3.0,0.0,2.0,0.0,I-16,I-16,0,4.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+4609,2.0,3.0,2.0,1.0,1.0,1.0,I-12,I-12,1,1.0,1.0,2.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+357,4.0,13.0,2.0,1.0,1.0,1.0,The Centaurus,F-8,0,1.0,1.0,4.0,4.0,1.0,Recently Built,Ground/First Floor,Lower Levels,Multiple Bank
+2943,2.0,6.0,2.0,1.0,1.0,1.0,11 Central Apartments,G-11,0,1.0,1.0,4.0,1.0,1.0,Brand New (2025),Ground/First Floor,Ground/Flat,Multiple Bank
+1538,3.0,6.0,3.0,1.0,1.0,1.0,Smama Star Mall & Residency,Gulberg Greens,0,2.0,5.0,8.0,9.0,0.0,Recently Built,Lower Floors,Mid Rise Core,High-Capacity
+1486,2.0,7.0,2.0,1.0,1.0,1.0,Cube Apartments,Bahria Enclave,1,1.0,1.0,4.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+5634,3.0,4.0,3.0,1.0,1.0,1.0,I-16,I-16,1,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+6275,2.0,5.0,2.0,1.0,1.0,1.0,MPCHS,MPCHS - Multi Gardens,1,1.0,5.0,1.0,5.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+5202,5.0,10.0,4.0,2.0,1.0,1.0,Hyde Park One,Canyon Views Cvrp,0,4.0,1.0,1.0,1.0,1.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+2100,1.0,3.0,1.0,1.0,1.0,1.0,Kazani Heights,Islamabad Expressway,0,1.0,1.0,4.0,12.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+5420,2.0,4.0,2.0,1.0,1.0,1.0,CBR Town Phase 1,CBR Town Phase 1,0,4.0,3.0,2.0,4.0,0.0,Future,Lower Floors,Lower Levels,Dual Setup
+3640,4.0,11.0,4.0,1.0,1.0,1.0,Capital Residencia,Margalla Hills-2,0,1.0,1.0,2.0,15.0,0.0,Recently Built,Ground/First Floor,High Rise,Dual Setup
+1858,4.0,13.0,4.0,1.0,1.0,1.0,Askari Heights 4,DHA Phase 5,0,1.0,1.0,3.0,12.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+3066,2.0,4.0,2.0,1.0,1.0,1.0,D-12,D-12,1,1.0,3.0,1.0,4.0,0.0,Modern Era,Lower Floors,Lower Levels,Single/None
+6340,3.0,6.0,3.0,1.0,1.0,0.0,El Cielo,GT Road,1,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+4744,3.0,7.0,2.0,1.0,1.0,1.0,Business Bay DHA,DHA Phase 1,1,3.0,2.0,1.0,2.0,0.0,Recently Built,Lower Floors,Lower Levels,Single/None
+3763,3.0,13.0,3.0,1.0,1.0,1.0,Al-Safa Heights,F-11,1,1.0,5.0,2.0,7.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Dual Setup
+2257,1.0,2.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,4.0,1.0,1.0,0.0,Recently Built,Lower Floors,Ground/Flat,Single/None
+970,3.0,8.0,3.0,1.0,1.0,2.0,Capital Residencia,Margalla Hills-2,0,1.0,1.0,2.0,15.0,0.0,Recently Built,Ground/First Floor,High Rise,Dual Setup
+6071,3.0,8.0,3.0,1.0,1.0,1.0,E-11,E-11,0,1.0,6.0,1.0,10.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Single/None
+2846,2.0,4.0,2.0,1.0,1.0,1.0,G-10,G-10,0,1.0,2.0,1.0,10.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Single/None
+4625,2.0,4.0,2.0,1.0,1.0,1.0,F-17,F-17,0,1.0,1.0,1.0,4.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Single/None
+4696,3.0,8.0,3.0,1.0,1.0,1.0,G-11,G-11,0,1.0,2.0,2.0,6.0,1.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+4041,1.0,3.0,1.0,1.0,1.0,1.0,MPCHS,B-17,1,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2067,2.0,6.0,2.0,1.0,1.0,1.0,Capital Residencia,Margalla Hills-2,0,1.0,1.0,1.0,15.0,0.0,Recently Built,Ground/First Floor,High Rise,Single/None
+5987,3.0,5.0,3.0,1.0,1.0,1.0,Gulberg Emporium Mall & Residency,Gulberg Greens,0,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2011,1.0,3.0,1.0,1.0,1.0,1.0,Eighteen,Kashmir Highway,1,1.0,1.0,1.0,6.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2891,2.0,4.0,2.0,1.0,1.0,1.0,Goldcrest Highlife,DHA Phase 2,0,1.0,9.0,4.0,20.0,0.0,Future,Mid-Level,High Rise,Multiple Bank
+1482,1.0,3.0,1.0,1.0,1.0,1.0,Gulberg Arena Mall,Gulberg Greens,0,3.0,1.0,8.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,High-Capacity
+1346,3.0,9.0,3.0,1.0,1.0,1.0,Sukh Chayn Residence,F-10,0,1.0,1.0,1.0,12.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+2274,2.0,7.0,2.0,2.0,3.0,2.0,Gulberg Greens,Gulberg Greens,0,4.0,1.0,1.0,8.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+4295,1.0,2.0,1.0,1.0,1.0,1.0,Faisal Town,Faisal Town Phase 1,0,1.0,1.0,1.0,18.0,0.0,Future,Ground/First Floor,High Rise,Single/None
+227,1.0,4.0,1.0,1.0,1.0,0.0,G-10,G-10,0,1.0,3.0,3.0,10.0,1.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+5565,3.0,7.0,3.0,1.0,1.0,1.0,I-16,I-16,0,2.0,1.0,2.0,7.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+5601,1.0,4.0,1.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,0,1.0,5.0,9.0,14.0,0.0,Brand New (2025),Lower Floors,High Rise,High-Capacity
+1101,1.0,3.0,1.0,1.0,2.0,1.0,E-11,E-11,0,2.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+4239,3.0,7.0,3.0,1.0,1.0,1.0,I-16,I-16,0,1.0,6.0,2.0,7.0,0.0,Modern Era,Mid-Level,Mid Rise Core,Dual Setup
+5243,3.0,8.0,3.0,1.0,1.0,0.0,E-11,E-11,0,1.0,1.0,1.0,8.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+5741,1.0,3.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,7.0,2.0,9.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Dual Setup
+3752,3.0,6.0,3.0,2.0,2.0,2.0,El Cielo,GT Road,0,1.0,1.0,1.0,10.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+1588,2.0,7.0,2.0,1.0,1.0,1.0,Diplomatic Enclave,Diplomatic Enclave,0,1.0,1.0,1.0,11.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+1112,1.0,1.0,1.0,1.0,1.0,1.0,G-11,G-11,0,1.0,5.0,1.0,11.0,1.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+1767,2.0,5.0,2.0,1.0,1.0,1.0,Capital Square,B-17,0,1.0,1.0,1.0,14.0,0.0,Modern Era,Ground/First Floor,High Rise,Single/None
+3831,1.0,4.0,1.0,1.0,1.0,1.0,Bahria Garden City,Bahria Town,1,4.0,1.0,1.0,2.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Single/None
+2449,4.0,11.0,3.0,1.0,1.0,1.0,Askari Heights 4,DHA Phase 5,1,1.0,1.0,4.0,12.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+2735,1.0,2.0,1.0,0.0,1.0,1.0,D-17,D-17,0,1.0,1.0,1.0,4.0,0.0,Modern Era,Ground/First Floor,Lower Levels,Single/None
+6437,2.0,5.0,2.0,1.0,1.0,1.0,D-17,D-17,0,1.0,1.0,1.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2070,2.0,4.0,1.0,2.0,2.0,1.0,Mall of Islamabad,Blue Area,0,2.0,1.0,1.0,1.0,1.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+4738,3.0,12.0,3.0,1.0,1.0,1.0,Askari Tower 3,DHA Phase 5,1,1.0,1.0,1.0,12.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+3735,1.0,2.0,2.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,1.0,1.0,16.0,0.0,Recently Built,Ground/First Floor,High Rise,Single/None
+349,3.0,12.0,3.0,1.0,1.0,1.0,F-11,F-11,0,1.0,1.0,3.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Multiple Bank
+433,2.0,6.0,2.0,1.0,1.0,1.0,Silver Oaks Apartments,F-10,0,1.0,8.0,4.0,10.0,1.0,Modern Era,Mid-Level,Mid Rise Core,Multiple Bank
+2603,1.0,2.0,1.0,1.0,1.0,1.0,Soan Garden,Soan Garden,0,1.0,2.0,2.0,4.0,0.0,Recently Built,Lower Floors,Lower Levels,Dual Setup
+5816,3.0,7.0,3.0,1.0,1.0,1.0,Goldcrest Views,DHA Phase 2,0,4.0,22.0,8.0,40.0,0.0,Brand New (2025),High-Rise,Skyscarper,High-Capacity
+829,2.0,8.0,2.0,1.0,1.0,1.0,F-11,F-11,0,1.0,1.0,4.0,5.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Multiple Bank
+3373,2.0,3.0,2.0,1.0,1.0,0.0,PWD Housing Scheme,PWD Housing Scheme,0,4.0,3.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+4591,3.0,8.0,3.0,1.0,1.0,1.0,G-11,G-11,1,1.0,9.0,3.0,10.0,1.0,Brand New (2025),Mid-Level,Mid Rise Core,Multiple Bank
+3864,2.0,6.0,2.0,1.0,1.0,1.0,Bahria Enclave,Bahria Town,0,1.0,1.0,1.0,10.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+1052,3.0,7.0,2.0,1.0,1.0,1.0,Cube Apartments,Bahria Enclave,1,1.0,7.0,4.0,10.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Multiple Bank
+2159,2.0,8.0,2.0,1.0,1.0,1.0,Bani Gala,Bani Gala,0,1.0,3.0,2.0,5.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+263,2.0,4.0,2.0,1.0,2.0,1.0,B-17,B-17,0,2.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+3610,2.0,4.0,2.0,1.0,1.0,1.0,H-13,H-13,0,1.0,7.0,1.0,7.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Single/None
+355,1.0,2.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,0,2.0,6.0,1.0,7.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Single/None
+1348,1.0,2.0,1.0,1.0,1.0,2.0,Grand Orchard,DHA Phase 1,0,2.0,3.0,1.0,7.0,0.0,Future,Lower Floors,Mid Rise Core,Single/None
+2211,3.0,12.0,3.0,1.0,1.0,1.0,Askari Tower 1,DHA Phase 2,0,1.0,3.0,2.0,7.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+990,2.0,4.0,2.0,1.0,1.0,1.0,Capital Resorts,E-11,0,1.0,10.0,2.0,15.0,0.0,Brand New (2025),Mid-Level,High Rise,Dual Setup
+2431,5.0,14.0,4.0,1.0,1.0,1.0,Askari Heights 4,DHA Phase 5,0,1.0,12.0,3.0,12.0,0.0,Brand New (2025),High-Rise,Mid Rise Core,Multiple Bank
+2325,1.0,3.0,1.0,1.0,1.0,1.0,Capital Residencia,Margalla Hills-2,0,1.0,3.0,2.0,15.0,0.0,Modern Era,Lower Floors,High Rise,Dual Setup
+1732,1.0,1.0,1.0,0.0,1.0,1.0,Gulberg Residencia,Gulberg Residencia,0,2.0,3.0,1.0,5.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+483,2.0,4.0,2.0,1.0,1.0,1.0,E-11,E-11,0,1.0,2.0,1.0,5.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Single/None
+2497,3.0,9.0,3.0,1.0,1.0,1.0,Warda Hamna Residencia 3,G-11,0,3.0,1.0,3.0,23.0,1.0,Recently Built,Ground/First Floor,High Rise,Multiple Bank
+5684,2.0,6.0,2.0,2.0,1.0,1.0,Madina Tower,E-11,0,1.0,5.0,3.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+4009,6.0,17.0,4.0,1.0,1.0,2.0,Zarkon Heights,G-15,0,4.0,6.0,2.0,9.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Dual Setup
+4675,1.0,2.0,1.0,4.0,2.0,1.0,Mumtaz City,Mumtaz City,1,4.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+731,1.0,3.0,1.0,1.0,1.0,1.0,E-11,E-11,1,1.0,1.0,1.0,4.0,0.0,Modern Era,Ground/First Floor,Lower Levels,Single/None
+2041,2.0,6.0,2.0,1.0,1.0,1.0,Madina Tower,E-11,0,2.0,10.0,2.0,11.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Dual Setup
+4610,2.0,3.0,2.0,1.0,1.0,1.0,I-12,I-12,1,1.0,1.0,2.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+1196,2.0,4.0,2.0,2.0,1.0,1.0,I-16,I-16,0,1.0,1.0,2.0,8.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+708,3.0,7.0,3.0,2.0,1.0,1.0,Goldcrest Views,DHA Phase 2,0,1.0,1.0,6.0,1.0,0.0,Future,Ground/First Floor,Ground/Flat,High-Capacity
+1252,2.0,4.0,2.0,1.0,1.0,1.0,I-16,I-16,1,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+4508,3.0,7.0,3.0,1.0,2.0,2.0,I-16,I-16,0,2.0,4.0,2.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+329,3.0,9.0,2.0,1.0,2.0,1.0,Karakoram Diplomatic Enclave,Karakoram Diplomatic Enclave,0,1.0,1.0,1.0,11.0,1.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+3090,2.0,4.0,2.0,1.0,1.0,1.0,B-17,B-17,0,1.0,12.0,6.0,12.0,0.0,Brand New (2025),High-Rise,Mid Rise Core,High-Capacity
+5570,1.0,3.0,1.0,1.0,1.0,1.0,Al-Ghurair Giga,Al-Ghurair Giga,1,1.0,3.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+556,1.0,3.0,1.0,1.0,1.0,1.0,Cube Apartments,Bahria Enclave,1,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+1391,2.0,5.0,2.0,1.0,1.0,1.0,Bahria Enclave,Bahria Enclave,0,2.0,2.0,1.0,5.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+4325,1.0,2.0,1.0,1.0,1.0,1.0,MPCHS,MPCHS - Multi Gardens,1,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2059,2.0,3.0,2.0,0.0,2.0,0.0,G-11,G-11,0,1.0,10.0,3.0,13.0,1.0,Brand New (2025),Mid-Level,High Rise,Multiple Bank
+3815,6.0,13.0,4.0,1.0,2.0,1.0,Askari Heights 4,DHA Phase 5,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+4886,1.0,2.0,1.0,1.0,1.0,1.0,Ghauri Town,Ghauri Town,0,1.0,3.0,1.0,1.0,0.0,Modern Era,Lower Floors,Ground/Flat,Single/None
+2307,3.0,12.0,3.0,1.0,1.0,1.0,F-11,F-11,0,2.0,4.0,2.0,5.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+972,1.0,3.0,1.0,1.0,1.0,1.0,Capital Residencia,Margalla Hills-2,0,1.0,4.0,3.0,15.0,0.0,Recently Built,Lower Floors,High Rise,Multiple Bank
+2804,1.0,6.0,1.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+792,2.0,6.0,2.0,1.0,1.0,1.0,The Atrium,Zaraj Housing Scheme,0,3.0,3.0,2.0,9.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+2599,2.0,6.0,2.0,2.0,1.0,0.0,Bahria Enclave,Bahria Enclave,0,2.0,4.0,1.0,9.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+3120,2.0,8.0,2.0,1.0,1.0,1.0,F-11,F-11,0,1.0,1.0,3.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+4141,3.0,9.0,3.0,1.0,1.0,1.0,Sukh Chayn Residence,F-10,1,1.0,1.0,1.0,12.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+5865,3.0,7.0,3.0,1.0,1.0,1.0,I-16,I-16,0,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+707,2.0,6.0,2.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,1.0,3.0,13.0,0.0,Recently Built,Ground/First Floor,High Rise,Multiple Bank
+4323,1.0,3.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+4158,4.0,9.0,3.0,1.0,1.0,1.0,Margalla Hills-2,E-11,1,1.0,5.0,6.0,14.0,0.0,Modern Era,Lower Floors,High Rise,High-Capacity
+3682,2.0,8.0,2.0,1.0,1.0,1.0,Diplomatic Enclave,Diplomatic Enclave,0,2.0,2.0,1.0,5.0,1.0,Brand New (2025),Lower Floors,Mid Rise Core,Single/None
+3092,3.0,7.0,3.0,1.0,1.0,1.0,I-16,I-16,0,1.0,1.0,2.0,6.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+4020,3.0,9.0,3.0,1.0,1.0,0.0,F-10,F-10,0,1.0,1.0,1.0,1.0,1.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+5511,2.0,4.0,2.0,1.0,1.0,1.0,I-16,I-16,0,4.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+5112,2.0,3.0,2.0,0.0,1.0,0.0,Jinnah Gardens,FECHS,0,1.0,1.0,2.0,4.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Dual Setup
+4465,1.0,2.0,1.0,1.0,1.0,1.0,Smama Star Mall & Residency,Gulberg Greens,0,2.0,1.0,1.0,8.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+6050,2.0,6.0,2.0,0.0,1.0,0.0,Goldcrest Highlife,DHA Phase 2,0,2.0,6.0,5.0,10.0,0.0,Brand New (2025),Mid-Level,Mid Rise Core,High-Capacity
+6259,3.0,9.0,2.0,0.0,1.0,1.0,The Centaurus,F-8,0,3.0,1.0,2.0,11.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+3592,1.0,2.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,1,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+2424,1.0,4.0,1.0,1.0,1.0,1.0,One Constitution Avenue,Constitution Avenue,1,1.0,1.0,1.0,22.0,1.0,Modern Era,Ground/First Floor,High Rise,Single/None
+4010,6.0,17.0,4.0,1.0,1.0,2.0,Zarkon Heights,G-15,0,1.0,6.0,2.0,9.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Dual Setup
+6211,2.0,3.0,2.0,1.0,1.0,1.0,Jinnah Gardens Phase 1,Jinnah Gardens,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+4019,2.0,7.0,2.0,1.0,1.0,1.0,Mumtaz City,Mumtaz City,0,4.0,2.0,4.0,8.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Multiple Bank
+4180,3.0,7.0,3.0,1.0,1.0,1.0,MPCHS,B-17,0,2.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2917,3.0,8.0,3.0,1.0,2.0,1.0,Capital Square,B-17,0,1.0,1.0,1.0,12.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+1023,1.0,2.0,1.0,1.0,1.0,1.0,H-13,H-13,0,1.0,1.0,1.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+4169,3.0,7.0,2.0,1.0,1.0,1.0,Eighteen,Kashmir Highway,0,1.0,4.0,1.0,6.0,1.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+1782,1.0,3.0,1.0,2.0,1.0,1.0,Top City 1,Top City 1,0,4.0,3.0,3.0,10.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+5482,3.0,7.0,3.0,0.0,1.0,0.0,I-16,I-16,0,1.0,1.0,2.0,18.0,0.0,Recently Built,Ground/First Floor,High Rise,Dual Setup
+2105,4.0,11.0,3.0,1.0,1.0,1.0,Askari Heights 4,DHA Phase 5,0,1.0,1.0,2.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Dual Setup
+2025,2.0,3.0,2.0,1.0,1.0,1.0,G-11,G-11,1,1.0,1.0,3.0,10.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+1677,3.0,9.0,3.0,1.0,1.0,1.0,Minara Residence,GT Road,0,1.0,1.0,2.0,15.0,0.0,Recently Built,Ground/First Floor,High Rise,Dual Setup
+3117,1.0,2.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,4.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+3266,2.0,7.0,2.0,1.0,1.0,1.0,AJ Towers,Gulberg Greens,0,1.0,11.0,1.0,14.0,0.0,Recently Built,High-Rise,High Rise,Single/None
+5940,2.0,4.0,2.0,1.0,1.0,1.0,Bahria Enclave,Bahria Enclave,0,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2667,2.0,7.0,2.0,1.0,1.0,1.0,Constitution Avenue,Constitution Avenue,0,1.0,2.0,3.0,23.0,1.0,Recently Built,Lower Floors,High Rise,Multiple Bank
+6047,2.0,5.0,2.0,1.0,1.0,1.0,MPCHS,B-17,0,2.0,4.0,3.0,11.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+4901,2.0,4.0,2.0,1.0,1.0,1.0,I-16,I-16,0,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+973,2.0,4.0,2.0,1.0,1.0,1.0,Capital Residencia,Margalla Hills-2,0,1.0,1.0,2.0,15.0,0.0,Modern Era,Ground/First Floor,High Rise,Dual Setup
+3836,2.0,4.0,2.0,1.0,1.0,1.0,Residency,DHA Phase 2,0,1.0,1.0,2.0,1.0,0.0,Modern Era,Ground/First Floor,Ground/Flat,Dual Setup
+6343,3.0,7.0,3.0,1.0,1.0,0.0,Residency,DHA Phase 2,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+3996,2.0,7.0,2.0,1.0,2.0,1.0,Warda Hamna Residencia 3,G-11,0,1.0,4.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+1457,3.0,13.0,3.0,1.0,1.0,1.0,The Centaurus,F-8,0,1.0,20.0,2.0,22.0,1.0,Modern Era,High-Rise,High Rise,Dual Setup
+640,4.0,9.0,3.0,1.0,1.0,1.0,DHA Phase 1,DHA Phase 1,0,2.0,2.0,2.0,3.0,0.0,Modern Era,Lower Floors,Lower Levels,Dual Setup
+4329,2.0,7.0,1.0,1.0,1.0,1.0,The Centaurus,F-8,1,1.0,1.0,4.0,1.0,1.0,Recently Built,Ground/First Floor,Ground/Flat,Multiple Bank
+1168,3.0,11.0,3.0,1.0,1.0,1.0,Askari Heights 4,DHA Phase 5,1,1.0,1.0,1.0,12.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+6256,1.0,5.0,1.0,1.0,1.0,1.0,F-8,F-8,0,4.0,10.0,3.0,10.0,1.0,Recently Built,Mid-Level,Mid Rise Core,Multiple Bank
+195,1.0,2.0,1.0,1.0,1.0,1.0,Faisal Hills,Faisal Hills,1,1.0,1.0,1.0,6.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+6344,2.0,5.0,2.0,1.0,1.0,1.0,Residency,DHA Phase 2,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+4486,2.0,3.0,2.0,1.0,1.0,1.0,E-17,E-17,0,4.0,4.0,2.0,12.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+1209,3.0,4.0,3.0,1.0,1.0,1.0,G-15,G-15,0,1.0,1.0,1.0,5.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+1891,1.0,4.0,1.0,1.0,1.0,1.0,Gevora International Hotel & Mall,Gulberg Greens,1,1.0,1.0,1.0,16.0,0.0,Recently Built,Ground/First Floor,High Rise,Single/None
+2570,2.0,5.0,2.0,1.0,1.0,1.0,B-17,B-17,0,1.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+1591,3.0,6.0,3.0,1.0,1.0,1.0,Smama Star Mall & Residency,Gulberg Greens,1,4.0,7.0,1.0,8.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Single/None
+2607,2.0,9.0,2.0,1.0,1.0,1.0,Diplomatic Enclave,Diplomatic Enclave,0,1.0,7.0,1.0,11.0,1.0,Recently Built,Mid-Level,Mid Rise Core,Single/None
+5794,2.0,4.0,2.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,1.0,2.0,2.0,6.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+1716,2.0,7.0,2.0,1.0,1.0,1.0,Eighteen,Kashmir Highway,0,1.0,1.0,1.0,6.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+1885,2.0,7.0,2.0,1.0,1.0,1.0,Diplomatic Enclave,Diplomatic Enclave,0,1.0,1.0,1.0,11.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+4317,1.0,2.0,1.0,1.0,1.0,1.0,Gulberg Residencia,Gulberg Residencia,1,1.0,1.0,1.0,5.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+2693,1.0,3.0,1.0,1.0,1.0,1.0,Goldcrest Views,DHA Phase 2,0,1.0,1.0,1.0,40.0,0.0,Brand New (2025),Ground/First Floor,Skyscarper,Single/None
+4139,3.0,8.0,3.0,2.0,2.0,2.0,11 Central Apartments,G-11,0,1.0,1.0,1.0,1.0,1.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+465,2.0,6.0,2.0,1.0,1.0,1.0,Zarkon Heights,G-15,0,1.0,3.0,2.0,1.0,0.0,Recently Built,Lower Floors,Ground/Flat,Dual Setup
+1764,2.0,2.0,1.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,4.0,4.0,6.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,High-Capacity
+1970,2.0,7.0,2.0,1.0,1.0,1.0,Karakoram Diplomatic Enclave,Karakoram Diplomatic Enclave,0,1.0,4.0,2.0,10.0,1.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+2545,2.0,5.0,2.0,1.0,1.0,1.0,B-17,B-17,1,1.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+873,2.0,8.0,2.0,2.0,1.0,0.0,18 West Residencia,F-11,0,1.0,5.0,3.0,6.0,1.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+4485,2.0,3.0,2.0,1.0,1.0,1.0,E-17,E-17,0,4.0,4.0,2.0,12.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+1977,1.0,4.0,1.0,1.0,1.0,1.0,DHA Phase 5,DHA Phase 5,0,1.0,1.0,1.0,1.0,0.0,Future,Ground/First Floor,Ground/Flat,Single/None
+4641,1.0,2.0,1.0,1.0,1.0,1.0,H-13,H-13,0,1.0,1.0,1.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+6003,3.0,12.0,2.0,0.0,1.0,1.0,F-11,F-11,0,1.0,3.0,1.0,9.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Single/None
+668,2.0,2.0,2.0,1.0,1.0,1.0,Capital Homes,H-13,1,1.0,3.0,6.0,1.0,0.0,Recently Built,Lower Floors,Ground/Flat,High-Capacity
+1738,4.0,10.0,3.0,1.0,2.0,1.0,Eighteen,Kashmir Highway,0,2.0,3.0,1.0,6.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+2740,2.0,4.0,2.0,0.0,1.0,1.0,D-17,D-17,0,1.0,1.0,1.0,4.0,0.0,Modern Era,Ground/First Floor,Lower Levels,Single/None
+1786,2.0,4.0,1.0,1.0,1.0,1.0,Gulberg Heights,Gulberg Greens,0,1.0,1.0,6.0,6.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,High-Capacity
+1483,1.0,2.0,1.0,1.0,1.0,1.0,Gulberg Residencia,Gulberg Residencia,0,4.0,1.0,6.0,6.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,High-Capacity
+1522,3.0,8.0,3.0,1.0,1.0,1.0,Bahria Enclave,Bahria Town,0,1.0,3.0,10.0,9.0,0.0,Recently Built,Lower Floors,Mid Rise Core,High-Capacity
+3528,2.0,4.0,2.0,1.0,1.0,1.0,Margalla View Society,Margalla View Housing Society,0,1.0,1.0,1.0,1.0,0.0,Modern Era,Ground/First Floor,Ground/Flat,Single/None
+761,3.0,12.0,3.0,0.0,1.0,0.0,The Centaurus,F-8,0,1.0,1.0,1.0,1.0,1.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+71,2.0,5.0,2.0,1.0,1.0,1.0,Residency,DHA Phase 2,0,2.0,5.0,2.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+2268,1.0,2.0,1.0,1.0,2.0,1.0,Gulberg Greens,Gulberg Greens,0,1.0,1.0,1.0,8.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+4946,2.0,6.0,2.0,1.0,1.0,1.0,Park View City,Park View City,0,2.0,1.0,1.0,5.0,1.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+4680,2.0,4.0,2.0,4.0,1.0,1.0,Top City 1,Top City 1,0,1.0,1.0,1.0,1.0,0.0,Modern Era,Ground/First Floor,Ground/Flat,Single/None
+2406,3.0,7.0,3.0,0.0,1.0,1.0,E-11,E-11,0,1.0,1.0,1.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+1437,2.0,5.0,1.0,1.0,1.0,1.0,Cube Apartments,Bahria Enclave,1,1.0,5.0,5.0,9.0,0.0,Recently Built,Lower Floors,Mid Rise Core,High-Capacity
+4650,1.0,2.0,2.0,1.0,1.0,1.0,Faisal Town,Faisal Town Phase 1,0,1.0,15.0,6.0,17.0,0.0,Recently Built,High-Rise,High Rise,High-Capacity
+2374,3.0,7.0,3.0,1.0,1.0,1.0,Paradise Villa Apartments,D-17,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+762,1.0,3.0,1.0,1.0,1.0,1.0,Al-Ghurair Giga,Al-Ghurair Giga,0,2.0,2.0,1.0,6.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Single/None
+2375,2.0,5.0,2.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,0,4.0,1.0,1.0,2.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Single/None
+1539,3.0,9.0,2.0,1.0,1.0,1.0,Karakoram Greens,Gulberg Greens,0,3.0,12.0,8.0,22.0,0.0,Brand New (2025),High-Rise,High Rise,High-Capacity
+1654,1.0,2.0,1.0,1.0,1.0,1.0,Silver Oaks Apartments,F-10,0,1.0,1.0,10.0,10.0,2.0,Modern Era,Ground/First Floor,Mid Rise Core,High-Capacity
+2027,2.0,4.0,2.0,0.0,1.0,0.0,I-16,I-16,0,1.0,1.0,1.0,8.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2364,5.0,12.0,4.0,1.0,1.0,1.0,Askari Tower 4,DHA Phase 5,1,1.0,1.0,1.0,12.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+3869,3.0,12.0,3.0,1.0,1.0,1.0,J7 Emporium,B-17,0,1.0,1.0,1.0,31.0,0.0,Future,Ground/First Floor,Skyscarper,Single/None
+4310,1.0,3.0,1.0,1.0,2.0,1.0,Residency,DHA Phase 2,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+1748,1.0,2.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+297,3.0,8.0,3.0,1.0,1.0,1.0,Bahria Enclave,Bahria Town,0,1.0,1.0,10.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,High-Capacity
+1192,1.0,3.0,1.0,1.0,1.0,1.0,Kazani Heights,Islamabad Expressway,0,1.0,3.0,4.0,12.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+192,5.0,12.0,4.0,2.0,1.0,1.0,Sukh Chayn Residence,F-10,0,2.0,1.0,3.0,12.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+413,4.0,10.0,3.0,1.0,1.0,1.0,The Arch,G-11,1,1.0,4.0,1.0,13.0,0.0,Recently Built,Lower Floors,High Rise,Single/None
+1111,2.0,4.0,2.0,0.0,1.0,0.0,G-9,G-9,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+4440,4.0,16.0,3.0,1.0,2.0,1.0,F-11,F-11,0,1.0,1.0,1.0,9.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+414,2.0,8.0,2.0,2.0,1.0,1.0,Warda Hamna Residencia 3,G-11,0,1.0,1.0,1.0,8.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2583,3.0,10.0,3.0,1.0,1.0,0.0,The Atrium,Zaraj Housing Scheme,1,1.0,3.0,2.0,9.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+429,2.0,6.0,2.0,1.0,1.0,1.0,G-11,G-11,1,1.0,2.0,4.0,9.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Multiple Bank
+5336,2.0,4.0,2.0,0.0,2.0,2.0,Soan Garden,Soan Garden,0,1.0,1.0,1.0,6.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2357,2.0,7.0,2.0,1.0,1.0,1.0,DHA Phase 2,DHA Phase 2,0,1.0,1.0,7.0,1.0,1.0,Future,Ground/First Floor,Ground/Flat,High-Capacity
+2376,3.0,8.0,3.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,0,4.0,1.0,1.0,2.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Single/None
+4453,2.0,4.0,2.0,1.0,1.0,1.0,I-12,I-12,1,1.0,1.0,2.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+6062,2.0,5.0,2.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,0,1.0,1.0,5.0,35.0,0.0,Future,Ground/First Floor,Skyscarper,High-Capacity
+2377,4.0,11.0,4.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,1,2.0,1.0,1.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+3259,3.0,9.0,3.0,1.0,1.0,1.0,G-11,G-11,0,2.0,4.0,6.0,10.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,High-Capacity
+6336,2.0,5.0,2.0,1.0,1.0,0.0,Residency,DHA Phase 2,1,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+496,1.0,3.0,1.0,1.0,1.0,1.0,Gulberg Heights,Gulberg Greens,0,1.0,3.0,2.0,6.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+4517,3.0,8.0,3.0,1.0,1.0,1.0,Bahria Enclave,Bahria Town,0,1.0,3.0,10.0,9.0,0.0,Recently Built,Lower Floors,Mid Rise Core,High-Capacity
+1320,1.0,2.0,1.0,1.0,1.0,1.0,Soan Garden,Soan Garden,0,1.0,1.0,1.0,5.0,0.0,Future,Ground/First Floor,Mid Rise Core,Single/None
+1736,1.0,5.0,1.0,1.0,1.0,1.0,The Centaurus,F-8,1,1.0,1.0,4.0,1.0,1.0,Recently Built,Ground/First Floor,Ground/Flat,Multiple Bank
+5469,1.0,3.0,1.0,1.0,1.0,1.0,B-17,B-17,1,1.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+1555,4.0,8.0,4.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,1.0,5.0,4.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+4291,2.0,5.0,2.0,1.0,1.0,1.0,Pir Sohawa,Pir Sohawa,1,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+5583,2.0,4.0,2.0,1.0,1.0,1.0,F-17,F-17,0,1.0,1.0,1.0,4.0,0.0,Brand New (2025),Ground/First Floor,Lower Levels,Single/None
+6004,2.0,4.0,2.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,2.0,4.0,1.0,6.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+3518,2.0,6.0,2.0,1.0,1.0,0.0,Executive Heights,F-11,0,1.0,1.0,1.0,9.0,1.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+1865,3.0,9.0,2.0,1.0,1.0,1.0,Karakoram Diplomatic Enclave,Karakoram Diplomatic Enclave,0,1.0,1.0,1.0,11.0,1.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+2413,2.0,4.0,2.0,0.0,1.0,0.0,Gulberg Greens,Gulberg Greens,0,1.0,1.0,2.0,3.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Dual Setup
+3595,1.0,4.0,1.0,1.0,1.0,1.0,Bani Gala,Bani Gala,0,4.0,4.0,2.0,6.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+2329,1.0,4.0,1.0,1.0,1.0,1.0,The 360 Residences,Bhara kahu,1,1.0,1.0,1.0,21.0,1.0,Future,Ground/First Floor,High Rise,Single/None
+4321,2.0,3.0,2.0,1.0,1.0,1.0,I-12,I-12,1,2.0,1.0,2.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+4190,1.0,2.0,1.0,1.0,1.0,1.0,Mumtaz City,Mumtaz City,1,1.0,1.0,1.0,12.0,0.0,Future,Ground/First Floor,Mid Rise Core,Single/None
+5310,2.0,4.0,2.0,1.0,2.0,1.0,Faisal Town,Faisal Town Phase 1,1,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2951,1.0,4.0,1.0,0.0,1.0,1.0,Infinity Mall,D-17,0,1.0,7.0,4.0,10.0,0.0,Brand New (2025),Mid-Level,Mid Rise Core,Multiple Bank
+3169,4.0,12.0,3.0,1.0,1.0,1.0,Askari Tower 1,DHA Phase 2,0,1.0,1.0,1.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+6417,4.0,17.0,4.0,1.0,1.0,1.0,Karakoram Enclave 1,Karakoram Enclave 1,0,2.0,4.0,2.0,7.0,0.0,Established,Lower Floors,Mid Rise Core,Dual Setup
+5067,1.0,2.0,1.0,0.0,1.0,0.0,Top City 1,Top City 1,0,1.0,1.0,1.0,18.0,0.0,Brand New (2025),Ground/First Floor,High Rise,Single/None
+895,3.0,6.0,3.0,1.0,2.0,1.0,Gulberg Greens,Gulberg Greens,0,1.0,1.0,1.0,8.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+931,1.0,3.0,1.0,1.0,1.0,1.0,Cube Apartments,Bahria Enclave,0,1.0,1.0,1.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+6477,3.0,10.0,3.0,0.0,1.0,0.0,Askari Heights 4,DHA Phase 5,0,1.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+5474,1.0,2.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,0,4.0,11.0,10.0,21.0,1.0,Future,High-Rise,High Rise,High-Capacity
+4831,4.0,12.0,3.0,1.0,1.0,1.0,Askari Tower 3,DHA Phase 5,0,2.0,1.0,1.0,20.0,0.0,Brand New (2025),Ground/First Floor,High Rise,Single/None
+612,3.0,6.0,3.0,1.0,1.0,1.0,Smama Star Mall & Residency,Gulberg Greens,1,1.0,4.0,1.0,4.0,0.0,Recently Built,Lower Floors,Lower Levels,Single/None
+4044,1.0,3.0,1.0,1.0,1.0,1.0,Bahria Enclave,Bahria Town,1,1.0,5.0,4.0,9.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+5188,4.0,12.0,3.0,0.0,1.0,0.0,F-11,F-11,0,1.0,1.0,1.0,9.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+1093,2.0,4.0,2.0,1.0,1.0,1.0,I-16,I-16,1,1.0,1.0,2.0,7.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+569,2.0,5.0,2.0,1.0,1.0,1.0,Capital Square,B-17,0,1.0,2.0,1.0,3.0,0.0,Recently Built,Lower Floors,Lower Levels,Single/None
+1989,2.0,7.0,2.0,1.0,2.0,2.0,Eighteen,Kashmir Highway,0,1.0,1.0,1.0,6.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+4371,2.0,4.0,2.0,0.0,1.0,1.0,I-16,I-16,0,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+2260,2.0,4.0,2.0,1.0,1.0,1.0,PWD Housing Scheme,PWD Housing Scheme,1,1.0,1.0,1.0,4.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Single/None
+4970,2.0,5.0,2.0,1.0,1.0,1.0,B-17,B-17,1,1.0,1.0,4.0,14.0,0.0,Brand New (2025),Ground/First Floor,High Rise,Multiple Bank
+1218,2.0,8.0,2.0,1.0,1.0,1.0,F-11,F-11,0,2.0,1.0,3.0,9.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Multiple Bank
+745,2.0,4.0,2.0,0.0,1.0,0.0,Gulberg Greens,Gulberg Greens,0,1.0,5.0,1.0,7.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Single/None
+1236,3.0,5.0,3.0,1.0,1.0,1.0,Al-Ghurair Giga,Al-Ghurair Giga,0,1.0,1.0,2.0,10.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+5303,4.0,9.0,3.0,0.0,1.0,0.0,Sukh Chayn Residence,F-10,0,1.0,1.0,1.0,1.0,1.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+316,4.0,13.0,3.0,1.0,1.0,1.0,Askari Heights 4,DHA Phase 5,0,2.0,4.0,2.0,12.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+3775,2.0,3.0,2.0,2.0,2.0,2.0,Jinnah Gardens,FECHS,0,3.0,1.0,2.0,12.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+6441,2.0,4.0,2.0,0.0,1.0,1.0,D-17,D-17,0,1.0,1.0,5.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,High-Capacity
+4080,3.0,12.0,3.0,1.0,1.0,1.0,Madina Tower,E-11,0,1.0,11.0,2.0,11.0,0.0,Recently Built,High-Rise,Mid Rise Core,Dual Setup
+6164,2.0,6.0,2.0,1.0,1.0,1.0,Goldcrest Highlife,DHA Phase 2,1,1.0,1.0,5.0,20.0,0.0,Future,Ground/First Floor,High Rise,High-Capacity
+2135,1.0,4.0,1.0,1.0,1.0,1.0,Blue Area,Blue Area,1,1.0,1.0,3.0,6.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+4022,3.0,9.0,3.0,1.0,1.0,1.0,Savoy Residence,F-11,0,2.0,4.0,4.0,5.0,1.0,Modern Era,Lower Floors,Mid Rise Core,Multiple Bank
+5210,2.0,4.0,2.0,1.0,1.0,1.0,PHAF Officers Residencia,Kuri Road,1,1.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+5380,1.0,4.0,1.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,1,1.0,1.0,1.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2600,1.0,3.0,1.0,1.0,1.0,1.0,Gulberg Heights,Gulberg Greens,0,1.0,3.0,1.0,6.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+866,2.0,3.0,2.0,1.0,1.0,1.0,G-11,G-11,1,1.0,1.0,3.0,10.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+3511,1.0,3.0,1.0,1.0,1.0,1.0,E-11,E-11,0,1.0,1.0,1.0,9.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+1147,3.0,11.0,4.0,1.0,1.0,1.0,Askari Tower 1,DHA Phase 2,1,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+4593,2.0,3.0,2.0,1.0,1.0,1.0,G-11,G-11,0,1.0,3.0,1.0,3.0,0.0,Brand New (2025),Lower Floors,Lower Levels,Single/None
+5110,1.0,2.0,1.0,1.0,1.0,1.0,Bahria Enclave,Bahria Enclave,1,1.0,1.0,1.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+4389,1.0,2.0,1.0,0.0,1.0,1.0,Top City 1,Top City 1,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+2111,2.0,3.0,2.0,1.0,2.0,1.0,Faisal Town,Faisal Town Phase 1,1,3.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2960,1.0,3.0,1.0,1.0,2.0,0.0,Bahria Enclave,Bahria Enclave,0,2.0,1.0,1.0,2.0,0.0,Modern Era,Ground/First Floor,Lower Levels,Single/None
+4297,3.0,5.0,3.0,1.0,1.0,1.0,DHA Phase 2,DHA Phase 2,1,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+5266,3.0,9.0,2.0,1.0,1.0,1.0,The Centaurus,F-8,0,2.0,16.0,2.0,35.0,1.0,Modern Era,High-Rise,Skyscarper,Dual Setup
+3906,3.0,6.0,2.0,1.0,1.0,1.0,DHA Defence,DHA Defence,0,1.0,1.0,1.0,1.0,0.0,Future,Ground/First Floor,Ground/Flat,Single/None
+5032,1.0,3.0,1.0,1.0,1.0,1.0,B-17,B-17,0,1.0,2.0,1.0,12.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Single/None
+5834,3.0,10.0,3.0,0.0,1.0,0.0,Khudadad Heights,E-11,1,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+4594,2.0,8.0,2.0,1.0,2.0,1.0,G-11,G-11,0,1.0,3.0,3.0,10.0,1.0,Brand New (2025),Lower Floors,Mid Rise Core,Multiple Bank
+2213,2.0,5.0,2.0,1.0,1.0,1.0,Sukh Chayn Residence,F-10,0,1.0,4.0,4.0,20.0,1.0,Brand New (2025),Lower Floors,High Rise,Multiple Bank
+2427,2.0,4.0,2.0,1.0,1.0,1.0,Capital Resorts,E-11,0,1.0,10.0,2.0,15.0,0.0,Recently Built,Mid-Level,High Rise,Dual Setup
+4521,3.0,4.0,4.0,1.0,1.0,1.0,G-15,G-15,1,1.0,1.0,1.0,5.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+3560,3.0,5.0,3.0,1.0,1.0,1.0,Capital Resorts,E-11,0,1.0,6.0,2.0,14.0,0.0,Brand New (2025),Mid-Level,High Rise,Dual Setup
+4120,2.0,4.0,2.0,1.0,1.0,1.0,D-17,D-17,0,1.0,1.0,1.0,4.0,0.0,Modern Era,Ground/First Floor,Lower Levels,Single/None
+2646,2.0,7.0,2.0,1.0,1.0,1.0,Karakoram Greens,Gulberg Greens,0,2.0,14.0,4.0,24.0,1.0,Brand New (2025),High-Rise,High Rise,Multiple Bank
+5827,3.0,4.0,2.0,1.0,1.0,1.0,Diamond Mall & Residency,Gulberg Greens,1,1.0,3.0,1.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+2160,2.0,6.0,2.0,1.0,1.0,1.0,G-11,G-11,0,1.0,1.0,3.0,11.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+4678,1.0,2.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,1,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+4466,1.0,2.0,1.0,1.0,1.0,1.0,Smama Star Mall & Residency,Gulberg Greens,0,1.0,2.0,1.0,4.0,0.0,Recently Built,Lower Floors,Lower Levels,Single/None
+2887,2.0,6.0,2.0,2.0,2.0,2.0,Gulberg Greens,Gulberg Greens,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+2176,1.0,2.0,1.0,1.0,1.0,1.0,Goldcrest Highlife,DHA Phase 2,1,1.0,1.0,5.0,20.0,0.0,Future,Ground/First Floor,High Rise,High-Capacity
+4903,2.0,5.0,1.0,1.0,1.0,1.0,Cube Apartments,Bahria Enclave,0,1.0,1.0,6.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,High-Capacity
+5090,2.0,3.0,2.0,2.0,1.0,2.0,E-11,E-11,0,1.0,1.0,1.0,5.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+6051,3.0,8.0,3.0,1.0,1.0,1.0,I-8,I-8,1,1.0,1.0,1.0,2.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Single/None
+1122,3.0,6.0,2.0,1.0,1.0,1.0,Eighteen,Kashmir Highway,0,1.0,1.0,2.0,8.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+6109,2.0,3.0,2.0,0.0,2.0,0.0,Soan Garden,Soan Garden,0,2.0,1.0,1.0,6.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+5461,3.0,8.0,3.0,1.0,1.0,1.0,Bahria Enclave,Bahria Enclave,0,1.0,1.0,10.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,High-Capacity
+1959,1.0,3.0,1.0,1.0,1.0,2.0,DHA Phase 2,DHA Phase 2,1,2.0,2.0,1.0,4.0,0.0,Recently Built,Lower Floors,Lower Levels,Single/None
+4109,3.0,5.0,3.0,1.0,1.0,1.0,Gulberg Emporium Mall & Residency,Gulberg Greens,1,1.0,3.0,2.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+969,2.0,8.0,2.0,1.0,1.0,1.0,G-11,G-11,0,1.0,20.0,4.0,25.0,0.0,Brand New (2025),High-Rise,High Rise,Multiple Bank
+3653,2.0,4.0,2.0,1.0,1.0,1.0,Residency,DHA Phase 2,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+5702,4.0,10.0,3.0,1.0,1.0,1.0,Executive Heights,F-11,0,1.0,8.0,8.0,8.0,1.0,Modern Era,Mid-Level,Mid Rise Core,High-Capacity
+6330,3.0,9.0,3.0,0.0,1.0,0.0,Executive Apartments,DHA Phase 2,0,1.0,1.0,1.0,20.0,0.0,Modern Era,Ground/First Floor,High Rise,Single/None
+4103,2.0,4.0,2.0,0.0,1.0,4.0,Luxus Mall and Residency,Gulberg Greens,0,3.0,7.0,1.0,8.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Single/None
+6140,2.0,4.0,2.0,1.0,1.0,1.0,MPCHS,MPCHS - Multi Gardens,1,1.0,2.0,1.0,5.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Single/None
+4624,2.0,3.0,2.0,1.0,1.0,1.0,I-12,I-12,0,2.0,1.0,2.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+816,3.0,5.0,3.0,1.0,1.0,1.0,Al-Ghurair Giga,Al-Ghurair Giga,0,2.0,1.0,2.0,10.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+3810,2.0,4.0,2.0,0.0,1.0,0.0,Soan Garden,Soan Garden,0,1.0,1.0,1.0,6.0,0.0,Future,Ground/First Floor,Mid Rise Core,Single/None
+4892,2.0,5.0,2.0,1.0,1.0,0.0,E-11,E-11,0,1.0,6.0,2.0,8.0,0.0,Modern Era,Mid-Level,Mid Rise Core,Dual Setup
+4237,2.0,6.0,2.0,1.0,1.0,1.0,Lignum Tower,DHA Phase 2,0,1.0,10.0,4.0,20.0,0.0,Modern Era,Mid-Level,High Rise,Multiple Bank
+300,1.0,2.0,1.0,1.0,2.0,1.0,Park View City,Park View City,0,1.0,1.0,1.0,12.0,1.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+2756,3.0,9.0,3.0,1.0,1.0,1.0,Sukh Chayn Residence,F-10,0,2.0,10.0,6.0,12.0,1.0,Recently Built,Mid-Level,Mid Rise Core,High-Capacity
+2947,5.0,14.0,4.0,1.0,1.0,1.0,DHA Phase 2,DHA Phase 2,0,2.0,1.0,2.0,7.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+3657,2.0,7.0,1.0,1.0,1.0,1.0,The Centaurus,F-8,0,1.0,4.0,2.0,8.0,1.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+3396,2.0,4.0,2.0,1.0,2.0,1.0,River Garden,River Garden,0,2.0,2.0,3.0,5.0,0.0,Vintage,Lower Floors,Mid Rise Core,Multiple Bank
+4982,3.0,8.0,3.0,1.0,1.0,1.0,Bahria Enclave,Bahria Town,0,1.0,7.0,10.0,9.0,0.0,Brand New (2025),Mid-Level,Mid Rise Core,High-Capacity
+1535,2.0,9.0,2.0,1.0,1.0,1.0,Faisal Town,Faisal Town Phase 1,0,1.0,7.0,3.0,17.0,0.0,Recently Built,Mid-Level,High Rise,Multiple Bank
+2032,3.0,11.0,3.0,1.0,1.0,1.0,F-11,F-11,0,2.0,3.0,2.0,5.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+1487,2.0,7.0,2.0,1.0,1.0,1.0,Bahria Enclave,Bahria Enclave,0,1.0,2.0,4.0,9.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Multiple Bank
+4326,2.0,4.0,2.0,1.0,1.0,1.0,I-16,I-16,0,3.0,1.0,2.0,7.0,0.0,Established,Ground/First Floor,Mid Rise Core,Dual Setup
+5109,1.0,3.0,1.0,1.0,1.0,1.0,Residency,DHA Phase 2,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+5895,1.0,2.0,1.0,1.0,1.0,2.0,MPCHS,MPCHS - Multi Gardens,0,1.0,3.0,1.0,5.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+4225,3.0,8.0,3.0,1.0,1.0,1.0,Bani Gala,Bani Gala,1,4.0,3.0,2.0,6.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+3862,1.0,2.0,1.0,1.0,1.0,1.0,Bahria Enclave,Bahria Enclave,1,1.0,1.0,1.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+1180,2.0,3.0,2.0,1.0,1.0,1.0,E-16,E-16,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+2275,1.0,3.0,1.0,1.0,2.0,1.0,F-10,F-10,0,4.0,6.0,1.0,10.0,1.0,Brand New (2025),Mid-Level,Mid Rise Core,Single/None
+4729,2.0,4.0,2.0,1.0,1.0,1.0,I-12,I-12,1,1.0,1.0,2.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+3100,2.0,7.0,2.0,1.0,1.0,1.0,DHA Phase 1,DHA Phase 1,0,1.0,1.0,1.0,2.0,0.0,Modern Era,Ground/First Floor,Lower Levels,Single/None
+3825,1.0,2.0,1.0,1.0,1.0,1.0,CBR Town Phase 1,CBR Town Phase 1,1,1.0,1.0,2.0,4.0,0.0,Brand New (2025),Ground/First Floor,Lower Levels,Dual Setup
+3313,1.0,3.0,2.0,1.0,1.0,1.0,F-10,F-10,1,1.0,1.0,1.0,1.0,1.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+6374,1.0,3.0,1.0,0.0,2.0,0.0,Faisal Town,Faisal Town Phase 1,0,1.0,3.0,6.0,16.0,0.0,Recently Built,Lower Floors,High Rise,High-Capacity
+941,1.0,2.0,1.0,1.0,1.0,1.0,Telegardens (T&T ECHS),F-17,0,1.0,2.0,1.0,4.0,0.0,Recently Built,Lower Floors,Lower Levels,Single/None
+3913,2.0,8.0,2.0,1.0,1.0,1.0,Diplomatic Enclave,Diplomatic Enclave,0,1.0,2.0,2.0,6.0,1.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+5311,1.0,2.0,1.0,2.0,1.0,2.0,Faisal Town,Faisal Town Phase 1,0,1.0,5.0,1.0,5.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+753,1.0,2.0,1.0,1.0,1.0,0.0,G-11,G-11,0,1.0,1.0,1.0,1.0,1.0,Future,Ground/First Floor,Ground/Flat,Single/None
+3823,2.0,4.0,2.0,0.0,1.0,1.0,H-13,H-13,0,1.0,1.0,1.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+1966,2.0,4.0,2.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,0,1.0,4.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+5375,4.0,12.0,3.0,0.0,1.0,0.0,F-11,F-11,0,1.0,1.0,1.0,16.0,1.0,Modern Era,Ground/First Floor,High Rise,Single/None
+360,1.0,5.0,1.0,1.0,1.0,1.0,The Centaurus,F-8,0,1.0,2.0,4.0,3.0,1.0,Recently Built,Lower Floors,Lower Levels,Multiple Bank
+6085,1.0,2.0,1.0,1.0,1.0,1.0,Soan Garden,Soan Garden,0,2.0,1.0,1.0,6.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+4075,2.0,6.0,2.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,8.0,4.0,15.0,0.0,Future,Mid-Level,High Rise,Multiple Bank
+4734,4.0,7.0,4.0,1.0,1.0,1.0,I-16,I-16,1,1.0,1.0,2.0,7.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+6273,2.0,5.0,2.0,0.0,1.0,0.0,Gulberg Greens,Gulberg Greens,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+1584,2.0,4.0,2.0,1.0,1.0,1.0,Faisal Margalla City,B-17,0,1.0,8.0,1.0,16.0,0.0,Brand New (2025),Mid-Level,High Rise,Single/None
+452,3.0,8.0,2.0,1.0,1.0,0.0,Skypark One,Gulberg Greens,0,1.0,5.0,1.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+5612,5.0,13.0,4.0,1.0,1.0,1.0,Askari Tower 1,DHA Phase 2,0,1.0,1.0,2.0,8.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Dual Setup
+3699,4.0,13.0,4.0,1.0,1.0,1.0,Askari Heights 4,DHA Phase 5,0,1.0,1.0,3.0,12.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+5405,4.0,16.0,4.0,1.0,1.0,1.0,Savoy Residence,F-11,0,2.0,1.0,4.0,5.0,1.0,Modern Era,Ground/First Floor,Mid Rise Core,Multiple Bank
+2099,1.0,2.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,0,3.0,6.0,1.0,7.0,0.0,Brand New (2025),Mid-Level,Mid Rise Core,Single/None
+5402,1.0,5.0,1.0,1.0,1.0,0.0,Diplomatic Enclave,Diplomatic Enclave,0,1.0,1.0,1.0,11.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+3372,5.0,12.0,4.0,1.0,1.0,1.0,Sukh Chayn Residence,F-10,0,2.0,9.0,4.0,12.0,1.0,Brand New (2025),Mid-Level,Mid Rise Core,Multiple Bank
+3001,2.0,7.0,2.0,0.0,1.0,0.0,Diplomatic Enclave,Diplomatic Enclave,0,1.0,1.0,2.0,8.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+4538,3.0,7.0,2.0,1.0,1.0,1.0,Skypark One,Gulberg Greens,0,4.0,5.0,8.0,9.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,High-Capacity
+1239,2.0,3.0,2.0,1.0,1.0,1.0,G-11,G-11,0,2.0,2.0,3.0,3.0,0.0,Brand New (2025),Lower Floors,Lower Levels,Multiple Bank
+3965,3.0,8.0,3.0,2.0,2.0,1.0,E-11,E-11,0,4.0,1.0,1.0,5.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+4207,2.0,4.0,2.0,2.0,1.0,2.0,Al-Ghurair Giga,Al-Ghurair Giga,0,2.0,1.0,2.0,10.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Dual Setup
+2079,2.0,5.0,2.0,1.0,1.0,1.0,MPCHS,B-17,1,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+4284,3.0,7.0,2.0,1.0,1.0,1.0,Karakoram Greens,Gulberg Greens,0,3.0,9.0,5.0,17.0,0.0,Brand New (2025),Mid-Level,High Rise,High-Capacity
+4726,2.0,4.0,2.0,1.0,1.0,1.0,I-12,I-12,1,1.0,1.0,2.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+5305,3.0,10.0,3.0,1.0,2.0,1.0,F-10,F-10,0,4.0,1.0,1.0,1.0,1.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+4618,1.0,2.0,1.0,1.0,1.0,1.0,DHA Phase 3,DHA Phase 3,1,1.0,1.0,1.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+2727,2.0,3.0,2.0,0.0,1.0,0.0,G-11,G-11,0,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+1991,2.0,4.0,2.0,0.0,1.0,1.0,I-12,I-12,0,1.0,3.0,1.0,10.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Single/None
+6453,2.0,4.0,2.0,1.0,1.0,2.0,Top City 1,Top City 1,0,1.0,5.0,1.0,6.0,1.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+4509,2.0,4.0,2.0,1.0,1.0,1.0,I-16,I-16,0,2.0,1.0,2.0,6.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+2717,2.0,7.0,2.0,0.0,1.0,0.0,G-11,G-11,0,1.0,1.0,3.0,10.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+4640,2.0,7.0,2.0,1.0,1.0,1.0,Top City 1,Top City 1,0,1.0,3.0,2.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+1962,2.0,7.0,2.0,3.0,1.0,2.0,The Arch,G-11,0,2.0,1.0,2.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Dual Setup
+6221,2.0,4.0,2.0,1.0,1.0,1.0,Faisal Town,Faisal Town Phase 1,0,1.0,5.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+5306,4.0,18.0,4.0,1.0,2.0,1.0,F-11,F-11,0,2.0,3.0,1.0,5.0,1.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+2183,3.0,12.0,3.0,0.0,1.0,0.0,F-10,F-10,0,1.0,4.0,1.0,21.0,1.0,Brand New (2025),Lower Floors,High Rise,Single/None
+2890,2.0,5.0,2.0,1.0,1.0,1.0,Luxus Mall and Residency,Gulberg Greens,0,2.0,7.0,1.0,8.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Single/None
+6053,2.0,5.0,1.0,1.0,1.0,1.0,Eighteen,Kashmir Highway,0,3.0,5.0,1.0,10.0,1.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+5072,2.0,5.0,2.0,1.0,1.0,1.0,Faisal Town,Faisal Town Phase 1,0,2.0,5.0,1.0,5.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+3122,3.0,12.0,3.0,0.0,1.0,0.0,F-11,F-11,0,1.0,1.0,1.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+3573,2.0,7.0,2.0,1.0,1.0,1.0,G-11,G-11,0,4.0,1.0,3.0,10.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+1328,3.0,7.0,2.0,0.0,1.0,1.0,Eighteen,Kashmir Highway,0,1.0,1.0,1.0,1.0,1.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+1058,1.0,3.0,1.0,1.0,1.0,1.0,Top City 1,Top City 1,1,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+2817,2.0,6.0,2.0,1.0,1.0,1.0,Mall of Islamabad,Blue Area,0,1.0,18.0,4.0,24.0,1.0,Brand New (2025),High-Rise,High Rise,Multiple Bank
+1311,1.0,3.0,1.0,1.0,1.0,1.0,Gulberg Heights,Gulberg Greens,0,1.0,1.0,1.0,6.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+5030,1.0,2.0,1.0,1.0,1.0,1.0,Bahria Enclave,Bahria Enclave,1,1.0,1.0,1.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2119,3.0,9.0,3.0,1.0,1.0,1.0,MPCHS,B-17,1,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2561,1.0,1.0,1.0,0.0,1.0,0.0,Faisal Town,Faisal Town Phase 1,0,1.0,3.0,1.0,3.0,0.0,Modern Era,Lower Floors,Lower Levels,Single/None
+6226,1.0,3.0,1.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,0,4.0,2.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+5627,1.0,5.0,1.0,0.0,1.0,1.0,Mumtaz City,Mumtaz City,0,1.0,8.0,1.0,1.0,0.0,Brand New (2025),Mid-Level,Ground/Flat,Single/None
+2371,3.0,5.0,2.0,1.0,2.0,3.0,Cube Apartments,Bahria Enclave,0,1.0,1.0,4.0,9.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Multiple Bank
+683,2.0,8.0,2.0,1.0,1.0,1.0,Diplomatic Enclave,Diplomatic Enclave,0,1.0,1.0,1.0,11.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+6009,4.0,8.0,4.0,1.0,1.0,1.0,Diamond Mall & Residency,Gulberg Greens,0,2.0,4.0,4.0,8.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Multiple Bank
+1960,3.0,6.0,3.0,1.0,1.0,1.0,Al-Ghurair Giga,Al-Ghurair Giga,1,1.0,1.0,2.0,10.0,0.0,Future,Ground/First Floor,Mid Rise Core,Dual Setup
+381,1.0,2.0,1.0,1.0,1.0,1.0,E-11,E-11,0,1.0,1.0,1.0,5.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+4460,3.0,9.0,3.0,1.0,1.0,1.0,Warda Hamna Residencia,G-11,0,1.0,5.0,2.0,6.0,1.0,Recently Built,Lower Floors,Mid Rise Core,Dual Setup
+6152,2.0,4.0,2.0,1.0,1.0,1.0,I-12,I-12,1,1.0,1.0,1.0,10.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+1537,3.0,8.0,3.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,4.0,3.0,8.0,9.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,High-Capacity
+6440,3.0,7.0,4.0,1.0,1.0,1.0,D-17,D-17,0,1.0,1.0,1.0,2.0,0.0,Modern Era,Ground/First Floor,Lower Levels,Single/None
+3706,2.0,6.0,2.0,2.0,1.0,1.0,Silver Oaks Apartments,F-10,0,1.0,1.0,1.0,25.0,1.0,Brand New (2025),Ground/First Floor,High Rise,Single/None
+1087,1.0,4.0,1.0,1.0,1.0,2.0,Gulberg Greens,Gulberg Greens,0,1.0,1.0,1.0,8.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+1165,3.0,6.0,3.0,1.0,1.0,1.0,DHA Phase 2,DHA Phase 2,0,1.0,1.0,4.0,17.0,0.0,Recently Built,Ground/First Floor,High Rise,Multiple Bank
+6427,2.0,4.0,2.0,1.0,1.0,1.0,B-17,B-17,0,1.0,10.0,1.0,20.0,0.0,Recently Built,Mid-Level,High Rise,Single/None
+1511,2.0,4.0,2.0,1.0,1.0,1.0,I-12,I-12,0,1.0,1.0,2.0,9.0,0.0,Future,Ground/First Floor,Mid Rise Core,Dual Setup
+288,1.0,3.0,1.0,1.0,1.0,1.0,Bahria Enclave,Bahria Town,0,1.0,3.0,1.0,5.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+5282,2.0,8.0,2.0,0.0,1.0,0.0,F-11,F-11,0,1.0,1.0,1.0,8.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+4669,2.0,3.0,2.0,1.0,1.0,1.0,G-11,G-11,0,1.0,1.0,3.0,3.0,1.0,Established,Ground/First Floor,Lower Levels,Multiple Bank
+3750,3.0,6.0,3.0,1.0,1.0,1.0,Faisal Hills,Faisal Hills,0,4.0,3.0,3.0,6.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Multiple Bank
+4069,2.0,3.0,2.0,1.0,1.0,1.0,G-11,G-11,1,1.0,1.0,3.0,10.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+2559,2.0,4.0,2.0,1.0,1.0,1.0,MPCHS,MPCHS - Multi Gardens,0,1.0,1.0,1.0,8.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+4727,2.0,4.0,2.0,1.0,1.0,1.0,I-12,I-12,1,1.0,1.0,2.0,9.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Dual Setup
+3439,2.0,3.0,2.0,1.0,1.0,1.0,G-11,G-11,0,4.0,1.0,1.0,10.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+874,1.0,4.0,1.0,1.0,1.0,1.0,Blue Area,Blue Area,0,1.0,1.0,3.0,6.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+461,3.0,6.0,2.0,2.0,2.0,2.0,PAF Tarnol,PAF Tarnol,0,4.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+5222,2.0,5.0,2.0,0.0,1.0,0.0,Faisal Town,Faisal Town Phase 1,0,1.0,1.0,1.0,5.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+2839,4.0,7.0,3.0,1.0,1.0,1.0,Residency,DHA Phase 2,0,1.0,1.0,2.0,7.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Dual Setup
+2681,1.0,9.0,2.0,1.0,1.0,1.0,Sukh Chayn Residence,F-10,0,2.0,4.0,8.0,11.0,1.0,Brand New (2025),Lower Floors,Mid Rise Core,High-Capacity
+667,2.0,6.0,3.0,2.0,1.0,2.0,Zara Heights,H-13,0,1.0,7.0,1.0,9.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Single/None
+4419,1.0,3.0,1.0,2.0,2.0,2.0,E-11,E-11,0,1.0,2.0,1.0,4.0,0.0,Recently Built,Lower Floors,Lower Levels,Single/None
+3262,3.0,5.0,3.0,1.0,1.0,1.0,Soan Garden,Soan Garden,0,1.0,1.0,1.0,6.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+3089,1.0,4.0,1.0,1.0,1.0,1.0,B-17,B-17,0,1.0,8.0,1.0,8.0,0.0,Brand New (2025),Mid-Level,Mid Rise Core,Single/None
+4887,3.0,6.0,3.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,2.0,2.0,1.0,4.0,0.0,Recently Built,Lower Floors,Lower Levels,Single/None
+89,2.0,3.0,2.0,1.0,1.0,1.0,E-11,E-11,0,2.0,2.0,1.0,4.0,0.0,Modern Era,Lower Floors,Lower Levels,Single/None
+1765,1.0,3.0,1.0,0.0,2.0,1.0,Top City 1,Top City 1,0,1.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+4274,3.0,9.0,3.0,1.0,1.0,1.0,Capital Residencia,Margalla Hills-2,0,4.0,8.0,2.0,13.0,0.0,Recently Built,Mid-Level,High Rise,Dual Setup
+1144,2.0,14.0,2.0,1.0,1.0,1.0,F-10,F-10,0,3.0,32.0,10.0,32.0,1.0,Brand New (2025),High-Rise,Skyscarper,High-Capacity
+5017,2.0,4.0,2.0,1.0,2.0,1.0,I-16,I-16,0,4.0,2.0,2.0,3.0,0.0,Recently Built,Lower Floors,Lower Levels,Dual Setup
+1774,2.0,4.0,2.0,1.0,1.0,1.0,Residency,DHA Phase 2,0,1.0,1.0,2.0,7.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Dual Setup
+4688,2.0,3.0,2.0,1.0,1.0,0.0,G-15,G-15,0,1.0,1.0,1.0,5.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+2056,3.0,12.0,3.0,1.0,1.0,1.0,Askari Tower 1,DHA Phase 2,0,1.0,7.0,2.0,7.0,0.0,Modern Era,Mid-Level,Mid Rise Core,Dual Setup
+5028,2.0,3.0,2.0,1.0,1.0,1.0,G-11,G-11,0,1.0,1.0,2.0,10.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Dual Setup
+153,2.0,4.0,2.0,0.0,2.0,0.0,Residency,DHA Phase 2,0,1.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+2532,2.0,4.0,2.0,1.0,1.0,1.0,Ghauri Town,Ghauri Town,0,1.0,4.0,2.0,7.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+819,3.0,8.0,2.0,0.0,1.0,1.0,Zeta-1 Mall,GT Road,0,1.0,1.0,1.0,8.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+1807,3.0,7.0,3.0,1.0,1.0,1.0,Meher Apartments,H-12,1,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+5942,3.0,6.0,3.0,1.0,1.0,0.0,Madina Tower,E-11,0,1.0,1.0,1.0,10.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+3005,2.0,7.0,2.0,1.0,1.0,1.0,Diplomatic Enclave,Diplomatic Enclave,0,1.0,1.0,1.0,11.0,1.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+846,4.0,13.0,3.0,0.0,1.0,0.0,B-17,B-17,0,1.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+2216,2.0,6.0,2.0,1.0,1.0,1.0,Faisal Town,Faisal Town Phase 1,0,1.0,2.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+1325,3.0,11.0,3.0,0.0,1.0,0.0,B-17,B-17,0,1.0,1.0,1.0,1.0,0.0,Brand New (2025),Ground/First Floor,Ground/Flat,Single/None
+6338,4.0,7.0,3.0,1.0,1.0,1.0,Residency,DHA Phase 2,1,1.0,1.0,1.0,1.0,0.0,Recently Built,Ground/First Floor,Ground/Flat,Single/None
+3350,1.0,2.0,1.0,0.0,1.0,0.0,Gulberg Greens,Gulberg Greens,0,1.0,1.0,2.0,8.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+6281,2.0,4.0,2.0,1.0,1.0,1.0,Bahria Enclave,Bahria Town,1,1.0,1.0,1.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+1416,1.0,2.0,1.0,0.0,1.0,0.0,DHA Phase 1,DHA Phase 1,0,1.0,3.0,1.0,5.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Single/None
+566,2.0,6.0,2.0,1.0,1.0,1.0,Goldcrest Highlife,DHA Phase 2,0,1.0,3.0,5.0,34.0,0.0,Future,Lower Floors,Skyscarper,High-Capacity
+1516,1.0,2.0,1.0,1.0,1.0,1.0,Gulberg Greens,Gulberg Greens,0,1.0,3.0,2.0,6.0,0.0,Modern Era,Lower Floors,Mid Rise Core,Dual Setup
+370,1.0,3.0,1.0,0.0,1.0,1.0,Top City 1,Top City 1,0,1.0,7.0,3.0,13.0,0.0,Recently Built,Mid-Level,High Rise,Multiple Bank
+224,3.0,8.0,2.0,1.0,1.0,1.0,Park View City,Park View City,1,1.0,1.0,1.0,4.0,1.0,Recently Built,Ground/First Floor,Lower Levels,Single/None
+1913,1.0,2.0,1.0,1.0,1.0,1.0,Faisal Town Phase 1,Faisal Town Phase 1,0,1.0,3.0,1.0,7.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+591,2.0,3.0,2.0,1.0,1.0,1.0,G-11,G-11,0,1.0,1.0,3.0,10.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+3787,1.0,2.0,1.0,0.0,1.0,0.0,B-17,B-17,0,1.0,1.0,1.0,6.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+5550,2.0,8.0,2.0,1.0,1.0,2.0,F-11,F-11,0,1.0,1.0,1.0,6.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Single/None
+5591,2.0,6.0,2.0,1.0,1.0,1.0,Zarkon Heights,G-15,0,3.0,3.0,1.0,12.0,0.0,Recently Built,Lower Floors,Mid Rise Core,Single/None
+5232,2.0,6.0,2.0,1.0,1.0,1.0,Silver Oaks Apartments,F-10,0,3.0,1.0,5.0,1.0,1.0,Modern Era,Ground/First Floor,Ground/Flat,High-Capacity
+2001,2.0,4.0,2.0,2.0,2.0,2.0,Whispering Pines,Pir Sohawa,0,4.0,1.0,1.0,8.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Single/None
+685,3.0,9.0,3.0,1.0,1.0,1.0,Sukh Chayn Residence,F-10,0,1.0,1.0,3.0,12.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+2907,1.0,3.0,1.0,0.0,1.0,0.0,Luxus Mall and Residency,Gulberg Greens,0,1.0,7.0,1.0,7.0,0.0,Recently Built,Mid-Level,Mid Rise Core,Single/None
+2153,2.0,6.0,3.0,1.0,1.0,1.0,I-8,I-8,1,1.0,1.0,1.0,2.0,0.0,Recently Built,Ground/First Floor,Lower Levels,Single/None
+4396,4.0,12.0,3.0,0.0,2.0,0.0,Askari Heights 4,DHA Phase 5,0,1.0,1.0,1.0,12.0,0.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Single/None
+2064,2.0,10.0,2.0,4.0,1.0,1.0,New Blue Area,New Blue Area,0,2.0,9.0,6.0,29.0,1.0,Brand New (2025),Mid-Level,Skyscarper,High-Capacity
+1467,2.0,3.0,1.0,1.0,1.0,1.0,Al-Ghurair Giga,Al-Ghurair Giga,0,1.0,3.0,2.0,10.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Dual Setup
+4413,2.0,4.0,2.0,2.0,1.0,1.0,I-12,I-12,0,4.0,3.0,2.0,10.0,0.0,Brand New (2025),Lower Floors,Mid Rise Core,Dual Setup
+6341,1.0,4.0,1.0,1.0,1.0,1.0,Executive Apartments,DHA Phase 2,1,1.0,1.0,1.0,20.0,0.0,Recently Built,Ground/First Floor,High Rise,Single/None
+4690,2.0,4.0,2.0,1.0,1.0,1.0,I-12,I-12,0,3.0,1.0,2.0,9.0,0.0,Modern Era,Ground/First Floor,Mid Rise Core,Dual Setup
+4475,3.0,7.0,1.0,1.0,1.0,2.0,The Centaurus,F-8,0,1.0,1.0,4.0,7.0,1.0,Recently Built,Ground/First Floor,Mid Rise Core,Multiple Bank
+3839,3.0,8.0,3.0,1.0,1.0,1.0,Capital Residencia,Margalla Hills-2,1,1.0,1.0,2.0,15.0,0.0,Recently Built,Ground/First Floor,High Rise,Dual Setup
+3490,2.0,3.0,2.0,1.0,2.0,1.0,G-11,G-11,0,3.0,1.0,3.0,10.0,1.0,Brand New (2025),Ground/First Floor,Mid Rise Core,Multiple Bank
+988,1.0,4.0,1.0,1.0,2.0,1.0,F-11,F-11,0,1.0,6.0,3.0,14.0,0.0,Modern Era,Mid-Level,High Rise,Multiple Bank
+4612,2.0,4.0,2.0,1.0,2.0,0.0,I-12,I-12,0,1.0,1.0,2.0,9.0,0.0,Recently Built,Ground/First Floor,Mid Rise Core,Dual Setup
+1248,1.0,2.0,1.0,1.0,1.0,1.0,Islamabad Expressway,Islamabad Expressway,0,2.0,12.0,4.0,25.0,1.0,Recently Built,High-Rise,High Rise,Multiple Bank
+1792,2.0,6.0,2.0,1.0,1.0,1.0,G-11,G-11,0,1.0,5.0,10.0,10.0,1.0,Brand New (2025),Lower Floors,Mid Rise Core,High-Capacity

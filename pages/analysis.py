@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-flats = pd.read_csv('../Missing Values Imputation/flats.csv',index_col=0)
-houses = pd.read_csv('../Missing Values Imputation/houses.csv',index_col=0)
+flats = pd.read_csv('flats.csv',index_col=0)
+houses = pd.read_csv('houses.csv',index_col=0)
 
 flats_coord = pd.read_csv('flats_lat_long.csv',index_col=0)
 houses_coord = pd.read_csv('houses_lat_long.csv',index_col=0)

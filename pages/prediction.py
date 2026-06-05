@@ -5,15 +5,15 @@ import joblib
 import __main__
 
 
-X_train = pd.read_csv('../Missing Values Imputation/Flats/X_train.csv',index_col=0).drop(columns=['Price per Unit','Elevators','Floor in Building','Floor','Store Rooms','luxury_type','Building Type'])
-X_test = pd.read_csv('../Missing Values Imputation/Flats/X_test.csv',index_col=0).drop(columns=['Price per Unit','Elevators','Floor in Building','Floor','Store Rooms','luxury_type','Building Type'])
-y_train = pd.read_csv('../Missing Values Imputation/Flats/y_train.csv',index_col=0)
-y_test = pd.read_csv('../Missing Values Imputation/Flats/y_test.csv',index_col=0)
+X_train = pd.read_csv('Flats/X_train.csv',index_col=0).drop(columns=['Price per Unit','Elevators','Floor in Building','Floor','Store Rooms','luxury_type','Building Type'])
+X_test = pd.read_csv('Flats/X_test.csv',index_col=0).drop(columns=['Price per Unit','Elevators','Floor in Building','Floor','Store Rooms','luxury_type','Building Type'])
+y_train = pd.read_csv('Flats/y_train.csv',index_col=0)
+y_test = pd.read_csv('Flats/y_test.csv',index_col=0)
 
-X_train_houses = pd.read_csv('../Missing Values Imputation/Houses/X_train.csv',index_col=0)
-X_test_houses = pd.read_csv('../Missing Values Imputation/Houses/X_test.csv',index_col=0)
-y_train_houses = pd.read_csv('../Missing Values Imputation/Houses/y_train.csv',index_col=0)
-y_test_houses = pd.read_csv('../Missing Values Imputation/Houses/y_test.csv',index_col=0)
+X_train_houses = pd.read_csv('Houses/X_train.csv',index_col=0)
+X_test_houses = pd.read_csv('Houses/X_test.csv',index_col=0)
+y_train_houses = pd.read_csv('Houses/y_train.csv',index_col=0)
+y_test_houses = pd.read_csv('Houses/y_test.csv',index_col=0)
 
 
 

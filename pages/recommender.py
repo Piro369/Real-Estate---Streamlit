@@ -9,8 +9,8 @@ from sklearn.preprocessing import MinMaxScaler
 st.title("Property Recommendations")
 # Add your recommendation logic here later
 
-flats = pd.read_csv('../Missing Values Imputation/flats.csv',index_col=0)
-houses = pd.read_csv('../Missing Values Imputation/houses.csv',index_col=0)
+flats = pd.read_csv('flats.csv',index_col=0)
+houses = pd.read_csv('houses.csv',index_col=0)
 
 
 property_type = st.radio("Select Property Type",['House','Flat'])
