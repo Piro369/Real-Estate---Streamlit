@@ -137,7 +137,7 @@ if property_type == 'Flat':
         valid_locations = X_train[X_train['Main Location'] == main_location]['Building'].unique()
         building = st.selectbox("Building", valid_locations)
 
-        area = st.number_input("Area (Marla)", min_value=1.0, max_value=30.0,step=0.1)
+        area = st.slider("Area (Marla)", min_value=1.0, max_value=X_train['Area(Marla)'].max(),step=0.1)
         beds = st.number_input("Bedrooms", min_value=X_train['Bedroom(s)'].min(), max_value=X_train['Bedroom(s)'].max(),step=1.0)
         baths = st.number_input("Bathrooms",min_value=X_train['Bath(s)'].min(), max_value=X_train['Bath(s)'].max(), step=1.0)
 
@@ -184,7 +184,7 @@ elif property_type == "House":
 
         main_location = st.selectbox("Main Location", X_train_houses['Main Location'].value_counts().index)
 
-        area = st.number_input("Area (Marla)", min_value=1.0, max_value=X_train_houses['Area(Marla)'].max(),step=0.1)
+        area = st.slider("Area (Marla)", min_value=1.0, max_value=X_train_houses[X_train_houses['Main Location']==main_location]['Area(Marla)'].max(),step=0.1)
         beds = st.number_input("Bedrooms", min_value=X_train_houses['Bedroom(s)'].min(), max_value=X_train['Bedroom(s)'].max(),step=1.0)
         baths = st.number_input("Bathrooms",min_value=X_train_houses['Bath(s)'].min(), max_value=X_train['Bath(s)'].max(), step=1.0)
 
